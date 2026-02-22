@@ -144,16 +144,8 @@ async function importFromChainlist(): Promise<void> {
 				isPublic: true,
 			}));
 
-		// Deduplicate by URL
-		const seen = new Set<string>();
-		const uniqueEndpoints = endpoints.filter((ep) => {
-			if (seen.has(ep.url)) return false;
-			seen.add(ep.url);
-			return true;
-		});
-
 		// Sort: prefer tracking "none" first, then by provider name
-		uniqueEndpoints.sort((a, b) => {
+		endpoints.sort((a, b) => {
 			const trackingOrder = { none: 0, limited: 1, unspecified: 2, yes: 3 };
 			const aOrder =
 				trackingOrder[a.tracking as keyof typeof trackingOrder] ?? 2;
@@ -167,15 +159,13 @@ async function importFromChainlist(): Promise<void> {
 		const output = {
 			networkId,
 			updatedAt: new Date().toISOString().split("T")[0],
-			endpoints: uniqueEndpoints,
+			endpoints,
 		};
 
 		const filePath = path.join(RPCS_DIR, `${chainId}.json`);
 		fs.writeFileSync(filePath, `${JSON.stringify(output, null, 2)}\n`);
-		const dupes = endpoints.length - uniqueEndpoints.length;
-		const dupeNote = dupes > 0 ? ` (${dupes} duplicates removed)` : "";
 		console.log(
-			`  Chain ${chainId} (${network.name}): Imported ${uniqueEndpoints.length} endpoints${dupeNote}`,
+			`  Chain ${chainId} (${network.name}): Imported ${endpoints.length} endpoints`,
 		);
 	}
 
