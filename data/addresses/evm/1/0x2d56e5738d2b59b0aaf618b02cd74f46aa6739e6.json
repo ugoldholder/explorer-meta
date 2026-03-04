@@ -1,6 +1,0 @@
-{
-	"address": "0x2d56e5738d2b59b0aaf618b02cd74f46aa6739e6",
-	"chainId": 1,
-	"label": "Uniswap v2: Plonk/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

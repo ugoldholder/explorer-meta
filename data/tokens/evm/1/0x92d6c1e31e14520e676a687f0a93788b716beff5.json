@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "dYdX",
 	"symbol": "DYDX",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "dYdX: DYDX Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://dydx.exchange/"
-		}
-	]
+	"decimals": 18
 }

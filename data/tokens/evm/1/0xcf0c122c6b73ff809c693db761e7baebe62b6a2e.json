@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "FLOKI",
 	"symbol": "FLOKI",
-	"decimals": 9,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Floki: FLOKI Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://floki.com/"
-		}
-	]
+	"decimals": 9
 }

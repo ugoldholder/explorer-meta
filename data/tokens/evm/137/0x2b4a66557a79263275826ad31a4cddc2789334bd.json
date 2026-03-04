@@ -4,6 +4,5 @@
 	"type": "ERC721",
 	"name": "Sunflower Land",
 	"symbol": "SFL",
-	"decimals": 0,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 0
 }

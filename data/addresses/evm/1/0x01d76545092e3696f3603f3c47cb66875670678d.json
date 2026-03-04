@@ -1,6 +1,0 @@
-{
-	"address": "0x01d76545092e3696f3603f3c47cb66875670678d",
-	"chainId": 1,
-	"label": "Uniswap v2: WETH/BITFUZZ Pair",
-	"source": ["kleros", "2026-03-03"]
-}

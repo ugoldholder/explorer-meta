@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Kyber Network Crystal v2",
 	"symbol": "KNC",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Kyber Network: KNC Token V2"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://kyber.network/"
-		}
-	]
+	"decimals": 18
 }

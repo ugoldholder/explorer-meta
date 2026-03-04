@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "Dai Stablecoin",
 	"symbol": "DAI",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Dai"
-	}
+	"decimals": 18
 }

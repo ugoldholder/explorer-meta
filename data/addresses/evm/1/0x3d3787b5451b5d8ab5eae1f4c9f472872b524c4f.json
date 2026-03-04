@@ -1,6 +1,0 @@
-{
-	"address": "0x3d3787b5451b5d8ab5eae1f4c9f472872b524c4f",
-	"chainId": 1,
-	"label": "Uniswap v2: Plutus/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

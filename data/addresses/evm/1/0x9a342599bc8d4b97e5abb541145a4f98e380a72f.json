@@ -1,6 +1,0 @@
-{
-	"address": "0x9a342599bc8d4b97e5abb541145a4f98e380a72f",
-	"chainId": 1,
-	"label": "Uniswap v2: WETH/$ORCL Pair",
-	"source": ["kleros", "2026-03-03"]
-}

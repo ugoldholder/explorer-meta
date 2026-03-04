@@ -33,6 +33,5 @@
 			"description": "OpenScan Twitter"
 		}
 	],
-	"tags": ["explorer", "infrastructure", "open-source"],
-	"source": ["openscan", "2026-03-03"]
+	"tags": ["explorer", "infrastructure", "open-source"]
 }

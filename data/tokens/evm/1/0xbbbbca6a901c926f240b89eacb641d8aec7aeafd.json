@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Loopring",
 	"symbol": "LRC",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Loopring: LRC V2 Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://loopring.org/"
-		}
-	]
+	"decimals": 18
 }

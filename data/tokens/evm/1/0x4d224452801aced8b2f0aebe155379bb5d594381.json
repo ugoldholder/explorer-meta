@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "ApeCoin",
 	"symbol": "APE",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Apecoin: APE Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://apecoin.com/"
-		}
-	]
+	"decimals": 18
 }

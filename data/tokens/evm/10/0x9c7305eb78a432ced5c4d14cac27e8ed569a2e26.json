@@ -4,6 +4,5 @@
 	"type": "ERC721",
 	"name": "Velodrome veNFT",
 	"symbol": "veNFT",
-	"decimals": 0,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 0
 }

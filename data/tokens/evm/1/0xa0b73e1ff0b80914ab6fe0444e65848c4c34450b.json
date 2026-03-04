@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Cronos Coin",
 	"symbol": "CRO",
-	"decimals": 8,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Crypto.com: CRO Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://crypto.com/"
-		}
-	]
+	"decimals": 8
 }

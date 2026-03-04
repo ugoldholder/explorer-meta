@@ -5,15 +5,5 @@
 	"name": "CryptoPunks",
 	"symbol": "PUNK",
 	"decimals": 0,
-	"totalSupply": 10000,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "CryptoPunks: Ͼ Token V2"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://cryptopunks.app/"
-		}
-	]
+	"totalSupply": 10000
 }

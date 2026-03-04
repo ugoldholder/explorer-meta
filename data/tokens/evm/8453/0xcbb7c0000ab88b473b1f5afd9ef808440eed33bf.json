@@ -3,6 +3,5 @@
 	"chainId": 8453,
 	"name": "Coinbase Wrapped BTC",
 	"symbol": "cbBTC",
-	"decimals": 8,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 8
 }

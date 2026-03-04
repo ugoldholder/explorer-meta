@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Ethereum Name Service",
 	"symbol": "ENS",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "ENS: ENS Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://ens.domains/"
-		}
-	]
+	"decimals": 18
 }

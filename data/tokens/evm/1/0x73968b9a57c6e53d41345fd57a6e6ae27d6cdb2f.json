@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "Stake DAO CRV",
 	"symbol": "sdCRV",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Stake DAO"
-	}
+	"decimals": 18
 }

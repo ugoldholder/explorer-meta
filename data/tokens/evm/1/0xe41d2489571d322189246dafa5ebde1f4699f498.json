@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "ZRX",
 	"symbol": "ZRX",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "0x: ZRX Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://www.0x.org/"
-		}
-	]
+	"decimals": 18
 }

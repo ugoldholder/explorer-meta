@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "USDe",
 	"symbol": "USDe",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Ethena: USDe Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://www.ethena.fi/"
-		}
-	]
+	"decimals": 18
 }

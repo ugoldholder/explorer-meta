@@ -1,6 +1,0 @@
-{
-	"address": "0x06eb857c264fd5a47e2540bb5b709a3c9e142519",
-	"chainId": 1,
-	"label": "Uniswap v2: WETH/Remote Procedure Proxy Pair",
-	"source": ["kleros", "2026-03-03"]
-}

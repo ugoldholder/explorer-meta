@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "DUSK Network",
 	"symbol": "DUSK",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Dusk Network: DUSK Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://dusk.network/"
-		}
-	]
+	"decimals": 18
 }

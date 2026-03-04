@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Enjin Coin",
 	"symbol": "ENJ",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Enjin: ENJ Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://enjin.io/"
-		}
-	]
+	"decimals": 18
 }

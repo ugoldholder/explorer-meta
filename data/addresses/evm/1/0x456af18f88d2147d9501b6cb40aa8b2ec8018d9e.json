@@ -1,6 +1,0 @@
-{
-	"address": "0x456af18f88d2147d9501b6cb40aa8b2ec8018d9e",
-	"chainId": 1,
-	"label": "Uniswap v2: GASM/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

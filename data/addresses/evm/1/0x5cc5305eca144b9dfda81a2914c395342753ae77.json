@@ -1,6 +1,0 @@
-{
-	"address": "0x5cc5305eca144b9dfda81a2914c395342753ae77",
-	"chainId": 1,
-	"label": "Uniswap v2: Despend/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

@@ -1,6 +1,0 @@
-{
-	"address": "0x8946a183bfafa95becf57c5e08fe5b7654d2807b",
-	"chainId": 1,
-	"label": "Chainlink: XAG / USD Aggregator",
-	"source": ["kleros", "2026-03-03"]
-}

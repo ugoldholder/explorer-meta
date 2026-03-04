@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "mETH",
 	"symbol": "mETH",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Mantle: mETH Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://meth.mantle.xyz/stake"
-		}
-	]
+	"decimals": 18
 }

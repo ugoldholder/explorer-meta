@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Pendle",
 	"symbol": "PENDLE",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Pendle: PENDLE Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://www.pendle.finance/"
-		}
-	]
+	"decimals": 18
 }

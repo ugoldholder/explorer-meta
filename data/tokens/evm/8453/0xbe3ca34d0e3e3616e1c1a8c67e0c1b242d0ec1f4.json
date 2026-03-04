@@ -3,6 +3,5 @@
 	"chainId": 8453,
 	"name": "SPX6900",
 	"symbol": "SPX",
-	"decimals": 8,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 8
 }

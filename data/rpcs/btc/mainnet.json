@@ -30,6 +30,5 @@
 			"provider": "dRPC",
 			"isPublic": true
 		}
-	],
-	"source": ["openscan", "2026-03-03"]
+	]
 }

@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Frax Ether",
 	"symbol": "frxETH",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Frax Finance: Frax Ether Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://app.frax.finance/frxeth/mint"
-		}
-	]
+	"decimals": 18
 }

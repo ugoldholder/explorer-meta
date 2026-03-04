@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "Spell Token",
 	"symbol": "SPELL",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Spell"
-	}
+	"decimals": 18
 }

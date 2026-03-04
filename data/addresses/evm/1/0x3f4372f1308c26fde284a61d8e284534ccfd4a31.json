@@ -1,6 +1,0 @@
-{
-	"address": "0x3f4372f1308c26fde284a61d8e284534ccfd4a31",
-	"chainId": 1,
-	"label": "Uniswap v2: ratelimit/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

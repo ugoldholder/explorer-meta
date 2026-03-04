@@ -1,6 +1,0 @@
-{
-	"address": "0x3dc6311ded3762b4ca0ed9f45b351b96d1ab16bc",
-	"chainId": 1,
-	"label": "Uniswap v2: Ban/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

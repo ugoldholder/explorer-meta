@@ -1,6 +1,0 @@
-{
-	"address": "0x24831005acf9dc9c6eb273865e72737b31fde815",
-	"chainId": 1,
-	"label": "Uniswap v2: RBF Shib/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "WOO Network",
 	"symbol": "WOO",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Woo Network: WOO Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://woo.org/"
-		}
-	]
+	"decimals": 18
 }

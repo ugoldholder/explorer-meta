@@ -1,6 +1,0 @@
-{
-	"address": "0x035d51b1cb26f626891045c0a7e875d048278194",
-	"chainId": 1,
-	"label": "Uniswap v2: Laravel/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

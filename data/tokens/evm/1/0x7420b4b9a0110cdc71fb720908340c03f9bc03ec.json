@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "JasmyCoin",
 	"symbol": "JASMY",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Jasmy: JASMY Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://www.jasmy.co.jp/en.html"
-		}
-	]
+	"decimals": 18
 }

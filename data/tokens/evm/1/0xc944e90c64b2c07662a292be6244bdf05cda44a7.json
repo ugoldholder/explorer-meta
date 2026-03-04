@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Graph Token",
 	"symbol": "GRT",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "The Graph: GRT Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://thegraph.com/en/"
-		}
-	]
+	"decimals": 18
 }

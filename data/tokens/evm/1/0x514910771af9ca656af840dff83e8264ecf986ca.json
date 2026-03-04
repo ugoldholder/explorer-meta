@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "ChainLink Token",
 	"symbol": "LINK",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Chainlink: LINK Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://chain.link/"
-		}
-	]
+	"decimals": 18
 }
