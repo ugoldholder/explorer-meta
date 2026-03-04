@@ -3,6 +3,5 @@
 	"chainId": 42161,
 	"name": "USD Coin",
 	"symbol": "USDC",
-	"decimals": 6,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 6
 }

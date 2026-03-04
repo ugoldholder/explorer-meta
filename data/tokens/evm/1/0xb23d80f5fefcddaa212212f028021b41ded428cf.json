@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "Prime",
 	"symbol": "PRIME",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Echelon Prime"
-	}
+	"decimals": 18
 }

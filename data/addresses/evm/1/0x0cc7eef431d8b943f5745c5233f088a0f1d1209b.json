@@ -1,6 +1,0 @@
-{
-	"address": "0x0cc7eef431d8b943f5745c5233f088a0f1d1209b",
-	"chainId": 1,
-	"label": "Uniswap v2: Cartridge/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

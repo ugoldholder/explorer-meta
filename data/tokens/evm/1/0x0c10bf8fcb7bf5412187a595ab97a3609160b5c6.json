@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "Decentralized USD",
 	"symbol": "USDD",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Decentralized USD"
-	}
+	"decimals": 18
 }

@@ -1,6 +1,0 @@
-{
-	"address": "0x0821f21f21c325ae39557ca83b6b4df525495d06",
-	"chainId": 1,
-	"label": "Chainlink: BNB / USD Aggregator",
-	"source": ["kleros", "2026-03-03"]
-}

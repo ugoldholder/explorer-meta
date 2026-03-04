@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Arbitrum",
 	"symbol": "ARB",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Arbitrum: ARB Token Proxy"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://arbitrum.foundation/"
-		}
-	]
+	"decimals": 18
 }

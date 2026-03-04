@@ -1,6 +1,0 @@
-{
-	"address": "0xf0d54349addcf704f77ae15b96510dea15cb7952",
-	"chainId": 1,
-	"label": "Chainlink: VRF Coordinator V1",
-	"source": ["kleros", "2026-03-03"]
-}

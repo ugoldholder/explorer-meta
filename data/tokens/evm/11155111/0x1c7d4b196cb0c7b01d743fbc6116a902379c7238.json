@@ -3,6 +3,5 @@
 	"chainId": 11155111,
 	"name": "USDC",
 	"symbol": "USDC",
-	"decimals": 6,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 6
 }

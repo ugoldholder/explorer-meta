@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Gala",
 	"symbol": "GALA",
-	"decimals": 8,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Gala Games: GALA Token v2"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://gala.games/"
-		}
-	]
+	"decimals": 8
 }

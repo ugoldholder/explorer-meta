@@ -3,6 +3,5 @@
 	"chainId": 56,
 	"name": "renBTC",
 	"symbol": "renBTC",
-	"decimals": 8,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 8
 }

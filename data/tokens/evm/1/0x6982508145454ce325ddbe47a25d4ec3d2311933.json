@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "Pepe",
 	"symbol": "PEPE",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Pepe"
-	}
+	"decimals": 18
 }

@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "SHIBA INU",
 	"symbol": "SHIB",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Shiba Inu: SHIB Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://shibatoken.com/"
-		}
-	]
+	"decimals": 18
 }

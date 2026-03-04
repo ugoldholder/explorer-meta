@@ -1,6 +1,0 @@
-{
-	"address": "0x73ead35fd6a572ef763b13be65a9db96f7643577",
-	"chainId": 1,
-	"label": "Chainlink: TUSD / ETH Aggregator",
-	"source": ["kleros", "2026-03-03"]
-}

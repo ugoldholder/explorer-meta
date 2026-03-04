@@ -1,6 +1,0 @@
-{
-	"address": "0x72545f8c59e45e0e3f95f0cdc15b5670f4827daa",
-	"chainId": 1,
-	"label": "Uniswap v2: смурфет/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

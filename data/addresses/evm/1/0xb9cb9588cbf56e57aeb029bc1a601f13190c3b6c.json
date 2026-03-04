@@ -1,6 +1,0 @@
-{
-	"address": "0xb9cb9588cbf56e57aeb029bc1a601f13190c3b6c",
-	"chainId": 1,
-	"label": "Uniswap v2: Kill the bill/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

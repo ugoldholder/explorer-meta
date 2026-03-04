@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "BNB",
 	"symbol": "BNB",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Binance: BNB Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://www.binance.com/"
-		}
-	]
+	"decimals": 18
 }

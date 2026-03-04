@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Gnosis",
 	"symbol": "GNO",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Gnosis: GNO Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://www.gnosis.io/"
-		}
-	]
+	"decimals": 18
 }

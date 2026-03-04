@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Injective",
 	"symbol": "INJ",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Injective Protocol: INJ Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://injective.com/"
-		}
-	]
+	"decimals": 18
 }

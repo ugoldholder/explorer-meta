@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Tether USD",
 	"symbol": "USDT",
-	"decimals": 6,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Tether: USDT Stablecoin"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://tether.to"
-		}
-	]
+	"decimals": 6
 }

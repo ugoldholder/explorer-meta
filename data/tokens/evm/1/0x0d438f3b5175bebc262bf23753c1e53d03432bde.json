@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Wrapped NXM",
 	"symbol": "wNXM",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Nexus Mutual: wNXM Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://nexusmutual.io/"
-		}
-	]
+	"decimals": 18
 }

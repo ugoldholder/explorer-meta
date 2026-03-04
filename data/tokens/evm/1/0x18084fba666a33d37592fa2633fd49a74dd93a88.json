@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "tBTC v2",
 	"symbol": "tBTC",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "tBTC"
-	}
+	"decimals": 18
 }

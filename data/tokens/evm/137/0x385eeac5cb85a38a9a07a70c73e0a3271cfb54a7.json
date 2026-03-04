@@ -3,6 +3,5 @@
 	"chainId": 137,
 	"name": "Aavegotchi GHST Token",
 	"symbol": "GHST",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 18
 }

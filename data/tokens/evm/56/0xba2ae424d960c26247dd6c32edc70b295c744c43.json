@@ -3,6 +3,5 @@
 	"chainId": 56,
 	"name": "Dogecoin",
 	"symbol": "DOGE",
-	"decimals": 8,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 8
 }

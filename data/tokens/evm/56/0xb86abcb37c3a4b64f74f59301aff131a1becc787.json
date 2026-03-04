@@ -3,6 +3,5 @@
 	"chainId": 56,
 	"name": "Zilliqa",
 	"symbol": "ZIL",
-	"decimals": 12,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 12
 }

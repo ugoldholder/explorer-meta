@@ -3,6 +3,5 @@
 	"chainId": 8453,
 	"name": "Moxie",
 	"symbol": "MOXIE",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 18
 }

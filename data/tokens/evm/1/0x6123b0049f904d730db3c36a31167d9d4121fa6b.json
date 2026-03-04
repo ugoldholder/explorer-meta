@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "Ribbon Finance",
 	"symbol": "RBN",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Ribbon Finance"
-	}
+	"decimals": 18
 }

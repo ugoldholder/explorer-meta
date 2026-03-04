@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "LUSD Stablecoin",
 	"symbol": "LUSD",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Liquity USD"
-	}
+	"decimals": 18
 }

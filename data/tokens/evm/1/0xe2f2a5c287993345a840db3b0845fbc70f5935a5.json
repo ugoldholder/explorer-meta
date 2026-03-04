@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "mStable USD",
 	"symbol": "mUSD",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "mStable: mUSD Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://mstable.org/"
-		}
-	]
+	"decimals": 18
 }

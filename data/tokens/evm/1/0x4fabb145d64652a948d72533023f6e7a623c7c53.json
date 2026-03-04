@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "Binance USD",
 	"symbol": "BUSD",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "Paxos: Binance USD Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://paxos.com/busd/"
-		}
-	]
+	"decimals": 18
 }

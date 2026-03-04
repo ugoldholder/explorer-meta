@@ -3,15 +3,5 @@
 	"chainId": 1,
 	"name": "FTX Token",
 	"symbol": "FTT",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "FTX: FTT Token"
-	},
-	"links": [
-		{
-			"name": "Website",
-			"url": "https://ftx.com/"
-		}
-	]
+	"decimals": 18
 }

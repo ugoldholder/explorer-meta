@@ -3,6 +3,5 @@
 	"chainId": 11155111,
 	"name": "Wrapped Ether",
 	"symbol": "WETH",
-	"decimals": 18,
-	"source": ["openscan", "2026-03-03"]
+	"decimals": 18
 }

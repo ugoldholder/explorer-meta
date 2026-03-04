@@ -3,9 +3,5 @@
 	"chainId": 1,
 	"name": "EURS Stasis",
 	"symbol": "EURS",
-	"decimals": 2,
-	"source": ["openscan", "2026-03-03"],
-	"project": {
-		"name": "EURS"
-	}
+	"decimals": 2
 }

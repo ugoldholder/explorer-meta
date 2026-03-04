@@ -1,6 +1,0 @@
-{
-	"address": "0xfa8d6c363d1b066a352987f1b1d4cbb2b4eadbfc",
-	"chainId": 1,
-	"label": "Uniswap v2: Malicious/WETH Pair",
-	"source": ["kleros", "2026-03-03"]
-}

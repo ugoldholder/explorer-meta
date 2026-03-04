@@ -1,6 +1,6 @@
 {
 	"name": "@openscan/metadata",
-	"version": "1.1.2-alpha.0",
+	"version": "1.1.1-alpha.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/openscan-explorer/explorer-metadata"
@@ -15,8 +15,6 @@
 		"add-app": "tsx scripts/add-app.ts",
 		"add-org": "tsx scripts/add-org.ts",
 		"import-rpcs": "tsx scripts/import-rpcs.ts",
-		"import-kleros": "tsx scripts/import-kleros.ts",
-		"backfill-source": "tsx scripts/backfill-source.ts",
 		"lint": "biome check .",
 		"format": "biome format --write ."
 	},
@@ -36,10 +34,8 @@
 		"ajv": "^8.17.0",
 		"ajv-formats": "^3.0.0",
 		"sharp": "^0.33.0",
-		"csv-parse": "^5.6.0",
 		"tsx": "^4.19.0",
-		"typescript": "^5.6.0",
-		"viem": "^2.21.0"
+		"typescript": "^5.6.0"
 	},
 	"publishConfig": {
 		"access": "public"

@@ -1,6 +1,0 @@
-{
-	"address": "0x0c559761699abe0eb69412c1492de2596cfd5116",
-	"chainId": 1,
-	"label": "Uniswap v2: WETH/дегенерация Pair",
-	"source": ["kleros", "2026-03-03"]
-}

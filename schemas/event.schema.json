@@ -4,42 +4,24 @@
 	"title": "Events",
 	"description": "Chain-specific event signatures for OpenScan explorer. Events are indexed by topic0 (keccak256 hash of the event signature).",
 	"type": "object",
-	"properties": {
-		"source": {
-			"type": "array",
-			"items": [
-				{
-					"type": "string",
-					"description": "Data source name (e.g., openscan, kleros)"
-				},
-				{
-					"type": "string",
-					"format": "date",
-					"description": "Date added or last updated (YYYY-MM-DD)"
-				}
-			],
-			"minItems": 2,
-			"additionalItems": false,
-			"description": "Data source: [name, date added/updated]"
-		}
-	},
-	"patternProperties": {
-		"^0x[a-f0-9]{64}$": {
-			"type": "object",
-			"properties": {
-				"event": {
-					"type": "string",
-					"description": "Event signature (e.g., 'Transfer(address,address,uint256)')",
-					"pattern": "^[A-Za-z_][A-Za-z0-9_]*\\(.*\\)$"
-				},
-				"description": {
-					"type": "string",
-					"description": "Human-readable description of the event"
-				}
+	"additionalProperties": {
+		"type": "object",
+		"properties": {
+			"event": {
+				"type": "string",
+				"description": "Event signature (e.g., 'Transfer(address,address,uint256)')",
+				"pattern": "^[A-Za-z_][A-Za-z0-9_]*\\(.*\\)$"
 			},
-			"required": ["event", "description"],
-			"additionalProperties": false
-		}
+			"description": {
+				"type": "string",
+				"description": "Human-readable description of the event"
+			}
+		},
+		"required": ["event", "description"],
+		"additionalProperties": false
 	},
-	"additionalProperties": false
+	"propertyNames": {
+		"pattern": "^0x[a-f0-9]{64}$",
+		"description": "Topic0 hash (keccak256 of event signature)"
+	}
 }
