@@ -1,0 +1,48 @@
+{
+	"networkId": "eip155:43114",
+	"updatedAt": "2026-03-04",
+	"endpoints": [
+		{
+			"url": "https://api.avax.network/ext/bc/C/rpc",
+			"tracking": "none",
+			"isOpenSource": false,
+			"provider": "Avalanche",
+			"isPublic": true
+		},
+		{
+			"url": "https://avalanche-c-chain-rpc.publicnode.com",
+			"tracking": "none",
+			"isOpenSource": false,
+			"provider": "PublicNode",
+			"isPublic": true
+		},
+		{
+			"url": "https://avax.meowrpc.com",
+			"tracking": "none",
+			"isOpenSource": false,
+			"provider": "MeowRPC",
+			"isPublic": true
+		},
+		{
+			"url": "https://avalanche.drpc.org",
+			"tracking": "none",
+			"isOpenSource": false,
+			"provider": "dRPC",
+			"isPublic": true
+		},
+		{
+			"url": "https://1rpc.io/avax/c",
+			"tracking": "none",
+			"isOpenSource": false,
+			"provider": "1RPC",
+			"isPublic": true
+		},
+		{
+			"url": "https://avax-pokt.nodies.app/ext/bc/C/rpc",
+			"tracking": "none",
+			"isOpenSource": false,
+			"provider": "Nodies",
+			"isPublic": true
+		}
+	]
+}
