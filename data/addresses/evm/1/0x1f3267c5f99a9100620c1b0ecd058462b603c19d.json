@@ -1,0 +1,6 @@
+{
+	"address": "0x1f3267c5f99a9100620c1b0ecd058462b603c19d",
+	"chainId": 1,
+	"label": "Uniswap v2: DAI/Conduit Pair",
+	"source": ["kleros", "2026-03-03"]
+}

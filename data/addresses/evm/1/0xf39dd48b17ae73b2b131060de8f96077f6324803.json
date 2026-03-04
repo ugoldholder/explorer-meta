@@ -1,0 +1,6 @@
+{
+	"address": "0xf39dd48b17ae73b2b131060de8f96077f6324803",
+	"chainId": 1,
+	"label": "Uniswap v2: FIREFOX/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

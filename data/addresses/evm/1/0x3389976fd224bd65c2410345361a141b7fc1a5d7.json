@@ -1,0 +1,6 @@
+{
+	"address": "0x3389976fd224bd65c2410345361a141b7fc1a5d7",
+	"chainId": 1,
+	"label": "Uniswap v2: DEX SNIFFER/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

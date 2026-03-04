@@ -1,0 +1,11 @@
+{
+	"address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+	"chainId": 1,
+	"name": "Prometeus",
+	"symbol": "PROM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Prometeus"
+	}
+}

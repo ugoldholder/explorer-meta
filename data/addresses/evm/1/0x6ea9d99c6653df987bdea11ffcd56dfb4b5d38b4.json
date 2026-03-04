@@ -1,0 +1,6 @@
+{
+	"address": "0x6ea9d99c6653df987bdea11ffcd56dfb4b5d38b4",
+	"chainId": 1,
+	"label": "ZeroLend: Wrapped Token Gateway V3",
+	"source": ["kleros", "2026-03-03"]
+}

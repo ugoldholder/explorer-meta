@@ -1,0 +1,17 @@
+{
+	"address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
+	"chainId": 1,
+	"name": "Session Token",
+	"symbol": "SESH",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Session Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://token.getsession.org/"
+		}
+	]
+}

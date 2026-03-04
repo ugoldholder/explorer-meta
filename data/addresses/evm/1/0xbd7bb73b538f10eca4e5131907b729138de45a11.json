@@ -1,0 +1,6 @@
+{
+	"address": "0xbd7bb73b538f10eca4e5131907b729138de45a11",
+	"chainId": 1,
+	"label": "Uniswap v2: Offramp/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

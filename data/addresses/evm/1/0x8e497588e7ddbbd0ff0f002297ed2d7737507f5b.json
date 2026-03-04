@@ -1,0 +1,6 @@
+{
+	"address": "0x8e497588e7ddbbd0ff0f002297ed2d7737507f5b",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/whitelist Pair",
+	"source": ["kleros", "2026-03-03"]
+}

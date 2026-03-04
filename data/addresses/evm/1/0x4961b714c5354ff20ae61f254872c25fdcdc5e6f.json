@@ -1,0 +1,6 @@
+{
+	"address": "0x4961b714c5354ff20ae61f254872c25fdcdc5e6f",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/PIC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

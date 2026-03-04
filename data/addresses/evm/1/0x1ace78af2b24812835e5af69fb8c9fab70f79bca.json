@@ -1,0 +1,6 @@
+{
+	"address": "0x1ace78af2b24812835e5af69fb8c9fab70f79bca",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Wisdom >> Wealth Pair",
+	"source": ["kleros", "2026-03-03"]
+}

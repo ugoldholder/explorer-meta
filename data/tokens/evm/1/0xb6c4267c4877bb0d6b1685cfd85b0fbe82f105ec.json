@@ -1,0 +1,17 @@
+{
+	"address": "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
+	"chainId": 1,
+	"name": "Relevant",
+	"symbol": "REL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Relevant: REL Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://relevant.community/"
+		}
+	]
+}

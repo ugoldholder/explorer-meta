@@ -1,0 +1,6 @@
+{
+	"address": "0x61405f9fec3f0f37429bb1ca16bffeb49192b6bc",
+	"chainId": 1,
+	"label": "Uniswap v2: Alpaca/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0xb1fe6c100f2cfbb0c380d8b1eae179f165fffbd1",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/HuobiToken Pair",
+	"source": ["kleros", "2026-03-03"]
+}

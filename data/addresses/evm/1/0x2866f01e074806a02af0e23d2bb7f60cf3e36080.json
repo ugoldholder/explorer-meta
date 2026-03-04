@@ -1,0 +1,6 @@
+{
+	"address": "0x2866f01e074806a02af0e23d2bb7f60cf3e36080",
+	"chainId": 1,
+	"label": "Uniswap v2: PERCY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

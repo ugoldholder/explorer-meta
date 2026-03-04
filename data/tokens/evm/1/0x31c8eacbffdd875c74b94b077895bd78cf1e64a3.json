@@ -1,0 +1,17 @@
+{
+	"address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+	"chainId": 1,
+	"name": "Radicle",
+	"symbol": "RAD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Radicle: RAD Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://radicle.xyz/"
+		}
+	]
+}

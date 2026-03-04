@@ -1,0 +1,11 @@
+{
+	"address": "0x9556f8ee795d991ff371f547162d5efb2769425f",
+	"chainId": 1,
+	"name": "DMme",
+	"symbol": "DMME",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DMme"
+	}
+}

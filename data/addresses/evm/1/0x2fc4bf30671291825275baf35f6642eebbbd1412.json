@@ -1,0 +1,6 @@
+{
+	"address": "0x2fc4bf30671291825275baf35f6642eebbbd1412",
+	"chainId": 1,
+	"label": "Uniswap v2: ErgoDEX/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+	"chainId": 1,
+	"name": "DXdao",
+	"symbol": "DXD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DXdao"
+	}
+}

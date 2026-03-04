@@ -1,0 +1,17 @@
+{
+	"address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+	"chainId": 1,
+	"name": "Ampleforth",
+	"symbol": "AMPL",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ampleforth: AMPL Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.ampleforth.org/"
+		}
+	]
+}

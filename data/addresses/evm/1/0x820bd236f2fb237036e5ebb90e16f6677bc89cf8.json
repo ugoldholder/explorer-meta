@@ -1,0 +1,6 @@
+{
+	"address": "0x820bd236f2fb237036e5ebb90e16f6677bc89cf8",
+	"chainId": 1,
+	"label": "Uniswap v2: ESIM/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xaa17a236f2badc98ddc0cf999abb47d47fc0a6cf",
+	"chainId": 1,
+	"name": "ankrCurve",
+	"symbol": "ankrCrv",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ankrCurve"
+	}
+}

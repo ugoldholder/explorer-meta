@@ -1,0 +1,11 @@
+{
+	"address": "0x26b3038a7fc10b36c426846a9086ef87328da702",
+	"chainId": 1,
+	"name": "Yield Farming Token",
+	"symbol": "YFT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Yield Farming Token"
+	}
+}

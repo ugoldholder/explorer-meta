@@ -1,0 +1,11 @@
+{
+	"address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280",
+	"chainId": 1,
+	"name": "TenX",
+	"symbol": "PAY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TenX"
+	}
+}

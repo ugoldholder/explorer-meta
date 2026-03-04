@@ -1,0 +1,11 @@
+{
+	"address": "0xa017ac5fac5941f95010b12570b812c974469c2c",
+	"chainId": 1,
+	"name": "Proxeus",
+	"symbol": "XES",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Proxeus"
+	}
+}

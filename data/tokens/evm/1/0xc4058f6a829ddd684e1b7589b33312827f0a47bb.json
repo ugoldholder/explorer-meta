@@ -1,0 +1,17 @@
+{
+	"address": "0xc4058f6a829ddd684e1b7589b33312827f0a47bb",
+	"chainId": 1,
+	"name": "aNDY",
+	"symbol": "aNDY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "aNDY"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://andyerc.com/"
+		}
+	]
+}

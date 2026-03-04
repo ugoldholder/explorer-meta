@@ -1,0 +1,11 @@
+{
+	"address": "0x701c244b988a513c945973defa05de933b23fe1d",
+	"chainId": 1,
+	"name": "OAX",
+	"symbol": "OAX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "OAX"
+	}
+}

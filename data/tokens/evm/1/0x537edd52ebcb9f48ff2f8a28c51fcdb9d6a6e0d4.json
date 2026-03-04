@@ -1,0 +1,11 @@
+{
+	"address": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
+	"chainId": 1,
+	"name": "Small Doge",
+	"symbol": "SDOG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Small Doge"
+	}
+}

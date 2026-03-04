@@ -1,0 +1,11 @@
+{
+	"address": "0x4fb721ef3bf99e0f2c193847afa296b9257d3c30",
+	"chainId": 1,
+	"name": "Tokenplace",
+	"symbol": "TOK",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Tokenplace"
+	}
+}

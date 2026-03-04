@@ -1,0 +1,6 @@
+{
+	"address": "0x8cea1143af03a842983af6f3778c500fac21f39e",
+	"chainId": 1,
+	"label": "Uniswap v2: Sol Death/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

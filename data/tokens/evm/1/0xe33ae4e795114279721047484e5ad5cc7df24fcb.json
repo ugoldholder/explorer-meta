@@ -1,0 +1,11 @@
+{
+	"address": "0xe33ae4e795114279721047484e5ad5cc7df24fcb",
+	"chainId": 1,
+	"name": "MCFinance",
+	"symbol": "MCF",
+	"decimals": 10,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MCFinance"
+	}
+}

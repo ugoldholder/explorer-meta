@@ -1,0 +1,11 @@
+{
+	"address": "0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8",
+	"chainId": 1,
+	"name": "Silo Finance",
+	"symbol": "SILO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Silo Finance"
+	}
+}

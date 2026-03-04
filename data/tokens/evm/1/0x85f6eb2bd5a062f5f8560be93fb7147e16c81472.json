@@ -1,0 +1,11 @@
+{
+	"address": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
+	"chainId": 1,
+	"name": "Franklin",
+	"symbol": "FLY",
+	"decimals": 4,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Franklin"
+	}
+}

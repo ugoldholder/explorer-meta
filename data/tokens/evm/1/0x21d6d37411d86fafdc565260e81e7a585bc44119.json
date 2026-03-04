@@ -1,0 +1,17 @@
+{
+	"address": "0x21d6d37411d86fafdc565260e81e7a585bc44119",
+	"chainId": 1,
+	"name": "FurGPT",
+	"symbol": "FGPT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "FurGPT"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://furgpt.org/"
+		}
+	]
+}

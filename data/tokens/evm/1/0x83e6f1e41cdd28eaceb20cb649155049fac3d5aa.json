@@ -1,0 +1,17 @@
+{
+	"address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+	"chainId": 1,
+	"name": "Polkastarter",
+	"symbol": "POLS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Polkastarter: POLS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://polkastarter.com/"
+		}
+	]
+}

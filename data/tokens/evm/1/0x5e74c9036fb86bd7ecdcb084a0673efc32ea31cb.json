@@ -1,0 +1,11 @@
+{
+	"address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+	"chainId": 1,
+	"name": "Synthetic Ether",
+	"symbol": "sETH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Ether"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x14bc69ceb603b89f1d2c5bc43fcb3d831ca40483",
+	"chainId": 1,
+	"label": "Uniswap v2: Skelton Swap/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

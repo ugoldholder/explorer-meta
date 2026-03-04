@@ -1,0 +1,11 @@
+{
+	"address": "0x8a6aca71a218301c7081d4e96d64292d3b275ce0",
+	"chainId": 1,
+	"name": "S.Finance",
+	"symbol": "SFG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "S.Finance"
+	}
+}

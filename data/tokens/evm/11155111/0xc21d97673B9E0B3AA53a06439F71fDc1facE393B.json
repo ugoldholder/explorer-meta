@@ -21,5 +21,6 @@
 			"description": "Weenus Token Faucet repository"
 		}
 	],
-	"tags": ["testnet", "faucet", "development"]
+	"tags": ["testnet", "faucet", "development"],
+	"source": ["openscan", "2026-03-03"]
 }

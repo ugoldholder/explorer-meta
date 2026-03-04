@@ -1,0 +1,6 @@
+{
+	"address": "0x760723cd2e632826c38fef8cd438a4cc7e7e1a40",
+	"chainId": 1,
+	"label": "Arbitrum: Outbox 3",
+	"source": ["kleros", "2026-03-03"]
+}

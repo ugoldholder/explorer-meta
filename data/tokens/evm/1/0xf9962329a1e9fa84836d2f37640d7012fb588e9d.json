@@ -1,0 +1,17 @@
+{
+	"address": "0xf9962329a1e9fa84836d2f37640d7012fb588e9d",
+	"chainId": 1,
+	"name": "We Love Dogs",
+	"symbol": "DOGS",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "We Love Dogs"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://welovedogseth.xyz/"
+		}
+	]
+}

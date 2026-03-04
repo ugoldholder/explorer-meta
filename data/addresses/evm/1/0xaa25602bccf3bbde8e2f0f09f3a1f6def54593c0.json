@@ -1,0 +1,6 @@
+{
+	"address": "0xaa25602bccf3bbde8e2f0f09f3a1f6def54593c0",
+	"chainId": 1,
+	"label": "Chainlink: BlockhashStore",
+	"source": ["kleros", "2026-03-03"]
+}

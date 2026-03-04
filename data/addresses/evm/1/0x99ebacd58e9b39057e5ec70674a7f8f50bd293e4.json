@@ -1,0 +1,6 @@
+{
+	"address": "0x99ebacd58e9b39057e5ec70674a7f8f50bd293e4",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/FATITA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

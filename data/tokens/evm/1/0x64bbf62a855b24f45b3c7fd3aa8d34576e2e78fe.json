@@ -1,0 +1,11 @@
+{
+	"address": "0x64bbf62a855b24f45b3c7fd3aa8d34576e2e78fe",
+	"chainId": 1,
+	"name": "Cleanex",
+	"symbol": "CNX",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cleanex"
+	}
+}

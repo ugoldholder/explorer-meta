@@ -1,0 +1,17 @@
+{
+	"address": "0x30cbdfdaab4bc15e26caf11e1a4703323d77cd3e",
+	"chainId": 1,
+	"name": "CMX Agent",
+	"symbol": "CMX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CMX Agent"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://cmxagent.com/"
+		}
+	]
+}

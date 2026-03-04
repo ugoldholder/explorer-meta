@@ -1,0 +1,11 @@
+{
+	"address": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+	"chainId": 1,
+	"name": "Unslashed Finance",
+	"symbol": "USF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Unslashed Finance"
+	}
+}

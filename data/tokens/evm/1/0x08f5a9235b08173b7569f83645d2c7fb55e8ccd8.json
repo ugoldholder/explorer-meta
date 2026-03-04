@@ -1,0 +1,11 @@
+{
+	"address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+	"chainId": 1,
+	"name": "Tierion",
+	"symbol": "TNT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Tierion"
+	}
+}

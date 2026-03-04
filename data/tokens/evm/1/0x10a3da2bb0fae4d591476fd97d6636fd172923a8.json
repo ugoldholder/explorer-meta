@@ -1,0 +1,11 @@
+{
+	"address": "0x10a3da2bb0fae4d591476fd97d6636fd172923a8",
+	"chainId": 1,
+	"name": "Cream Hegic",
+	"symbol": "crHEGIC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream Hegic"
+	}
+}

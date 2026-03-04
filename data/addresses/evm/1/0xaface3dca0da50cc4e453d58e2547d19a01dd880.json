@@ -1,0 +1,6 @@
+{
+	"address": "0xaface3dca0da50cc4e453d58e2547d19a01dd880",
+	"chainId": 1,
+	"label": "Uniswap v2: STARKBOT/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

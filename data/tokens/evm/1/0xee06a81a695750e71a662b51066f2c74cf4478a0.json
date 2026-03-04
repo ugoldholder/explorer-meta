@@ -1,0 +1,11 @@
+{
+	"address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+	"chainId": 1,
+	"name": "Decentral Games",
+	"symbol": "DG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Decentral Games"
+	}
+}

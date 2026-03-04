@@ -1,0 +1,11 @@
+{
+	"address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+	"chainId": 1,
+	"name": "Moeda Loyalty Points",
+	"symbol": "MDA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Moeda Loyalty Points"
+	}
+}

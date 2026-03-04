@@ -1,0 +1,6 @@
+{
+	"address": "0xf17c47dc7f3ac847d6dc04f65e5e7ceb5a13e26b",
+	"chainId": 1,
+	"label": "Uniswap v2: Mongoose/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

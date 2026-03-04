@@ -1,0 +1,6 @@
+{
+	"address": "0x987d5266cab6d9f6c0b3a7ca2429dc6c0431c15f",
+	"chainId": 1,
+	"label": "Uniswap v2: PIZZA/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

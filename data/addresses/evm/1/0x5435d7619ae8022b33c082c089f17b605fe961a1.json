@@ -1,0 +1,6 @@
+{
+	"address": "0x5435d7619ae8022b33c082c089f17b605fe961a1",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Hold BTC Optimism Pair",
+	"source": ["kleros", "2026-03-03"]
+}

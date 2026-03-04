@@ -1,0 +1,6 @@
+{
+	"address": "0x5c62fb35a4ae792ad355f389ef169f00c7a0bcfc",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/POGGER Pair",
+	"source": ["kleros", "2026-03-03"]
+}

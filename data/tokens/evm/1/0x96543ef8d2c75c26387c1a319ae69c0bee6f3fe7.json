@@ -1,0 +1,11 @@
+{
+	"address": "0x96543ef8d2c75c26387c1a319ae69c0bee6f3fe7",
+	"chainId": 1,
+	"name": "Kujira",
+	"symbol": "KUJI",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Kujira"
+	}
+}

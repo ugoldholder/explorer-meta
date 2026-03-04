@@ -1,0 +1,11 @@
+{
+	"address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+	"chainId": 1,
+	"name": "fBomb",
+	"symbol": "fBOMB",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "fBomb"
+	}
+}

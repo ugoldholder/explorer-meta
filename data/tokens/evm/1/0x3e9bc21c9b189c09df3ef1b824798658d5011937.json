@@ -1,0 +1,17 @@
+{
+	"address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+	"chainId": 1,
+	"name": "Linear Finance",
+	"symbol": "LINA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Linear Finance: LINA Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://linear.finance/"
+		}
+	]
+}

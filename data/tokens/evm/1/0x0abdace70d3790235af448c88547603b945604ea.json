@@ -1,0 +1,17 @@
+{
+	"address": "0x0abdace70d3790235af448c88547603b945604ea",
+	"chainId": 1,
+	"name": "district0x",
+	"symbol": "DNT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "district0x: DNT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://district0x.io/"
+		}
+	]
+}

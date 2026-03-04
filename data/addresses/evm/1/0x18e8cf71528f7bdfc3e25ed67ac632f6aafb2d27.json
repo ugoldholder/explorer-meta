@@ -1,0 +1,6 @@
+{
+	"address": "0x18e8cf71528f7bdfc3e25ed67ac632f6aafb2d27",
+	"chainId": 1,
+	"label": "PancakeSwap v3: DAI/CSPC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

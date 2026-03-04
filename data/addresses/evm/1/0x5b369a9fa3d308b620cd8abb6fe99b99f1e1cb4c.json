@@ -1,0 +1,6 @@
+{
+	"address": "0x5b369a9fa3d308b620cd8abb6fe99b99f1e1cb4c",
+	"chainId": 1,
+	"label": "Sushi v2: USDC/KACC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

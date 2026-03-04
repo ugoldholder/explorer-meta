@@ -1,0 +1,17 @@
+{
+	"address": "0x45cb6aa4d4b2b51444b5f1a345bc5f9ff1973ed4",
+	"chainId": 1,
+	"name": "Smart Wallet Token",
+	"symbol": "SWT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Smart Wallet Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://swttoken.com/"
+		}
+	]
+}

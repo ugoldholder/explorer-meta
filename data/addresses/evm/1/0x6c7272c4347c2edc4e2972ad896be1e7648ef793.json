@@ -1,0 +1,6 @@
+{
+	"address": "0x6c7272c4347c2edc4e2972ad896be1e7648ef793",
+	"chainId": 1,
+	"label": "PancakeSwap v3: WETH/$MIRX Pool",
+	"source": ["kleros", "2026-03-03"]
+}

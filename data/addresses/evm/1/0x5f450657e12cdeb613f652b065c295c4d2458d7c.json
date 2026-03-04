@@ -1,0 +1,6 @@
+{
+	"address": "0x5f450657e12cdeb613f652b065c295c4d2458d7c",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/SerumFi Pair",
+	"source": ["kleros", "2026-03-03"]
+}

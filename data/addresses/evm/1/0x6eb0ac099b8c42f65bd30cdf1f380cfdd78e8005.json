@@ -1,0 +1,6 @@
+{
+	"address": "0x6eb0ac099b8c42f65bd30cdf1f380cfdd78e8005",
+	"chainId": 1,
+	"label": "Uniswap v2: McCormick/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xd26fb114401ec86887cd09f62eccd95fcf20b571",
+	"chainId": 1,
+	"name": "Bitcoin Platinums",
+	"symbol": "BCP",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bitcoin Platinums"
+	}
+}

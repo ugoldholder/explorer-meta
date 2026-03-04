@@ -1,0 +1,17 @@
+{
+	"address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4",
+	"chainId": 1,
+	"name": "Compound Wrapped BTC",
+	"symbol": "cWBTC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Compound: cWBTC V1 Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://compound.finance/"
+		}
+	]
+}

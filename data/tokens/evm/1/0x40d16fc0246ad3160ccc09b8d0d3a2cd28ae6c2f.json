@@ -1,0 +1,17 @@
+{
+	"address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+	"chainId": 1,
+	"name": "GHO",
+	"symbol": "GHO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GHO: GHO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://gho.xyz/"
+		}
+	]
+}

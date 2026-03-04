@@ -1,0 +1,11 @@
+{
+	"address": "0x9eef4ca7ab9fa8bc0650127341c2d3f707a40f8a",
+	"chainId": 1,
+	"name": "Synthetic Coinbase",
+	"symbol": "sCOIN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Coinbase"
+	}
+}

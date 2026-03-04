@@ -1,0 +1,11 @@
+{
+	"address": "0x46dceb1bb2c55531d12a4e769e8088f4af64d410",
+	"chainId": 1,
+	"name": "XBX",
+	"symbol": "XBX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "XBX"
+	}
+}

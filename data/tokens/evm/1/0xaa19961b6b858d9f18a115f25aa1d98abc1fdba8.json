@@ -1,0 +1,11 @@
+{
+	"address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+	"chainId": 1,
+	"name": "LocalCoinSwap",
+	"symbol": "LCS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "LocalCoinSwap"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x8f106b338d6e952cb5964166a72d54ef2404e4e5",
+	"chainId": 1,
+	"label": "Uniswap v2: CONAN/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+	"chainId": 1,
+	"name": "Akropolis",
+	"symbol": "AKRO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Akropolis: AKRO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://akropolis.io/"
+		}
+	]
+}

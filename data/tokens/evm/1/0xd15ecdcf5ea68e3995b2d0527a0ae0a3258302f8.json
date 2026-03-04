@@ -1,0 +1,11 @@
+{
+	"address": "0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8",
+	"chainId": 1,
+	"name": "Machi X",
+	"symbol": "MCX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Machi X"
+	}
+}

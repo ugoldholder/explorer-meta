@@ -1,0 +1,11 @@
+{
+	"address": "0x89303500a7abfb178b274fd89f2469c264951e1f",
+	"chainId": 1,
+	"name": "RefToken",
+	"symbol": "REF",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "RefToken"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x0649cef6d11ed6f88535462e147304d3fe5ae14d",
+	"chainId": 1,
+	"name": "Bitkub",
+	"symbol": "KUB",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bitkub"
+	}
+}

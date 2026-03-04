@@ -1,0 +1,17 @@
+{
+	"address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+	"chainId": 1,
+	"name": "Band Protocol",
+	"symbol": "BAND",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Band Protocol: BAND Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://bandprotocol.com/"
+		}
+	]
+}

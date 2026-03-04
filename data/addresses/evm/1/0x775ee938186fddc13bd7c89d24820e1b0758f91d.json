@@ -1,0 +1,6 @@
+{
+	"address": "0x775ee938186fddc13bd7c89d24820e1b0758f91d",
+	"chainId": 1,
+	"label": "Zapper: Uniswap V2 Zap In v2.0.0",
+	"source": ["kleros", "2026-03-03"]
+}

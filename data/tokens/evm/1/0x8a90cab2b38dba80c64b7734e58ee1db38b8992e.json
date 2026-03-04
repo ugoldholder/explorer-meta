@@ -5,5 +5,6 @@
 	"name": "Doodles",
 	"symbol": "DOODLE",
 	"decimals": 0,
-	"totalSupply": 10000
+	"totalSupply": 10000,
+	"source": ["openscan", "2026-03-03"]
 }

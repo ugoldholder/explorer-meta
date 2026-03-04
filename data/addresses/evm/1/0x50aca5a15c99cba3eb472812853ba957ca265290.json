@@ -1,0 +1,6 @@
+{
+	"address": "0x50aca5a15c99cba3eb472812853ba957ca265290",
+	"chainId": 1,
+	"label": "Uniswap v2: Tatami/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

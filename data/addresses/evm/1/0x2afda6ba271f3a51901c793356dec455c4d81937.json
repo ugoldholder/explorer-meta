@@ -1,0 +1,6 @@
+{
+	"address": "0x2afda6ba271f3a51901c793356dec455c4d81937",
+	"chainId": 1,
+	"label": "Uniswap v2: CARTFI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

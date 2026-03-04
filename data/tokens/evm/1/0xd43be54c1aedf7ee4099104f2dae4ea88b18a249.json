@@ -1,0 +1,11 @@
+{
+	"address": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249",
+	"chainId": 1,
+	"name": "TRAXX",
+	"symbol": "TRAXX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TRAXX"
+	}
+}

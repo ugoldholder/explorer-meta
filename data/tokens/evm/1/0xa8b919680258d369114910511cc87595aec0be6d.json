@@ -1,0 +1,17 @@
+{
+	"address": "0xa8b919680258d369114910511cc87595aec0be6d",
+	"chainId": 1,
+	"name": "LUKSO",
+	"symbol": "LYXe",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "LUKSO: LYXe Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://lukso.network/"
+		}
+	]
+}

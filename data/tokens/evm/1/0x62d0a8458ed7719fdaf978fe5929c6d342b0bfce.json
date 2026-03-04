@@ -1,0 +1,17 @@
+{
+	"address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+	"chainId": 1,
+	"name": "Beam",
+	"symbol": "BEAM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Beam: BEAM Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://onbeam.com/"
+		}
+	]
+}

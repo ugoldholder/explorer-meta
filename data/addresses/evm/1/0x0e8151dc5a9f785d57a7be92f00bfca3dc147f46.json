@@ -1,0 +1,6 @@
+{
+	"address": "0x0e8151dc5a9f785d57a7be92f00bfca3dc147f46",
+	"chainId": 1,
+	"label": "Sushi v2: USDC/SBUX Pool",
+	"source": ["kleros", "2026-03-03"]
+}

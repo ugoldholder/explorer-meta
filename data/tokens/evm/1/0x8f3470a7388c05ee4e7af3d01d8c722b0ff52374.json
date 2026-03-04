@@ -1,0 +1,17 @@
+{
+	"address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+	"chainId": 1,
+	"name": "Veritaseum",
+	"symbol": "VERI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Veritaseum: VERI Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://veritaseum.com/"
+		}
+	]
+}

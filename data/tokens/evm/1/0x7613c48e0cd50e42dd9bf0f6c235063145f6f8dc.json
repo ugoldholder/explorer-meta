@@ -1,0 +1,11 @@
+{
+	"address": "0x7613c48e0cd50e42dd9bf0f6c235063145f6f8dc",
+	"chainId": 1,
+	"name": "Pirate Nation",
+	"symbol": "PIRATE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Pirate Nation"
+	}
+}

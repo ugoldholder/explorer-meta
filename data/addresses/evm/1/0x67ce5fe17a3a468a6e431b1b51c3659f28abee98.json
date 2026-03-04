@@ -1,0 +1,6 @@
+{
+	"address": "0x67ce5fe17a3a468a6e431b1b51c3659f28abee98",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/RIGBY Pair",
+	"source": ["kleros", "2026-03-03"]
+}

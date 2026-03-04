@@ -1,0 +1,11 @@
+{
+	"address": "0x3f3b3b269d9f7088b022290906acff8710914be1",
+	"chainId": 1,
+	"name": "Strike LINK",
+	"symbol": "sLINK",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Strike LINK"
+	}
+}

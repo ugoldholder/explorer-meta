@@ -1,0 +1,17 @@
+{
+	"address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
+	"chainId": 1,
+	"name": "YFII.finance",
+	"symbol": "YFII",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "YFII.finance: YFII Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://dfi.money/#/"
+		}
+	]
+}

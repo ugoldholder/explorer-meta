@@ -1,0 +1,6 @@
+{
+	"address": "0x401fd55254c3aa8f37b8d7eb428d3b58f25f889a",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/BTCBR Pool",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
+	"chainId": 1,
+	"name": "Amon",
+	"symbol": "AMN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Amon"
+	}
+}

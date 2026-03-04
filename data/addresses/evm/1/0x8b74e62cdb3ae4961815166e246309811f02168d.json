@@ -1,0 +1,6 @@
+{
+	"address": "0x8b74e62cdb3ae4961815166e246309811f02168d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BULLBOX Pair",
+	"source": ["kleros", "2026-03-03"]
+}

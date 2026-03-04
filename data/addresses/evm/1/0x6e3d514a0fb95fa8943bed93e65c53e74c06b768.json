@@ -1,0 +1,6 @@
+{
+	"address": "0x6e3d514a0fb95fa8943bed93e65c53e74c06b768",
+	"chainId": 1,
+	"label": "Uniswap v2: BorgoBot/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xc382e04099a435439725bb40647e2b32dc136806",
+	"chainId": 1,
+	"name": "Cogecoin",
+	"symbol": "COGE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cogecoin"
+	}
+}

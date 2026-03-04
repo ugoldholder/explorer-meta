@@ -1,0 +1,11 @@
+{
+	"address": "0xa10a210c27c86f8c63825096e34f671fd61041b1",
+	"chainId": 1,
+	"name": "Jeff in Space",
+	"symbol": "JEFF",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Jeff in Space"
+	}
+}

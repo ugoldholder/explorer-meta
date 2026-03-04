@@ -1,0 +1,17 @@
+{
+	"address": "0xc52c326331e9ce41f04484d3b5e5648158028804",
+	"chainId": 1,
+	"name": "Unizen",
+	"symbol": "ZCX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Unizen: ZCX Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.unizen.io/"
+		}
+	]
+}

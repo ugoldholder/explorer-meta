@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Arkham",
 	"symbol": "ARKM",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Arkham: ARKM Token Proxy"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.arkhamintelligence.com/"
+		}
+	]
 }

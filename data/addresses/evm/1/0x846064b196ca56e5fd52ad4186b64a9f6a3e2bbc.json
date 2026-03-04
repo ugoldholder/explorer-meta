@@ -1,0 +1,6 @@
+{
+	"address": "0x846064b196ca56e5fd52ad4186b64a9f6a3e2bbc",
+	"chainId": 1,
+	"label": "Uniswap v2: CrowdStrike/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

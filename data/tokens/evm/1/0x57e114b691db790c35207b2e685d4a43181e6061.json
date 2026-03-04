@@ -1,0 +1,17 @@
+{
+	"address": "0x57e114b691db790c35207b2e685d4a43181e6061",
+	"chainId": 1,
+	"name": "Ethena",
+	"symbol": "ENA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ethena: ENA Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.ethena.fi/"
+		}
+	]
+}

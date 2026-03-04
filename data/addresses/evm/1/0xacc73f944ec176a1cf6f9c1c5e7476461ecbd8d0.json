@@ -1,0 +1,6 @@
+{
+	"address": "0xacc73f944ec176a1cf6f9c1c5e7476461ecbd8d0",
+	"chainId": 1,
+	"label": "Uniswap v2: PSN/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x4e47951508fd4a4126f8ff9cf5e6fa3b7cc8e073",
+	"chainId": 1,
+	"name": "Fluid",
+	"symbol": "FLUID",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Fluid"
+	}
+}

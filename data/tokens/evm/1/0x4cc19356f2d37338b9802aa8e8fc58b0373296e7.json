@@ -1,0 +1,17 @@
+{
+	"address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+	"chainId": 1,
+	"name": "SelfKey",
+	"symbol": "KEY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SelfKey: KEY Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://selfkey.org/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x1241e84a72667168f77295f666825d0e71aa6bff",
+	"chainId": 1,
+	"label": "Uniswap v2: NASLO/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

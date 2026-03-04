@@ -1,0 +1,6 @@
+{
+	"address": "0xe24f85ee9a46c17987a630055e28cfe293e82244",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/VitalikMRF Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xdd16ec0f66e54d453e6756713e533355989040e4",
+	"chainId": 1,
+	"name": "Tokenomy",
+	"symbol": "TEN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Tokenomy"
+	}
+}

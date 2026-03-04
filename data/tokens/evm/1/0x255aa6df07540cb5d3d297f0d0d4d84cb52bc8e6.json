@@ -1,0 +1,17 @@
+{
+	"address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+	"chainId": 1,
+	"name": "Raiden",
+	"symbol": "RDN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Raiden Network: RDN Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://raiden.network/"
+		}
+	]
+}

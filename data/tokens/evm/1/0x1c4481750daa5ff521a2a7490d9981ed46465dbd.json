@@ -1,0 +1,11 @@
+{
+	"address": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+	"chainId": 1,
+	"name": "Blockmason Credit Protocol",
+	"symbol": "BCPT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Blockmason Credit Protocol"
+	}
+}

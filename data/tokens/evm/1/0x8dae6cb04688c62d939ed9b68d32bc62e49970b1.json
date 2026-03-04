@@ -1,0 +1,11 @@
+{
+	"address": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
+	"chainId": 1,
+	"name": "Aave CRV",
+	"symbol": "aCRV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aave CRV"
+	}
+}

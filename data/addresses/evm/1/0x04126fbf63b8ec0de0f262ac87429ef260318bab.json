@@ -1,0 +1,6 @@
+{
+	"address": "0x04126fbf63b8ec0de0f262ac87429ef260318bab",
+	"chainId": 1,
+	"label": "Uniswap v2: NIKE/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

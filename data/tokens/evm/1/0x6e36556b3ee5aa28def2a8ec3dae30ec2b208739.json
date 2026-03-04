@@ -1,0 +1,11 @@
+{
+	"address": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
+	"chainId": 1,
+	"name": "BUILD Finance",
+	"symbol": "BUILD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BUILD Finance"
+	}
+}

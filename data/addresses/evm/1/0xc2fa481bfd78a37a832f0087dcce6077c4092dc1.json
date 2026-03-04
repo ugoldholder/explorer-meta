@@ -1,0 +1,6 @@
+{
+	"address": "0xc2fa481bfd78a37a832f0087dcce6077c4092dc1",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Pandonia Pair",
+	"source": ["kleros", "2026-03-03"]
+}

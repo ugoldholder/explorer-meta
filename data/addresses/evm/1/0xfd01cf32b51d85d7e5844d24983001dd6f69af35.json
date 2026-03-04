@@ -1,0 +1,6 @@
+{
+	"address": "0xfd01cf32b51d85d7e5844d24983001dd6f69af35",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/BTRFLY Pool",
+	"source": ["kleros", "2026-03-03"]
+}

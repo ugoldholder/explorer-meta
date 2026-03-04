@@ -1,0 +1,11 @@
+{
+	"address": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7",
+	"chainId": 1,
+	"name": "Shardus",
+	"symbol": "ULT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Shardus"
+	}
+}

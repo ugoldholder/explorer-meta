@@ -1,0 +1,17 @@
+{
+	"address": "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf",
+	"chainId": 1,
+	"name": "Virtual TAO",
+	"symbol": "vTAO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Virtual TAO"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://tao.app/bridge"
+		}
+	]
+}

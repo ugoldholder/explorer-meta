@@ -1,0 +1,6 @@
+{
+	"address": "0x8c63a2db13d62400510224f25e0aa3c3eca337f2",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Kamalanomics Pair",
+	"source": ["kleros", "2026-03-03"]
+}

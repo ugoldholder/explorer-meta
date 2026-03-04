@@ -1,0 +1,17 @@
+{
+	"address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+	"chainId": 1,
+	"name": "Mithril",
+	"symbol": "MITH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Mithril: MITH Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://mith.io/"
+		}
+	]
+}

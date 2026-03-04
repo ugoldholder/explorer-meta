@@ -1,0 +1,6 @@
+{
+	"address": "0x8927c454af0751b61a9d23d0915ca621345235c1",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/FMAGA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

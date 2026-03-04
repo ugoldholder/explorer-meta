@@ -1,0 +1,11 @@
+{
+	"address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+	"chainId": 1,
+	"name": "Medicalchain",
+	"symbol": "MTN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Medicalchain"
+	}
+}

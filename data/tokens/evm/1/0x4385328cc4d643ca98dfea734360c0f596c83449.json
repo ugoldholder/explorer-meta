@@ -1,0 +1,11 @@
+{
+	"address": "0x4385328cc4d643ca98dfea734360c0f596c83449",
+	"chainId": 1,
+	"name": "tomi",
+	"symbol": "TOMI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "tomi"
+	}
+}

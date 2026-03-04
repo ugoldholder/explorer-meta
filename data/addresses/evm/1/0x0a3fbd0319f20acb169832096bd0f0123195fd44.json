@@ -1,0 +1,6 @@
+{
+	"address": "0x0a3fbd0319f20acb169832096bd0f0123195fd44",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TIMMY Pair",
+	"source": ["kleros", "2026-03-03"]
+}

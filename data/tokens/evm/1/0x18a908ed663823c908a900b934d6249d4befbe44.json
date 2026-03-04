@@ -1,0 +1,11 @@
+{
+	"address": "0x18a908ed663823c908a900b934d6249d4befbe44",
+	"chainId": 1,
+	"name": "Strike BUSD",
+	"symbol": "sBUSD",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Strike BUSD"
+	}
+}

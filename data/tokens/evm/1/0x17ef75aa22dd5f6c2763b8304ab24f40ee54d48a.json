@@ -1,0 +1,11 @@
+{
+	"address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a",
+	"chainId": 1,
+	"name": "Revolution Populi",
+	"symbol": "RVP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Revolution Populi"
+	}
+}

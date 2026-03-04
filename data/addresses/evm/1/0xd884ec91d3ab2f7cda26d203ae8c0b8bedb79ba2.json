@@ -1,0 +1,6 @@
+{
+	"address": "0xd884ec91d3ab2f7cda26d203ae8c0b8bedb79ba2",
+	"chainId": 1,
+	"label": "Uniswap v2: Shimmer/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

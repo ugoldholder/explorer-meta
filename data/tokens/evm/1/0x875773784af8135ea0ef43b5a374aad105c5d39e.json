@@ -1,0 +1,11 @@
+{
+	"address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+	"chainId": 1,
+	"name": "IDLE",
+	"symbol": "IDLE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "IDLE"
+	}
+}

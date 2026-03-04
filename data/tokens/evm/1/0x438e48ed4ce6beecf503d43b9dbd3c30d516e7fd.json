@@ -1,0 +1,17 @@
+{
+	"address": "0x438e48ed4ce6beecf503d43b9dbd3c30d516e7fd",
+	"chainId": 1,
+	"name": "UWON",
+	"symbol": "UWON",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "UWON"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.uwon.lol/"
+		}
+	]
+}

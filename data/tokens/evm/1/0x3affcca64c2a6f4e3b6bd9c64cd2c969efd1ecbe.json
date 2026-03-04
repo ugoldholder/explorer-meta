@@ -1,0 +1,11 @@
+{
+	"address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+	"chainId": 1,
+	"name": "DSLA Protocol",
+	"symbol": "DSLA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DSLA Protocol"
+	}
+}

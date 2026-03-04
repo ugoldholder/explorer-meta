@@ -1,0 +1,6 @@
+{
+	"address": "0x0cc4ede170c32d621e47c28bc51c9b6b42bdc57e",
+	"chainId": 1,
+	"label": "Uniswap v2: TUSD/USDQ Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x39053d51b77dc0d36036fc1fcc8cb819df8ef37a",
+	"chainId": 1,
+	"label": "EigenLayer: Delegation Manager Proxy",
+	"source": ["kleros", "2026-03-03"]
+}

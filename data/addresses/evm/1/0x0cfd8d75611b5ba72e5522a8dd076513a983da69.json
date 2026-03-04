@@ -1,0 +1,6 @@
+{
+	"address": "0x0cfd8d75611b5ba72e5522a8dd076513a983da69",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/FTSE Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+	"chainId": 1,
+	"name": "pNetwork",
+	"symbol": "PNT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "pNetwork"
+	}
+}

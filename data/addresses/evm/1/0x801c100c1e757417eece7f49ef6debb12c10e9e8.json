@@ -1,0 +1,6 @@
+{
+	"address": "0x801c100c1e757417eece7f49ef6debb12c10e9e8",
+	"chainId": 1,
+	"label": "Uniswap v2: Chirpy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

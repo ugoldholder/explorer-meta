@@ -1,0 +1,6 @@
+{
+	"address": "0x30a1057975351cd7a8b8c7c708687bf133dff709",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/MOONMAN Pair",
+	"source": ["kleros", "2026-03-03"]
+}

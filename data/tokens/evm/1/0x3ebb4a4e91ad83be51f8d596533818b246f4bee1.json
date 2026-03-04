@@ -1,0 +1,17 @@
+{
+	"address": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
+	"chainId": 1,
+	"name": "Signata",
+	"symbol": "SATA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Signata: SATA Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://sata.technology/"
+		}
+	]
+}

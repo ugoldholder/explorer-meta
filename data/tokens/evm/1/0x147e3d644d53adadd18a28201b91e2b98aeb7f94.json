@@ -1,0 +1,11 @@
+{
+	"address": "0x147e3d644d53adadd18a28201b91e2b98aeb7f94",
+	"chainId": 1,
+	"name": "ElenaUSD",
+	"symbol": "USE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ElenaUSD"
+	}
+}

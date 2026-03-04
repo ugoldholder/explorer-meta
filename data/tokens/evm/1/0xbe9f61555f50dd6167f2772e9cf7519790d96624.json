@@ -1,0 +1,11 @@
+{
+	"address": "0xbe9f61555f50dd6167f2772e9cf7519790d96624",
+	"chainId": 1,
+	"name": "SX",
+	"symbol": "SX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SX"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x2bc46eb4ae80ddd9c8a6e064c74327c8244d88e2",
+	"chainId": 1,
+	"name": "StratoVM",
+	"symbol": "SVM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "StratoVM"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://stratovm.io/"
+		}
+	]
+}

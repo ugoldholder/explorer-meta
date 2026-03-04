@@ -1,0 +1,6 @@
+{
+	"address": "0x85e0a38f535b505ddd9fb304898dea7c693d2478",
+	"chainId": 1,
+	"label": "Uniswap v2: Naughty/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

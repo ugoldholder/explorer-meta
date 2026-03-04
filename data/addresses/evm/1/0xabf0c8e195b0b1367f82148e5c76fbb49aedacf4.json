@@ -1,0 +1,6 @@
+{
+	"address": "0xabf0c8e195b0b1367f82148e5c76fbb49aedacf4",
+	"chainId": 1,
+	"label": "Uniswap v2: FIAT/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

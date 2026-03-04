@@ -1,0 +1,6 @@
+{
+	"address": "0x45c079afff362d7e964d65f63ae6439928d664cd",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Zebec MeanFi Pair",
+	"source": ["kleros", "2026-03-03"]
+}

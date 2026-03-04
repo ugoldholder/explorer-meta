@@ -1,0 +1,17 @@
+{
+	"address": "0x3e5a19c91266ad8ce2477b91585d1856b84062df",
+	"chainId": 1,
+	"name": "Ancient8",
+	"symbol": "A8",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ancient8: A8 Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://ancient8.gg/"
+		}
+	]
+}

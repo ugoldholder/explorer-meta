@@ -1,0 +1,6 @@
+{
+	"address": "0x4d7c6722f37f6eb4d8a6303121bc77004f5b5f85",
+	"chainId": 1,
+	"label": "Uniswap v2: Peponzi/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

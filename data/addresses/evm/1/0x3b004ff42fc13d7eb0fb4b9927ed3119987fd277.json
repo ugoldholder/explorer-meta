@@ -1,0 +1,6 @@
+{
+	"address": "0x3b004ff42fc13d7eb0fb4b9927ed3119987fd277",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Popeye Pair",
+	"source": ["kleros", "2026-03-03"]
+}

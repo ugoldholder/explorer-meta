@@ -1,0 +1,6 @@
+{
+	"address": "0x04d525c3945d7f826647b0938061d2c0bc184f01",
+	"chainId": 1,
+	"label": "Uniswap v2: Raspberries/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

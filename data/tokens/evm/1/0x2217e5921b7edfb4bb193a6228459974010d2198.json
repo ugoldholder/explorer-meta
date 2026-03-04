@@ -1,0 +1,11 @@
+{
+	"address": "0x2217e5921b7edfb4bb193a6228459974010d2198",
+	"chainId": 1,
+	"name": "QMALL",
+	"symbol": "QMALL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "QMALL"
+	}
+}

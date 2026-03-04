@@ -1,0 +1,6 @@
+{
+	"address": "0x6a078e3cb78220ff3b41f3ec163a94723aac6f21",
+	"chainId": 1,
+	"label": "Uniswap v2: DJANGO/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

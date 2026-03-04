@@ -1,0 +1,17 @@
+{
+	"address": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
+	"chainId": 1,
+	"name": "SparkPoint",
+	"symbol": "SRK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SparkPoint: SRK Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.sparkpoint.io/"
+		}
+	]
+}

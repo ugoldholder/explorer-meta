@@ -1,0 +1,11 @@
+{
+	"address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+	"chainId": 1,
+	"name": "Monolith",
+	"symbol": "TKN",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Monolith"
+	}
+}

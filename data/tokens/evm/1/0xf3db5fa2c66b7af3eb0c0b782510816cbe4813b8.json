@@ -1,0 +1,17 @@
+{
+	"address": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+	"chainId": 1,
+	"name": "Everex",
+	"symbol": "EVX",
+	"decimals": 4,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Everex: EVX Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://everex.io/"
+		}
+	]
+}

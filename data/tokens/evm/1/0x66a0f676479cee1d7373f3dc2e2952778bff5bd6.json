@@ -1,0 +1,17 @@
+{
+	"address": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+	"chainId": 1,
+	"name": "Wise",
+	"symbol": "WISE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Wise: WISE Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://wisetoken.net/"
+		}
+	]
+}

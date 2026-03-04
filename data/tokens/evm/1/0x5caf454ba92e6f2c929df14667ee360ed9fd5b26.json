@@ -1,0 +1,11 @@
+{
+	"address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+	"chainId": 1,
+	"name": "Dev Protocol",
+	"symbol": "DEV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dev Protocol"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x14da230d6726c50f759bc1838717f8ce6373509c",
+	"chainId": 1,
+	"name": "Kambria",
+	"symbol": "KAT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Kambria"
+	}
+}

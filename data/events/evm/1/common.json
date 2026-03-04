@@ -74,5 +74,6 @@
 	"0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65": {
 		"event": "Withdrawal(address,uint256)",
 		"description": "WETH withdrawal (unwrap ETH)."
-	}
+	},
+	"source": ["openscan", "2026-03-03"]
 }

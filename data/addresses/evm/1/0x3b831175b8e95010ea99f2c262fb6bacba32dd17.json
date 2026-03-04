@@ -1,0 +1,6 @@
+{
+	"address": "0x3b831175b8e95010ea99f2c262fb6bacba32dd17",
+	"chainId": 1,
+	"label": "Uniswap v2: Vader/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

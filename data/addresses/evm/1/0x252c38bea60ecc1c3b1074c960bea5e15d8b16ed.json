@@ -1,0 +1,6 @@
+{
+	"address": "0x252c38bea60ecc1c3b1074c960bea5e15d8b16ed",
+	"chainId": 1,
+	"label": "Uniswap v2: HEARTBEAT/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

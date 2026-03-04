@@ -1,0 +1,6 @@
+{
+	"address": "0x4d3050296fca14b2164760628825fd62d1e39c58",
+	"chainId": 1,
+	"label": "Uniswap v2: CELESTIA/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

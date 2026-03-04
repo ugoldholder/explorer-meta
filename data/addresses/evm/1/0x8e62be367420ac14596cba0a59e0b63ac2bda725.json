@@ -1,0 +1,6 @@
+{
+	"address": "0x8e62be367420ac14596cba0a59e0b63ac2bda725",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Twinci Arbswap Pair",
+	"source": ["kleros", "2026-03-03"]
+}

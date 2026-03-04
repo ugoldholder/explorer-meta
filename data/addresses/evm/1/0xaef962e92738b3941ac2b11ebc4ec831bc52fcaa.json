@@ -1,0 +1,6 @@
+{
+	"address": "0xaef962e92738b3941ac2b11ebc4ec831bc52fcaa",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/SaitaMKR Pair",
+	"source": ["kleros", "2026-03-03"]
+}

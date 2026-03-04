@@ -1,0 +1,6 @@
+{
+	"address": "0x095b7f786e716f194a634d381e4a6fe3b02b2ffe",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/X VS Twitch Pair",
+	"source": ["kleros", "2026-03-03"]
+}

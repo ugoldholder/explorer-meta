@@ -1,0 +1,6 @@
+{
+	"address": "0x0c02d181913afa7590a7eb2af8a3320c91cd0201",
+	"chainId": 1,
+	"label": "Sushi v2: SHADE/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
+	"chainId": 1,
+	"name": "PUNK Vault",
+	"symbol": "PUNK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "PUNK Vault"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x2958b53d7818c40f637740cb222b76b33b1696db",
+	"chainId": 1,
+	"label": "Uniswap v2: DAI/SGA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

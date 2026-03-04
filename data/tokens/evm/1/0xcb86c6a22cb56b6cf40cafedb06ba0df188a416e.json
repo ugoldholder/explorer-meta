@@ -1,0 +1,11 @@
+{
+	"address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+	"chainId": 1,
+	"name": "inSure DeFi",
+	"symbol": "SURE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "inSure DeFi"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x77a5e11ebc972273b6142c08197e4d825d0b521e",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Goyim Pair",
+	"source": ["kleros", "2026-03-03"]
+}

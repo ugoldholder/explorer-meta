@@ -1,0 +1,17 @@
+{
+	"address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+	"chainId": 1,
+	"name": "HOPR",
+	"symbol": "HOPR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "HOPR: HOPR Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://hoprnet.org/"
+		}
+	]
+}

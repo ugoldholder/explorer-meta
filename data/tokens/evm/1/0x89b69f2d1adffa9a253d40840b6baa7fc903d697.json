@@ -1,0 +1,11 @@
+{
+	"address": "0x89b69f2d1adffa9a253d40840b6baa7fc903d697",
+	"chainId": 1,
+	"name": "Dione",
+	"symbol": "DIONE",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dione"
+	}
+}

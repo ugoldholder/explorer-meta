@@ -1,0 +1,11 @@
+{
+	"address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+	"chainId": 1,
+	"name": "CACHE Gold",
+	"symbol": "CGT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CACHE Gold"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x3f3ef1e2edc959ad466ec188addc0efca1212d1a",
+	"chainId": 1,
+	"label": "Uniswap v2: BURRY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

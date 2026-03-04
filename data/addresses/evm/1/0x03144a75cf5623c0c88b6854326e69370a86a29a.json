@@ -1,0 +1,6 @@
+{
+	"address": "0x03144a75cf5623c0c88b6854326e69370a86a29a",
+	"chainId": 1,
+	"label": "Uniswap v2: Broccoli/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

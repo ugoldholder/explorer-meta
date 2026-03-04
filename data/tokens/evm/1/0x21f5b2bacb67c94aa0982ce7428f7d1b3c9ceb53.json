@@ -1,0 +1,17 @@
+{
+	"address": "0x21f5b2bacb67c94aa0982ce7428f7d1b3c9ceb53",
+	"chainId": 1,
+	"name": "Snorter",
+	"symbol": "SNORT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Snorter"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://snortertoken.com/"
+		}
+	]
+}

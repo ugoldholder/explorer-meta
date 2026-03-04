@@ -1,0 +1,11 @@
+{
+	"address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+	"chainId": 1,
+	"name": "Router Protocol",
+	"symbol": "ROUTE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Router Protocol"
+	}
+}

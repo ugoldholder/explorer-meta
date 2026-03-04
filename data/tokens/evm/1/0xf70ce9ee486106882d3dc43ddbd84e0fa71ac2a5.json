@@ -1,0 +1,17 @@
+{
+	"address": "0xf70ce9ee486106882d3dc43ddbd84e0fa71ac2a5",
+	"chainId": 1,
+	"name": "Ducker",
+	"symbol": "DUCKER",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ducker"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.ducker.vip/"
+		}
+	]
+}

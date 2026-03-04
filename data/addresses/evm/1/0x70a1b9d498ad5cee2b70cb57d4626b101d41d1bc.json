@@ -1,0 +1,6 @@
+{
+	"address": "0x70a1b9d498ad5cee2b70cb57d4626b101d41d1bc",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BabyPanda Pair",
+	"source": ["kleros", "2026-03-03"]
+}

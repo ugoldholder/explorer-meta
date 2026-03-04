@@ -3,5 +3,6 @@
 	"chainId": 8453,
 	"name": "tBTC v2",
 	"symbol": "tBTC",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

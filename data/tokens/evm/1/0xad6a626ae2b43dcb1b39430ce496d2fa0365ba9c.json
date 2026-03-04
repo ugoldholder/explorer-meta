@@ -1,0 +1,11 @@
+{
+	"address": "0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
+	"chainId": 1,
+	"name": "PieDAO DEFI Small Cap",
+	"symbol": "DEFI+S",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "PieDAO DEFI Small Cap"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x653430560be843c4a3d143d0110e896c2ab8ac0d",
+	"chainId": 1,
+	"name": "Molecular Future",
+	"symbol": "MOF",
+	"decimals": 16,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Molecular Future: MOF Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.molecular.cc/"
+		}
+	]
+}

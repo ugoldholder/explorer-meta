@@ -1,0 +1,6 @@
+{
+	"address": "0xbdc120fef90fb185a49ad8fa62c7bc0ed0516cc7",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/KNC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

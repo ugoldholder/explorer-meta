@@ -1,0 +1,11 @@
+{
+	"address": "0xc631be100f6cf9a7012c23de5a6ccb990eafc133",
+	"chainId": 1,
+	"name": "Banana Task Force Ape",
+	"symbol": "BTFA",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Banana Task Force Ape"
+	}
+}

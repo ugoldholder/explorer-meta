@@ -1,0 +1,11 @@
+{
+	"address": "0xba5f11b16b155792cf3b2e6880e8706859a8aeb6",
+	"chainId": 1,
+	"name": "Aeron",
+	"symbol": "ARN",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aeron"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x89d584a1edb3a70b3b07963f9a3ea5399e38b136",
+	"chainId": 1,
+	"name": "AIT Protocol",
+	"symbol": "AIT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "AIT Protocol"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x034ad9f2a1cf37dc544a0a4a0f1272ba7b0fc4dc",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BlueMoon Pair",
+	"source": ["kleros", "2026-03-03"]
+}

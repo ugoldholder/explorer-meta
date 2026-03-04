@@ -1,0 +1,17 @@
+{
+	"address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+	"chainId": 1,
+	"name": "Celsius",
+	"symbol": "CEL",
+	"decimals": 4,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Celsius Network: CEL Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://celsius.network/"
+		}
+	]
+}

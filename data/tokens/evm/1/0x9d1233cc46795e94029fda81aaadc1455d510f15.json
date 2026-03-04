@@ -1,0 +1,11 @@
+{
+	"address": "0x9d1233cc46795e94029fda81aaadc1455d510f15",
+	"chainId": 1,
+	"name": "Zero Collateral Dai",
+	"symbol": "ZAI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Zero Collateral Dai"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xd33d0eb1c0c0295c3a2409a9101dd511823bf217",
+	"chainId": 1,
+	"name": "Unique Fans",
+	"symbol": "FANS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Unique Fans"
+	}
+}

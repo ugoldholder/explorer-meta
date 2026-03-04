@@ -5,5 +5,6 @@
 	"name": "Lil Pudgys",
 	"symbol": "LP",
 	"decimals": 0,
-	"totalSupply": 22222
+	"totalSupply": 22222,
+	"source": ["openscan", "2026-03-03"]
 }

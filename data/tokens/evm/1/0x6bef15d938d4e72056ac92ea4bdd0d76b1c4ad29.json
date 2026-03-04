@@ -1,0 +1,17 @@
+{
+	"address": "0x6bef15d938d4e72056ac92ea4bdd0d76b1c4ad29",
+	"chainId": 1,
+	"name": "Succinct",
+	"symbol": "PROVE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Succinct"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.succinct.xyz/"
+		}
+	]
+}

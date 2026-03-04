@@ -1,0 +1,6 @@
+{
+	"address": "0x64cb00eaf2e31686264382c5a57e783f1c924f4e",
+	"chainId": 1,
+	"label": "Uniswap v2: NFC/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+	"chainId": 1,
+	"name": "Compound Augur",
+	"symbol": "cREP",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Compound Augur"
+	}
+}

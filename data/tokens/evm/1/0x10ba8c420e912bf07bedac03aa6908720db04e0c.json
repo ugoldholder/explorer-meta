@@ -1,0 +1,11 @@
+{
+	"address": "0x10ba8c420e912bf07bedac03aa6908720db04e0c",
+	"chainId": 1,
+	"name": "Raise",
+	"symbol": "RAISE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Raise"
+	}
+}

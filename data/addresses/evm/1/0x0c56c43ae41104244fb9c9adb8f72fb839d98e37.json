@@ -1,0 +1,6 @@
+{
+	"address": "0x0c56c43ae41104244fb9c9adb8f72fb839d98e37",
+	"chainId": 1,
+	"label": "Uniswap v2: GuildFi/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+	"chainId": 1,
+	"name": "GIZA",
+	"symbol": "GIZA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GIZA"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://gizatech.xyz/"
+		}
+	]
+}

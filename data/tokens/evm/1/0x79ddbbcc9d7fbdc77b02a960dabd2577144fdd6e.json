@@ -1,0 +1,11 @@
+{
+	"address": "0x79ddbbcc9d7fbdc77b02a960dabd2577144fdd6e",
+	"chainId": 1,
+	"name": "Crypxie",
+	"symbol": "CPX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Crypxie"
+	}
+}

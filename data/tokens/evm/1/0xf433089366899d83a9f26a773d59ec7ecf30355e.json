@@ -1,0 +1,17 @@
+{
+	"address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
+	"chainId": 1,
+	"name": "Metal",
+	"symbol": "MTL",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Metal: MTL Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://metalpay.com/"
+		}
+	]
+}

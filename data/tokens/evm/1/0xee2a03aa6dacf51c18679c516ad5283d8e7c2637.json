@@ -1,0 +1,11 @@
+{
+	"address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+	"chainId": 1,
+	"name": "Neiro",
+	"symbol": "NEIRO",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Neiro"
+	}
+}

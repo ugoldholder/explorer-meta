@@ -1,0 +1,6 @@
+{
+	"address": "0x965d157f352b90c2ab2358a86a338d04c1604a6b",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/GayStop Pair",
+	"source": ["kleros", "2026-03-03"]
+}

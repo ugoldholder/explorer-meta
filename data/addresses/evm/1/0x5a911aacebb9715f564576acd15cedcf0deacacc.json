@@ -1,0 +1,6 @@
+{
+	"address": "0x5a911aacebb9715f564576acd15cedcf0deacacc",
+	"chainId": 1,
+	"label": "Uniswap v2: Robinhood/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

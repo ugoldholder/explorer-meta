@@ -1,0 +1,6 @@
+{
+	"address": "0x165a0a918871f0edf9f443c7c484eb554e60479c",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/rollercoaster Pair",
+	"source": ["kleros", "2026-03-03"]
+}

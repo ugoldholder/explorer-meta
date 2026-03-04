@@ -1,0 +1,11 @@
+{
+	"address": "0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33",
+	"chainId": 1,
+	"name": "ClearCoin",
+	"symbol": "XCLR",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ClearCoin"
+	}
+}

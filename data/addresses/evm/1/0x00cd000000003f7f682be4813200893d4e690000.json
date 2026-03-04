@@ -1,0 +1,6 @@
+{
+	"address": "0x00cd000000003f7f682be4813200893d4e690000",
+	"chainId": 1,
+	"label": "Synapse Protocol: FastBridge RFQ Router V2",
+	"source": ["kleros", "2026-03-03"]
+}

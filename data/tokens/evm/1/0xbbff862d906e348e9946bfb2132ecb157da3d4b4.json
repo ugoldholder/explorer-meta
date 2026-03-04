@@ -1,0 +1,11 @@
+{
+	"address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+	"chainId": 1,
+	"name": "Sharder",
+	"symbol": "SS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Sharder"
+	}
+}

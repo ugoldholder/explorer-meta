@@ -1,0 +1,11 @@
+{
+	"address": "0xeabacd844a196d7faf3ce596edebf9900341b420",
+	"chainId": 1,
+	"name": "Synthetic Centralised Exchange Index",
+	"symbol": "sCEX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Centralised Exchange Index"
+	}
+}

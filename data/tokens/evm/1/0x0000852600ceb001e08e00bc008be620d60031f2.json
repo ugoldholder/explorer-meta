@@ -1,0 +1,11 @@
+{
+	"address": "0x0000852600ceb001e08e00bc008be620d60031f2",
+	"chainId": 1,
+	"name": "TrueHKD",
+	"symbol": "THKD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TrueHKD"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x9358e3a79d428c7708da22a5bd085159f6818d12",
+	"chainId": 1,
+	"name": "Tenshi",
+	"symbol": "TENSHI",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Tenshi"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x5145755c0535198eec1642dc0cc96225fb28263d",
+	"chainId": 1,
+	"label": "PancakeSwap v3: WETH/WNCG Pool",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xf938424f7210f31df2aee3011291b658f872e91e",
+	"chainId": 1,
+	"name": "Visor",
+	"symbol": "VISR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Visor"
+	}
+}

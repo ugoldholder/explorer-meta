@@ -1,0 +1,6 @@
+{
+	"address": "0x56a07855fee6d9d34923f1ec5532bb4039f2c48e",
+	"chainId": 1,
+	"label": "Uniswap v2: Sporky/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+	"chainId": 1,
+	"name": "Elk Finance",
+	"symbol": "ELK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Elk Finance"
+	}
+}

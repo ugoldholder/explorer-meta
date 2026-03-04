@@ -1,0 +1,6 @@
+{
+	"address": "0x45a4fab4071d4ec6fc60fff62d180ce722cd78f1",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/CYNODE Pair",
+	"source": ["kleros", "2026-03-03"]
+}

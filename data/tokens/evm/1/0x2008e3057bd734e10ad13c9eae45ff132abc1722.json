@@ -1,0 +1,11 @@
+{
+	"address": "0x2008e3057bd734e10ad13c9eae45ff132abc1722",
+	"chainId": 1,
+	"name": "Zebi",
+	"symbol": "ZCO",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Zebi"
+	}
+}

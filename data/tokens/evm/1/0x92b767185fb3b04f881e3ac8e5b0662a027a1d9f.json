@@ -1,0 +1,11 @@
+{
+	"address": "0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f",
+	"chainId": 1,
+	"name": "Cream Dai",
+	"symbol": "crDAI",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream Dai"
+	}
+}

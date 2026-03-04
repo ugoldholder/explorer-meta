@@ -1,0 +1,6 @@
+{
+	"address": "0xcf169fdf40cd8addc14f15c4f642ed21d0044117",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BoomFi Pair",
+	"source": ["kleros", "2026-03-03"]
+}

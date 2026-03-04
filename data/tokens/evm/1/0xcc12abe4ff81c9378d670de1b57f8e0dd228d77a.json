@@ -1,0 +1,11 @@
+{
+	"address": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a",
+	"chainId": 1,
+	"name": "Aave REN",
+	"symbol": "aREN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aave REN"
+	}
+}

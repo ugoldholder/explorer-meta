@@ -1,0 +1,17 @@
+{
+	"address": "0x393f1d49425d94f47b26e591a9d111df5cd61065",
+	"chainId": 1,
+	"name": "GUA",
+	"symbol": "GUA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GUA"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.gua.meme/#/home"
+		}
+	]
+}

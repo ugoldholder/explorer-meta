@@ -1,0 +1,6 @@
+{
+	"address": "0xefd3c9c5433a01d28439ab4db48c455bb054f3dc",
+	"chainId": 1,
+	"label": "Uniswap v2: Candy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

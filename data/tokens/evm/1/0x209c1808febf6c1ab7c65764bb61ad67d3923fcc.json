@@ -1,0 +1,11 @@
+{
+	"address": "0x209c1808febf6c1ab7c65764bb61ad67d3923fcc",
+	"chainId": 1,
+	"name": "APEcoin",
+	"symbol": "APE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "APEcoin"
+	}
+}

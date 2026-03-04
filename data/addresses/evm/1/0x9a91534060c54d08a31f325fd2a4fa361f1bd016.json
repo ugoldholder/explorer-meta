@@ -1,0 +1,6 @@
+{
+	"address": "0x9a91534060c54d08a31f325fd2a4fa361f1bd016",
+	"chainId": 1,
+	"label": "Uniswap v2: MOETA/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

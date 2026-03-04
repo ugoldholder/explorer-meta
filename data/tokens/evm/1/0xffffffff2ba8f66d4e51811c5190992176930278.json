@@ -1,0 +1,11 @@
+{
+	"address": "0xffffffff2ba8f66d4e51811c5190992176930278",
+	"chainId": 1,
+	"name": "Furucombo",
+	"symbol": "COMBO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Furucombo"
+	}
+}

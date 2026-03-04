@@ -1,0 +1,6 @@
+{
+	"address": "0x2c6d26638e680a47196f27371048e251bed862bb",
+	"chainId": 1,
+	"label": "Uniswap v2: 流动池锁定一百年/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x95a92b479cc1a25c684e87a6a6c2b2b20d645526",
+	"chainId": 1,
+	"label": "Uniswap v2: XPRO/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x2cc5172fb7cd35fcbf47f31dc6bd0dc7790be01d",
+	"chainId": 1,
+	"label": "Uniswap v2: TOMMY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

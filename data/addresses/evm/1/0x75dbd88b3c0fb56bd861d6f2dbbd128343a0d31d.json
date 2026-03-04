@@ -1,0 +1,6 @@
+{
+	"address": "0x75dbd88b3c0fb56bd861d6f2dbbd128343a0d31d",
+	"chainId": 1,
+	"label": "PancakeSwap v3: FUKU/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

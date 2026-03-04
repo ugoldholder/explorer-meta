@@ -1,0 +1,11 @@
+{
+	"address": "0xd9d01d4cb824219a8f482a0fad479cb971fd0628",
+	"chainId": 1,
+	"name": "EnterCoin",
+	"symbol": "ENTRC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "EnterCoin"
+	}
+}

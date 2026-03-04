@@ -1,0 +1,11 @@
+{
+	"address": "0x42d6622dece394b54999fbd73d108123806f6a18",
+	"chainId": 1,
+	"name": "SpankChain",
+	"symbol": "SPANK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SpankChain"
+	}
+}

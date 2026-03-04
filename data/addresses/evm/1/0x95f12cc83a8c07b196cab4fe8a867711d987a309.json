@@ -1,0 +1,6 @@
+{
+	"address": "0x95f12cc83a8c07b196cab4fe8a867711d987a309",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/DMTR Pair",
+	"source": ["kleros", "2026-03-03"]
+}

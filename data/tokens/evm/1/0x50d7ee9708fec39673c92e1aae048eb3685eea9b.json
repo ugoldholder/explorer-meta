@@ -1,0 +1,17 @@
+{
+	"address": "0x50d7ee9708fec39673c92e1aae048eb3685eea9b",
+	"chainId": 1,
+	"name": "Ginnan",
+	"symbol": "GINNAN",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ginnan"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://ginnan.io/"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f",
+	"chainId": 1,
+	"name": "Pawthereum",
+	"symbol": "PAWTH",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Pawthereum: PAWTH Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://pawthereum.com/"
+		}
+	]
+}

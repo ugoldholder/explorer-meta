@@ -1,0 +1,6 @@
+{
+	"address": "0x3582a9d734b667324ad08d7d0648d7b52b33ccef",
+	"chainId": 1,
+	"label": "Uniswap v2: Load on Face/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

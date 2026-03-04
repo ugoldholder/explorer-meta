@@ -1,0 +1,11 @@
+{
+	"address": "0xc17c30e98541188614df99239cabd40280810ca3",
+	"chainId": 1,
+	"name": "EverRise",
+	"symbol": "RISE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "EverRise"
+	}
+}

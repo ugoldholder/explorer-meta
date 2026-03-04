@@ -1,0 +1,6 @@
+{
+	"address": "0x643fbf98384652f1727783d2476813a2e3863682",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/HAIRLOSS Pair",
+	"source": ["kleros", "2026-03-03"]
+}

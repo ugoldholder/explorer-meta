@@ -1,0 +1,17 @@
+{
+	"address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
+	"chainId": 1,
+	"name": "Carry",
+	"symbol": "CRE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Carry Protocol: CRE Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://carryprotocol.io/"
+		}
+	]
+}

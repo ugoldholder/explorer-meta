@@ -1,0 +1,11 @@
+{
+	"address": "0x62786eeacc9246b4018e0146cb7a3efeacd9459d",
+	"chainId": 1,
+	"name": "Less Network",
+	"symbol": "LESS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Less Network"
+	}
+}

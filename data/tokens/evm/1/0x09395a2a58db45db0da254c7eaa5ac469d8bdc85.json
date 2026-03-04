@@ -1,0 +1,11 @@
+{
+	"address": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
+	"chainId": 1,
+	"name": "SubQuery Network",
+	"symbol": "SQT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SubQuery Network"
+	}
+}

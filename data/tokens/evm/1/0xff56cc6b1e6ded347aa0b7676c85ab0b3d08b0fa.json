@@ -1,0 +1,17 @@
+{
+	"address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+	"chainId": 1,
+	"name": "Orbs",
+	"symbol": "ORBS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Orbs: ORBS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.orbs.com/"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x368bf9f1a1ca767935e39f20439d9041707e2634",
+	"chainId": 1,
+	"name": "Chainflix",
+	"symbol": "CFXT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Chainflix"
+	}
+}

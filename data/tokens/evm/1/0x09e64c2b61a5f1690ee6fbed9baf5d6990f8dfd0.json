@@ -1,0 +1,11 @@
+{
+	"address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
+	"chainId": 1,
+	"name": "GROWTH DeFi",
+	"symbol": "GRO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GROWTH DeFi"
+	}
+}

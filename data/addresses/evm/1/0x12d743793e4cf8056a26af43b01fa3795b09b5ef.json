@@ -1,0 +1,6 @@
+{
+	"address": "0x12d743793e4cf8056a26af43b01fa3795b09b5ef",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Bobsponge Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x83e817e1574e2201a005ec0f7e700ed5606f555e",
+	"chainId": 1,
+	"name": "mPendle",
+	"symbol": "mPendleOFT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "mPendle"
+	}
+}

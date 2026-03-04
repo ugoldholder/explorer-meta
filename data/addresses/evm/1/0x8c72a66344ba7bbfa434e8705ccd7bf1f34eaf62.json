@@ -1,0 +1,6 @@
+{
+	"address": "0x8c72a66344ba7bbfa434e8705ccd7bf1f34eaf62",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/CrowdBucks Pair",
+	"source": ["kleros", "2026-03-03"]
+}

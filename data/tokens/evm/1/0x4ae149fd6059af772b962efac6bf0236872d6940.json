@@ -1,0 +1,17 @@
+{
+	"address": "0x4ae149fd6059af772b962efac6bf0236872d6940",
+	"chainId": 1,
+	"name": "Lemmy The Bat",
+	"symbol": "LBAI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Lemmy The Bat"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://lemmy-lbai.com"
+		}
+	]
+}

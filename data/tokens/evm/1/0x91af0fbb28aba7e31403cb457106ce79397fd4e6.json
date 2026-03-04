@@ -1,0 +1,17 @@
+{
+	"address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+	"chainId": 1,
+	"name": "Aergo",
+	"symbol": "AERGO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aergo: AERGO Token V2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.aergo.io/"
+		}
+	]
+}

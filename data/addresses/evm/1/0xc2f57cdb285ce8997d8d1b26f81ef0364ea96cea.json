@@ -1,0 +1,6 @@
+{
+	"address": "0xc2f57cdb285ce8997d8d1b26f81ef0364ea96cea",
+	"chainId": 1,
+	"label": "Uniswap v2: LEND/Aave Pair",
+	"source": ["kleros", "2026-03-03"]
+}

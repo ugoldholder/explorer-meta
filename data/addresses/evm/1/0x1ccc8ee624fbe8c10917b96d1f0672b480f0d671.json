@@ -1,0 +1,6 @@
+{
+	"address": "0x1ccc8ee624fbe8c10917b96d1f0672b480f0d671",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/DTR Pool",
+	"source": ["kleros", "2026-03-03"]
+}

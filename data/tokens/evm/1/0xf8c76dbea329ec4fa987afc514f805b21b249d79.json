@@ -1,0 +1,17 @@
+{
+	"address": "0xf8c76dbea329ec4fa987afc514f805b21b249d79",
+	"chainId": 1,
+	"name": "L",
+	"symbol": "L",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "L"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://lthememecoin.com/"
+		}
+	]
+}

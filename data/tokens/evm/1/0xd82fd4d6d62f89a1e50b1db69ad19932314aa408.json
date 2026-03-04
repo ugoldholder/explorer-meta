@@ -1,0 +1,11 @@
+{
+	"address": "0xd82fd4d6d62f89a1e50b1db69ad19932314aa408",
+	"chainId": 1,
+	"name": "Liquis",
+	"symbol": "LIQ",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Liquis"
+	}
+}

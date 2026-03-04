@@ -1,0 +1,17 @@
+{
+	"address": "0x3ca20831ebea5c99aa6e574d83f0a7c733f7e4d0",
+	"chainId": 1,
+	"name": "ChimpStrategy",
+	"symbol": "CHMPSTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ChimpStrategy"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.nftstrategy.fun/strategies/0x3ca20831ebea5c99aa6e574d83f0a7c733f7e4d0"
+		}
+	]
+}

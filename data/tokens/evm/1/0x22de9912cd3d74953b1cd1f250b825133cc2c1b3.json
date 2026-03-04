@@ -1,0 +1,11 @@
+{
+	"address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3",
+	"chainId": 1,
+	"name": "DREP",
+	"symbol": "DREP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DREP"
+	}
+}

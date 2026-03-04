@@ -1,0 +1,11 @@
+{
+	"address": "0xc63b8ecce56ab9c46184ec6ab85e4771fea4c8ad",
+	"chainId": 1,
+	"name": "Synthetic Alphabet",
+	"symbol": "sGOOG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Alphabet"
+	}
+}

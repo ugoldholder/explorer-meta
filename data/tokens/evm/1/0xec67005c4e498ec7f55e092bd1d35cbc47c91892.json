@@ -1,0 +1,17 @@
+{
+	"address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+	"chainId": 1,
+	"name": "Enzyme",
+	"symbol": "MLN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Enzyme Finance: MLN Token V2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://enzyme.finance/"
+		}
+	]
+}

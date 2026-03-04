@@ -1,0 +1,11 @@
+{
+	"address": "0xff836a5821e69066c87e268bc51b849fab94240c",
+	"chainId": 1,
+	"name": "Real Smurf Cat",
+	"symbol": "SMURFCAT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Real Smurf Cat"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x330839ef82d34801bd96e75a4ee778ac56fa1ed8",
+	"chainId": 1,
+	"name": "ICOStart",
+	"symbol": "ICH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ICOStart"
+	}
+}

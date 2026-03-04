@@ -1,0 +1,6 @@
+{
+	"address": "0x3e66b66fd1d0b02fda6c811da9e0547970db2f21",
+	"chainId": 1,
+	"label": "Balancer: Exchange Proxy 2",
+	"source": ["kleros", "2026-03-03"]
+}

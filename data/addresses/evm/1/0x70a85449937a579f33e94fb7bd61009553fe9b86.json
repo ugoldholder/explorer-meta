@@ -1,0 +1,6 @@
+{
+	"address": "0x70a85449937a579f33e94fb7bd61009553fe9b86",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/LIMITBOT Pair",
+	"source": ["kleros", "2026-03-03"]
+}

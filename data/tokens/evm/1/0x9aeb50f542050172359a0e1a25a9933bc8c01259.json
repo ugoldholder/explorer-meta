@@ -1,0 +1,11 @@
+{
+	"address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
+	"chainId": 1,
+	"name": "OIN Finance",
+	"symbol": "OIN",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "OIN Finance"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xbd05cee8741100010d8e93048a80ed77645ac7bf",
+	"chainId": 1,
+	"name": "Cyclops Treasure",
+	"symbol": "CYTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cyclops Treasure"
+	}
+}

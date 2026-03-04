@@ -1,0 +1,6 @@
+{
+	"address": "0x5d1205a944db24dd3ed6de21ed8eea7a874522fd",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/KOGENTA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

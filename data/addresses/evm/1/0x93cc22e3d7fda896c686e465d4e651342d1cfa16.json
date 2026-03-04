@@ -1,0 +1,6 @@
+{
+	"address": "0x93cc22e3d7fda896c686e465d4e651342d1cfa16",
+	"chainId": 1,
+	"label": "Uniswap v2: TaxGame/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

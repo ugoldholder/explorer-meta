@@ -1,0 +1,11 @@
+{
+	"address": "0x7537aae01f3b218dae75e10d952473823f961b87",
+	"chainId": 1,
+	"name": "Synthetic Apple",
+	"symbol": "sAAPL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Apple"
+	}
+}

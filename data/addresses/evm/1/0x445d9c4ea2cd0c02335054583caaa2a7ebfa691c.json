@@ -1,0 +1,6 @@
+{
+	"address": "0x445d9c4ea2cd0c02335054583caaa2a7ebfa691c",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Soylana Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x6ecfa273721cbc7a28053dbb0c39eeb22b09c5cb",
+	"chainId": 1,
+	"label": "Uniswap v2: Stress/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x4cd045fe60e5b61befa95cc98ad36efd20747faa",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/PONKA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

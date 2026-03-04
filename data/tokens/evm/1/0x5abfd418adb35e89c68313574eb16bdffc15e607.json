@@ -1,0 +1,11 @@
+{
+	"address": "0x5abfd418adb35e89c68313574eb16bdffc15e607",
+	"chainId": 1,
+	"name": "Timvi",
+	"symbol": "TMV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Timvi"
+	}
+}

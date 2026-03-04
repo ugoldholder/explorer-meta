@@ -1,0 +1,17 @@
+{
+	"address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+	"chainId": 1,
+	"name": "Origin Protocol",
+	"symbol": "OGN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Origin: OGN Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.originprotocol.com/"
+		}
+	]
+}

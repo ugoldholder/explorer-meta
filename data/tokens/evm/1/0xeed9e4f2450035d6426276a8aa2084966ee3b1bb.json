@@ -1,0 +1,11 @@
+{
+	"address": "0xeed9e4f2450035d6426276a8aa2084966ee3b1bb",
+	"chainId": 1,
+	"name": "Steaks Finance",
+	"symbol": "STEAK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Steaks Finance"
+	}
+}

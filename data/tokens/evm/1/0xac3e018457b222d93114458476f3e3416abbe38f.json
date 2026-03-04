@@ -3,5 +3,9 @@
 	"chainId": 1,
 	"name": "Staked Frax Ether",
 	"symbol": "sfrxETH",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Staked Frax Ether"
+	}
 }

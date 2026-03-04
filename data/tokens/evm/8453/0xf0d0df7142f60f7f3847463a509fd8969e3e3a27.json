@@ -5,5 +5,6 @@
 	"name": "Tiny Based Frogs",
 	"symbol": "TINYFROG",
 	"decimals": 0,
-	"totalSupply": 999
+	"totalSupply": 999,
+	"source": ["openscan", "2026-03-03"]
 }

@@ -1,0 +1,11 @@
+{
+	"address": "0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d",
+	"chainId": 1,
+	"name": "ZMINE",
+	"symbol": "ZMN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ZMINE"
+	}
+}

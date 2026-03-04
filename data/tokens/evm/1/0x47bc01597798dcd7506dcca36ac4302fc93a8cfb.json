@@ -1,0 +1,11 @@
+{
+	"address": "0x47bc01597798dcd7506dcca36ac4302fc93a8cfb",
+	"chainId": 1,
+	"name": "Crowd Machine",
+	"symbol": "CMCT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Crowd Machine"
+	}
+}

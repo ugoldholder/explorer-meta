@@ -1,0 +1,6 @@
+{
+	"address": "0x2d17ff883ce3def1359317aa6b8d1fabcbaf6cff",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/M&M's Pair",
+	"source": ["kleros", "2026-03-03"]
+}

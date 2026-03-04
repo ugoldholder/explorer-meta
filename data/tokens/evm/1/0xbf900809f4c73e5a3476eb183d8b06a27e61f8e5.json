@@ -1,0 +1,11 @@
+{
+	"address": "0xbf900809f4c73e5a3476eb183d8b06a27e61f8e5",
+	"chainId": 1,
+	"name": "Vanilla",
+	"symbol": "VNL",
+	"decimals": 12,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Vanilla"
+	}
+}

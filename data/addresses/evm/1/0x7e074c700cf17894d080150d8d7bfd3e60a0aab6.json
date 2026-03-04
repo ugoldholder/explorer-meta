@@ -1,0 +1,6 @@
+{
+	"address": "0x7e074c700cf17894d080150d8d7bfd3e60a0aab6",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Humpty Dumpty Pair",
+	"source": ["kleros", "2026-03-03"]
+}

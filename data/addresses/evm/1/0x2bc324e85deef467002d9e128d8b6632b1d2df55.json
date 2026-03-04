@@ -1,0 +1,6 @@
+{
+	"address": "0x2bc324e85deef467002d9e128d8b6632b1d2df55",
+	"chainId": 1,
+	"label": "Uniswap v2: BTC/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

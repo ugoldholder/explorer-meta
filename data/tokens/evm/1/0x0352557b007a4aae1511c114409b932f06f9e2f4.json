@@ -1,0 +1,11 @@
+{
+	"address": "0x0352557b007a4aae1511c114409b932f06f9e2f4",
+	"chainId": 1,
+	"name": "Synthetic THORChain",
+	"symbol": "sRUNE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic THORChain"
+	}
+}

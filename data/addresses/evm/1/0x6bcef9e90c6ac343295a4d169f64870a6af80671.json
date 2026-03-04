@@ -1,0 +1,6 @@
+{
+	"address": "0x6bcef9e90c6ac343295a4d169f64870a6af80671",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BlackPanther Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xcb550a6d4c8e3517a939bc79d0c7093eb7cf56b5",
+	"chainId": 1,
+	"name": "WBTC yVault",
+	"symbol": "yvWBTC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "WBTC yVault"
+	}
+}

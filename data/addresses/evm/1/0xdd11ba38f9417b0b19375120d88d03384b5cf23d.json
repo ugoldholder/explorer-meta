@@ -1,0 +1,6 @@
+{
+	"address": "0xdd11ba38f9417b0b19375120d88d03384b5cf23d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Reserve Rights OSMO Pair",
+	"source": ["kleros", "2026-03-03"]
+}

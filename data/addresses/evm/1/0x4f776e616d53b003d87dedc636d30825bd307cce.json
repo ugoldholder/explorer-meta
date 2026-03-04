@@ -1,0 +1,6 @@
+{
+	"address": "0x4f776e616d53b003d87dedc636d30825bd307cce",
+	"chainId": 1,
+	"label": "Uniswap v2: KFC/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

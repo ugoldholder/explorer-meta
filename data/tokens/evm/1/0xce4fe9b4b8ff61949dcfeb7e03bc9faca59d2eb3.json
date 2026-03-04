@@ -1,0 +1,11 @@
+{
+	"address": "0xce4fe9b4b8ff61949dcfeb7e03bc9faca59d2eb3",
+	"chainId": 1,
+	"name": "Cream Balancer",
+	"symbol": "crBAL",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream Balancer"
+	}
+}

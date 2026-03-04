@@ -1,0 +1,11 @@
+{
+	"address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+	"chainId": 1,
+	"name": "Dawn Protocol",
+	"symbol": "DAWN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dawn Protocol"
+	}
+}

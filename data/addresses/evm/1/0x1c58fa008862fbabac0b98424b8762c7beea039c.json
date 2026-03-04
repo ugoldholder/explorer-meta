@@ -1,0 +1,6 @@
+{
+	"address": "0x1c58fa008862fbabac0b98424b8762c7beea039c",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Solana GateToken Pair",
+	"source": ["kleros", "2026-03-03"]
+}

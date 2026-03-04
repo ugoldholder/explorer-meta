@@ -1,0 +1,11 @@
+{
+	"address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+	"chainId": 1,
+	"name": "STP",
+	"symbol": "STPT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "STP"
+	}
+}

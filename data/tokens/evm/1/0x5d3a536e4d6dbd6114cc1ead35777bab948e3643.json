@@ -1,0 +1,17 @@
+{
+	"address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+	"chainId": 1,
+	"name": "Compound Dai",
+	"symbol": "cDAI",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Compound: cDAI Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://compound.finance/"
+		}
+	]
+}

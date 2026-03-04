@@ -1,0 +1,11 @@
+{
+	"address": "0xa462bde22d98335e18a21555b6752db93a937cff",
+	"chainId": 1,
+	"name": "Kennedy Memecoin",
+	"symbol": "BOBBY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Kennedy Memecoin"
+	}
+}

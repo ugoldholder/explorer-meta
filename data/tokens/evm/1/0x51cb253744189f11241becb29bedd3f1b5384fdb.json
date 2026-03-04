@@ -1,0 +1,11 @@
+{
+	"address": "0x51cb253744189f11241becb29bedd3f1b5384fdb",
+	"chainId": 1,
+	"name": "Dimitra",
+	"symbol": "DMTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dimitra"
+	}
+}

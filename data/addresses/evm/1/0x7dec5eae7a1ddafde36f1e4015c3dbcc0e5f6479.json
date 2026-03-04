@@ -1,0 +1,6 @@
+{
+	"address": "0x7dec5eae7a1ddafde36f1e4015c3dbcc0e5f6479",
+	"chainId": 1,
+	"label": "Uniswap v2: Inazuma/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

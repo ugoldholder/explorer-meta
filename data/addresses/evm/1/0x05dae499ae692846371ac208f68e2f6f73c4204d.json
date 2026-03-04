@@ -1,0 +1,6 @@
+{
+	"address": "0x05dae499ae692846371ac208f68e2f6f73c4204d",
+	"chainId": 1,
+	"label": "Uniswap v2: JARVIS/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

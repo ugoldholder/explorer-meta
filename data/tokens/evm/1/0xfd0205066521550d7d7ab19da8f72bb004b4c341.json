@@ -1,0 +1,11 @@
+{
+	"address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341",
+	"chainId": 1,
+	"name": "Liquidity Incentive Token",
+	"symbol": "LIT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Liquidity Incentive Token"
+	}
+}

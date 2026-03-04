@@ -1,0 +1,6 @@
+{
+	"address": "0xc348f26a6f60fe1e5e3ea849bdc7c1e7374d18bb",
+	"chainId": 1,
+	"label": "Uniswap v2: MySQL/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

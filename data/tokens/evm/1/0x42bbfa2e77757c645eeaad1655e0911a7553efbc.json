@@ -1,0 +1,17 @@
+{
+	"address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+	"chainId": 1,
+	"name": "Boba Network",
+	"symbol": "BOBA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Boba Network: BOBA Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://boba.network/"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x10bae51262490b4f4af41e12ed52a0e744c1137a",
+	"chainId": 1,
+	"name": "Soft Link",
+	"symbol": "SLINK",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Soft Link"
+	}
+}

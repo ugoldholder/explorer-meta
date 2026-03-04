@@ -1,0 +1,11 @@
+{
+	"address": "0x9b62513c8a27290cf6a7a9e29386e600245ea819",
+	"chainId": 1,
+	"name": "Contents Protocol",
+	"symbol": "CPT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Contents Protocol"
+	}
+}

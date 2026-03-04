@@ -1,0 +1,17 @@
+{
+	"address": "0x6bcba7cd81a5f12c10ca1bf9b36761cc382658e8",
+	"chainId": 1,
+	"name": "BirbStrategy",
+	"symbol": "BIRBSTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BirbStrategy"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.nftstrategy.fun/strategies/0x6bcba7cd81a5f12c10ca1bf9b36761cc382658e8"
+		}
+	]
+}

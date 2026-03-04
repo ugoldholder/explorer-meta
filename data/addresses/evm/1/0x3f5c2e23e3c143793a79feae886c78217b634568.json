@@ -1,0 +1,6 @@
+{
+	"address": "0x3f5c2e23e3c143793a79feae886c78217b634568",
+	"chainId": 1,
+	"label": "Uniswap v2: Router Protocol/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

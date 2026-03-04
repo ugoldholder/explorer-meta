@@ -1,0 +1,17 @@
+{
+	"address": "0x1570b8d622ebde9209e1b394a3c08e8eb6e99705",
+	"chainId": 1,
+	"name": "Astrochimp",
+	"symbol": "CHIMP",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Astrochimp"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://astrochimp.vip"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
+	"chainId": 1,
+	"name": "Flux",
+	"symbol": "FLUX",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Flux"
+	}
+}

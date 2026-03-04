@@ -1,0 +1,11 @@
+{
+	"address": "0x928b2a1e6c5095e558454b795bcfd11b8f0791f0",
+	"chainId": 1,
+	"name": "SLIMER",
+	"symbol": "SLIMER",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SLIMER"
+	}
+}

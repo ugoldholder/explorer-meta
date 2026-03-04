@@ -1,0 +1,11 @@
+{
+	"address": "0x1e8e29ca51363d923725ab9dac73bd7e9c440f71",
+	"chainId": 1,
+	"name": "MEME TAO",
+	"symbol": "MTAO",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MEME TAO"
+	}
+}

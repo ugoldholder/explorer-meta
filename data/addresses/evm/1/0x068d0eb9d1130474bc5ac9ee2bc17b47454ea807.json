@@ -1,0 +1,6 @@
+{
+	"address": "0x068d0eb9d1130474bc5ac9ee2bc17b47454ea807",
+	"chainId": 1,
+	"label": "Uniswap v2: MetFi Golem/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

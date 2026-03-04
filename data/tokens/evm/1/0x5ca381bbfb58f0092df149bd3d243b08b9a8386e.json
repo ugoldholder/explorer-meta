@@ -1,0 +1,17 @@
+{
+	"address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+	"chainId": 1,
+	"name": "MXC",
+	"symbol": "MXC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MXC Foundation: MXC Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.mxc.org/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x71b0933ff55d85d40529083b88a9a6ab4a6af0f9",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/STEBBINS Pair",
+	"source": ["kleros", "2026-03-03"]
+}

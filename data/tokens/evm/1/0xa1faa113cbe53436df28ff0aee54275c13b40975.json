@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Alpha Finance Lab",
 	"symbol": "ALPHA",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Alpha Venture DAO: ALPHA Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://alphaventuredao.io/"
+		}
+	]
 }

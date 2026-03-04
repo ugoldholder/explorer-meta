@@ -1,0 +1,6 @@
+{
+	"address": "0x04dfdddde67068a2b1c3cbf8f4e42c218f9f74a5",
+	"chainId": 1,
+	"label": "Uniswap v2: BailOut/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

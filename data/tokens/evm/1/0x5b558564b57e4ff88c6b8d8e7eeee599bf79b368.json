@@ -1,0 +1,11 @@
+{
+	"address": "0x5b558564b57e4ff88c6b8d8e7eeee599bf79b368",
+	"chainId": 1,
+	"name": "MultiMillion",
+	"symbol": "MMM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MultiMillion"
+	}
+}

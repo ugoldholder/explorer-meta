@@ -1,0 +1,6 @@
+{
+	"address": "0x2be0b231646c25b57c5b2fa11f67d99d51dfdc3f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/$TRISKIT Pair",
+	"source": ["kleros", "2026-03-03"]
+}

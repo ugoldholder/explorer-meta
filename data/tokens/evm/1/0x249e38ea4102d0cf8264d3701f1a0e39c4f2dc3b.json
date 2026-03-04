@@ -1,0 +1,17 @@
+{
+	"address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+	"chainId": 1,
+	"name": "The Truth",
+	"symbol": "UFO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "UFO Gaming: UFO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://ufogaming.io/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x5eb11cacd5ff7f77225e0aa3016e57b7f2e7a4a1",
+	"chainId": 1,
+	"label": "PancakeSwap v3: WETH/SDQ Pool",
+	"source": ["kleros", "2026-03-03"]
+}

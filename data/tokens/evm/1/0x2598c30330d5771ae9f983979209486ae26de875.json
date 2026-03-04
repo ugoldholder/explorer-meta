@@ -1,0 +1,11 @@
+{
+	"address": "0x2598c30330d5771ae9f983979209486ae26de875",
+	"chainId": 1,
+	"name": "Any Inu",
+	"symbol": "AI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Any Inu"
+	}
+}

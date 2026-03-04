@@ -1,0 +1,6 @@
+{
+	"address": "0x62b491d914f1d9475bc4fc95d957d418ba5197a6",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/LAZY COW Pair",
+	"source": ["kleros", "2026-03-03"]
+}

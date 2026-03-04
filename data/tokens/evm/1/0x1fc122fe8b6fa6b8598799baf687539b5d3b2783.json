@@ -1,0 +1,17 @@
+{
+	"address": "0x1fc122fe8b6fa6b8598799baf687539b5d3b2783",
+	"chainId": 1,
+	"name": "RavenQuest",
+	"symbol": "QUEST",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "RavenQuest"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://ravenquest.io/en/"
+		}
+	]
+}

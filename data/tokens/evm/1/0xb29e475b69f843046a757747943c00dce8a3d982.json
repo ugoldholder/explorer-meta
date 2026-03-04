@@ -1,0 +1,17 @@
+{
+	"address": "0xb29e475b69f843046a757747943c00dce8a3d982",
+	"chainId": 1,
+	"name": "Spectre",
+	"symbol": "SPCTR",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Spectre: SPCTR Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://spectre.quest/"
+		}
+	]
+}

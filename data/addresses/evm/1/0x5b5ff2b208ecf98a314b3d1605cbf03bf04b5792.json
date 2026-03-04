@@ -1,0 +1,6 @@
+{
+	"address": "0x5b5ff2b208ecf98a314b3d1605cbf03bf04b5792",
+	"chainId": 1,
+	"label": "Uniswap v2: backpack/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

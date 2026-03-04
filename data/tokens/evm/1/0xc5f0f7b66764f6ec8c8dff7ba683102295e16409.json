@@ -1,0 +1,11 @@
+{
+	"address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+	"chainId": 1,
+	"name": "First Digital USD",
+	"symbol": "FDUSD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "First Digital USD"
+	}
+}

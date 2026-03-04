@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "OKB",
 	"symbol": "OKB",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "OKX: OKB Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.okx.com/"
+		}
+	]
 }

@@ -1,0 +1,6 @@
+{
+	"address": "0x982d9f580764b83f734a0a304b20be0ed834cf59",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Vitalik = Ethereum Pair",
+	"source": ["kleros", "2026-03-03"]
+}

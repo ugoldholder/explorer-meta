@@ -1,0 +1,6 @@
+{
+	"address": "0x8bb73e002ad417a9676f495e4a5931f00d0ef7ca",
+	"chainId": 1,
+	"label": "Uniswap v2: Print The Turbo/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

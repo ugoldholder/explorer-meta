@@ -1,0 +1,11 @@
+{
+	"address": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f",
+	"chainId": 1,
+	"name": "Gather",
+	"symbol": "GTH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Gather"
+	}
+}

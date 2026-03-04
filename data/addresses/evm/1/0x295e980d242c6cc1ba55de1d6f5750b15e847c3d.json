@@ -1,0 +1,6 @@
+{
+	"address": "0x295e980d242c6cc1ba55de1d6f5750b15e847c3d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Samurai Pair",
+	"source": ["kleros", "2026-03-03"]
+}

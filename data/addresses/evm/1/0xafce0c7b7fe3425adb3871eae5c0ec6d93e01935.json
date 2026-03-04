@@ -1,0 +1,6 @@
+{
+	"address": "0xafce0c7b7fe3425adb3871eae5c0ec6d93e01935",
+	"chainId": 1,
+	"label": "Chainlink: XAU / USD Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

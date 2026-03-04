@@ -1,0 +1,6 @@
+{
+	"address": "0x7746cd605f4325153ddbea3b161d63fbf35805ee",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/GRIDMETRIX Pair",
+	"source": ["kleros", "2026-03-03"]
+}

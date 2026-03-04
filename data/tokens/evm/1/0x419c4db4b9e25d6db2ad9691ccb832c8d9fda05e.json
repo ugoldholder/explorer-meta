@@ -1,0 +1,17 @@
+{
+	"address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+	"chainId": 1,
+	"name": "Dragonchain",
+	"symbol": "DRGN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dragonchain: DRGN Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://dragonchain.com/"
+		}
+	]
+}

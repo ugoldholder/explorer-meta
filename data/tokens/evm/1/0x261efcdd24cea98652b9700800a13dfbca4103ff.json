@@ -1,0 +1,11 @@
+{
+	"address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
+	"chainId": 1,
+	"name": "Synthetic Gold Ounce",
+	"symbol": "sXAU",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Gold Ounce"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x76fc6dfeb3c7a8f5ba4edbd3a236fbb675e734ff",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Serum Inu Pair",
+	"source": ["kleros", "2026-03-03"]
+}

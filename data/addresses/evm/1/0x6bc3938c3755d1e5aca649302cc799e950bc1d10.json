@@ -1,0 +1,6 @@
+{
+	"address": "0x6bc3938c3755d1e5aca649302cc799e950bc1d10",
+	"chainId": 1,
+	"label": "Sushi v2: C20/USDC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

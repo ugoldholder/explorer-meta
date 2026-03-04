@@ -1,0 +1,11 @@
+{
+	"address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+	"chainId": 1,
+	"name": "Kattana",
+	"symbol": "KTN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Kattana"
+	}
+}

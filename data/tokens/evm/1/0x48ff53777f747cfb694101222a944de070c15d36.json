@@ -1,0 +1,11 @@
+{
+	"address": "0x48ff53777f747cfb694101222a944de070c15d36",
+	"chainId": 1,
+	"name": "Ether Kingdoms",
+	"symbol": "IMP",
+	"decimals": 7,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ether Kingdoms"
+	}
+}

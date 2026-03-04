@@ -1,0 +1,6 @@
+{
+	"address": "0x0ce567739a06ca31f0a8edc50fbf1ae8037fa9b0",
+	"chainId": 1,
+	"label": "Uniswap v2: GSK/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

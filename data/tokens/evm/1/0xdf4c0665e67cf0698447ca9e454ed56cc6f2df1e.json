@@ -1,0 +1,17 @@
+{
+	"address": "0xdf4c0665e67cf0698447ca9e454ed56cc6f2df1e",
+	"chainId": 1,
+	"name": "TOKEN6900",
+	"symbol": "T6900",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TOKEN6900"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://token6900.com/"
+		}
+	]
+}

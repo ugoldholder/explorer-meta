@@ -1,0 +1,11 @@
+{
+	"address": "0xcbae0a83f4f9926997c8339545fb8ee32edc6b76",
+	"chainId": 1,
+	"name": "Cream YFI",
+	"symbol": "crYFI",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream YFI"
+	}
+}

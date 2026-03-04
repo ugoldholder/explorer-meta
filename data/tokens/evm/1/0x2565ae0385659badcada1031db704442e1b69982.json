@@ -1,0 +1,17 @@
+{
+	"address": "0x2565ae0385659badcada1031db704442e1b69982",
+	"chainId": 1,
+	"name": "Assemble",
+	"symbol": "ASM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Assemble Protocol: ASM Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://assembleprotocol.io/"
+		}
+	]
+}

@@ -3,5 +3,6 @@
 	"chainId": 56,
 	"name": "Venus",
 	"symbol": "XVS",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

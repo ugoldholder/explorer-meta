@@ -1,0 +1,6 @@
+{
+	"address": "0x23beca0c5815b32e4a2af125c7c6f4ae998ff1bd",
+	"chainId": 1,
+	"label": "Uniswap v2: Leprechaun/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

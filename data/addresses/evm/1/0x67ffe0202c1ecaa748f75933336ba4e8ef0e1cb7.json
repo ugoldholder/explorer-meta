@@ -1,0 +1,6 @@
+{
+	"address": "0x67ffe0202c1ecaa748f75933336ba4e8ef0e1cb7",
+	"chainId": 1,
+	"label": "Uniswap v2: selfdestruct nerf/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

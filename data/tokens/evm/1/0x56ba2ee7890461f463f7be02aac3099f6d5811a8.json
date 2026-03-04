@@ -1,0 +1,17 @@
+{
+	"address": "0x56ba2ee7890461f463f7be02aac3099f6d5811a8",
+	"chainId": 1,
+	"name": "BlockCAT",
+	"symbol": "CAT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BlockCat: CAT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://blockcat.io/"
+		}
+	]
+}

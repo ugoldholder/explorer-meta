@@ -1,0 +1,6 @@
+{
+	"address": "0x56d82ce14b789c5137619cfa0fe2b5fb3f552a90",
+	"chainId": 1,
+	"label": "Uniswap v2: Toothless/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

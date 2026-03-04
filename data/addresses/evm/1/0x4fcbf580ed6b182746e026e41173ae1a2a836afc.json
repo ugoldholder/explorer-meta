@@ -1,0 +1,6 @@
+{
+	"address": "0x4fcbf580ed6b182746e026e41173ae1a2a836afc",
+	"chainId": 1,
+	"label": "Uniswap v2: RATELIMIT/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

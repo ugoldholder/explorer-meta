@@ -1,0 +1,17 @@
+{
+	"address": "0x3081f70000e8cf8be2afcae3db6b9d9c796caec5",
+	"chainId": 1,
+	"name": "ETH6900",
+	"symbol": "ETH6900",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ETH6900"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.eth6900.wtf/"
+		}
+	]
+}

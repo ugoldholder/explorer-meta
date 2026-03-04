@@ -1,0 +1,6 @@
+{
+	"address": "0xc3ac6fe880f4951b8efc9715bbeb83800b784532",
+	"chainId": 1,
+	"label": "Enzyme: fxTest-WETH Vault",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x0e87c3f6ca758fb3bb405c8b6f4b0fad11b2f7e7",
+	"chainId": 1,
+	"label": "Uniswap v2: EIP-7825/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

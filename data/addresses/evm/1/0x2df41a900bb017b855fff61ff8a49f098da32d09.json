@@ -1,0 +1,6 @@
+{
+	"address": "0x2df41a900bb017b855fff61ff8a49f098da32d09",
+	"chainId": 1,
+	"label": "Uniswap v2: Pay $8/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

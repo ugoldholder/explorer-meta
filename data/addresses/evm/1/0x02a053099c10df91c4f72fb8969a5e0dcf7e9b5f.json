@@ -1,0 +1,6 @@
+{
+	"address": "0x02a053099c10df91c4f72fb8969a5e0dcf7e9b5f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/SafeMoonC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

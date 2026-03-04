@@ -1,0 +1,6 @@
+{
+	"address": "0x4825725249494fea29de5b25ba6e8857be5c762d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BinanceBridge Pair",
+	"source": ["kleros", "2026-03-03"]
+}

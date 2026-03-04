@@ -1,0 +1,6 @@
+{
+	"address": "0x70e962b4ff4b1b52a5e5e4e2ac847366517f1a9b",
+	"chainId": 1,
+	"label": "Uniswap v2: Flippy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

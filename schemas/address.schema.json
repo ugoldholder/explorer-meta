@@ -21,8 +21,25 @@
 		"label": {
 			"type": "string",
 			"description": "Human-readable label for this address (e.g., 'Router V2', 'Treasury')"
+		},
+		"source": {
+			"type": "array",
+			"items": [
+				{
+					"type": "string",
+					"description": "Data source name (e.g., openscan, kleros)"
+				},
+				{
+					"type": "string",
+					"format": "date",
+					"description": "Date added or last updated (YYYY-MM-DD)"
+				}
+			],
+			"minItems": 2,
+			"additionalItems": false,
+			"description": "Data source: [name, date added/updated]"
 		}
 	},
-	"required": ["address", "chainId", "supporter"],
+	"required": ["address", "chainId"],
 	"additionalProperties": false
 }

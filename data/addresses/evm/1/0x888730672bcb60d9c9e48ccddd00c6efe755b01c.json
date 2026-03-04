@@ -1,0 +1,6 @@
+{
+	"address": "0x888730672bcb60d9c9e48ccddd00c6efe755b01c",
+	"chainId": 1,
+	"label": "Uniswap v2: FARGO/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

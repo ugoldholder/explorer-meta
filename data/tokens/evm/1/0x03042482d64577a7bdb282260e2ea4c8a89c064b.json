@@ -1,0 +1,11 @@
+{
+	"address": "0x03042482d64577a7bdb282260e2ea4c8a89c064b",
+	"chainId": 1,
+	"name": "Centaur",
+	"symbol": "CNTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Centaur"
+	}
+}

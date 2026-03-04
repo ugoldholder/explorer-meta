@@ -1,0 +1,6 @@
+{
+	"address": "0x5fd923f905b551d5ed6eeb8284537aff7d7cdcd9",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/TRI Pool",
+	"source": ["kleros", "2026-03-03"]
+}

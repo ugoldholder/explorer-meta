@@ -1,0 +1,11 @@
+{
+	"address": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
+	"chainId": 1,
+	"name": "Dogey-Inu",
+	"symbol": "DINU",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dogey-Inu"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x2895a86a1d881349f16b64a742561b0e3dd51034",
+	"chainId": 1,
+	"label": "PancakeSwap v3: DOVX/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

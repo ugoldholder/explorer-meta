@@ -1,0 +1,6 @@
+{
+	"address": "0x8da4bceb994021b7a8d88014ef0ba3fe8f0ce613",
+	"chainId": 1,
+	"label": "Uniswap v2: Hyperlane/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

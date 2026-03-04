@@ -1,0 +1,6 @@
+{
+	"address": "0x3791dda60c9362d79d5949783ae63b7732551dbb",
+	"chainId": 1,
+	"label": "Uniswap v2: hyperliquid/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

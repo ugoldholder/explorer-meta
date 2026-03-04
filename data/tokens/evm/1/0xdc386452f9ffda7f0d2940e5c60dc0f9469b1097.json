@@ -1,0 +1,11 @@
+{
+	"address": "0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097",
+	"chainId": 1,
+	"name": "xKAWA",
+	"symbol": "xKAWA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "xKAWA"
+	}
+}

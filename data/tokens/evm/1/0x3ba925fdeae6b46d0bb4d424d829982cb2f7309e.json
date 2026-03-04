@@ -1,0 +1,11 @@
+{
+	"address": "0x3ba925fdeae6b46d0bb4d424d829982cb2f7309e",
+	"chainId": 1,
+	"name": "RabbitX",
+	"symbol": "RBX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "RabbitX"
+	}
+}

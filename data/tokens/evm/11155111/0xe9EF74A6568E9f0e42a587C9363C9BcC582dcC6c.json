@@ -3,5 +3,6 @@
 	"chainId": 11155111,
 	"name": "Zeenus",
 	"symbol": "ZEENUS",
-	"decimals": 0
+	"decimals": 0,
+	"source": ["openscan", "2026-03-03"]
 }

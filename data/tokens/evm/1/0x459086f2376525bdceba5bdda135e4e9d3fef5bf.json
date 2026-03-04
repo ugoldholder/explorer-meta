@@ -1,0 +1,11 @@
+{
+	"address": "0x459086f2376525bdceba5bdda135e4e9d3fef5bf",
+	"chainId": 1,
+	"name": "renBCH",
+	"symbol": "renBCH",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "renBCH"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x9c306a78b1a904e83115c05ac67c1ef07c653651",
+	"chainId": 1,
+	"name": "BoringDAO DOGE",
+	"symbol": "ODOGE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BoringDAO DOGE"
+	}
+}

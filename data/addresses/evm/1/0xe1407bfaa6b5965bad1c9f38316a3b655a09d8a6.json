@@ -1,0 +1,6 @@
+{
+	"address": "0xe1407bfaa6b5965bad1c9f38316a3b655a09d8a6",
+	"chainId": 1,
+	"label": "Chainlink: JPY / USD Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

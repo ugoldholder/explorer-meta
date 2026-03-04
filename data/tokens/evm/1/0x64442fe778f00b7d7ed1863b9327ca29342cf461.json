@@ -1,0 +1,17 @@
+{
+	"address": "0x64442fe778f00b7d7ed1863b9327ca29342cf461",
+	"chainId": 1,
+	"name": "MOOMOO THE BULL",
+	"symbol": "MOOMOO",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MOOMOO THE BULL"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.moomoo.wtf/"
+		}
+	]
+}

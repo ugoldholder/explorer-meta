@@ -1,0 +1,6 @@
+{
+	"address": "0x22c4eb46f7923026e74f7fbb30d7956001c0f82f",
+	"chainId": 1,
+	"label": "Uniswap v2: Osmo/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x48be867b240d2ffaff69e0746130f2c027d8d3d2",
+	"chainId": 1,
+	"name": "Elevate",
+	"symbol": "ELE",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Elevate"
+	}
+}

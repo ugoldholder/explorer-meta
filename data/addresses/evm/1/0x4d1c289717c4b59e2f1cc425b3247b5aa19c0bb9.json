@@ -1,0 +1,6 @@
+{
+	"address": "0x4d1c289717c4b59e2f1cc425b3247b5aa19c0bb9",
+	"chainId": 1,
+	"label": "Uniswap v2: miggles/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

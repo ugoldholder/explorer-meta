@@ -1,0 +1,6 @@
+{
+	"address": "0xfad2eb12805d3ebd9c9feccaadd452705530c116",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/grok chainsmoker Pair",
+	"source": ["kleros", "2026-03-03"]
+}

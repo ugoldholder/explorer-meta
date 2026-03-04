@@ -1,0 +1,6 @@
+{
+	"address": "0xf20cb3e721b2608659a15e41664349f8ac2f7f2f",
+	"chainId": 1,
+	"label": "Uniswap v2: BROWNIE/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

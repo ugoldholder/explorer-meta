@@ -1,0 +1,17 @@
+{
+	"address": "0xb649aaaac70968950b0fa7212c2576ee7321b436",
+	"chainId": 1,
+	"name": "YAIBA",
+	"symbol": "YIB",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "YAIBA"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://ygg.jp/yaiba"
+		}
+	]
+}

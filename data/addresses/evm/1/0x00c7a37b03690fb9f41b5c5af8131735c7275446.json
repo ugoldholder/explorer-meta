@@ -1,0 +1,6 @@
+{
+	"address": "0x00c7a37b03690fb9f41b5c5af8131735c7275446",
+	"chainId": 1,
+	"label": "Chainlink: ETH/USD FM A. Price Feed",
+	"source": ["kleros", "2026-03-03"]
+}

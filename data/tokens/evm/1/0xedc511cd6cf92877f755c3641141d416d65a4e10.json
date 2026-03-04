@@ -1,0 +1,11 @@
+{
+	"address": "0xedc511cd6cf92877f755c3641141d416d65a4e10",
+	"chainId": 1,
+	"name": "Charge",
+	"symbol": "CHRG",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Charge"
+	}
+}

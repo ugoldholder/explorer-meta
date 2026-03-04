@@ -1,0 +1,6 @@
+{
+	"address": "0x0875163343ed71fe28b2400c56053a412b76b263",
+	"chainId": 1,
+	"label": "Uniswap v2: SHIBOR/USDC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

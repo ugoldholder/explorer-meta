@@ -1,0 +1,6 @@
+{
+	"address": "0x06bc6324e660f587b1b58a01ec423d1a8bcbd578",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TILLY Pair",
+	"source": ["kleros", "2026-03-03"]
+}

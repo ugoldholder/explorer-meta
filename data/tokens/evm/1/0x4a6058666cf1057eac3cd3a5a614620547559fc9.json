@@ -1,0 +1,11 @@
+{
+	"address": "0x4a6058666cf1057eac3cd3a5a614620547559fc9",
+	"chainId": 1,
+	"name": "Brickblock",
+	"symbol": "BBK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Brickblock"
+	}
+}

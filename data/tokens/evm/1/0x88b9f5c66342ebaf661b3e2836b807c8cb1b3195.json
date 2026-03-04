@@ -1,0 +1,11 @@
+{
+	"address": "0x88b9f5c66342ebaf661b3e2836b807c8cb1b3195",
+	"chainId": 1,
+	"name": "NOBLEBLOCKS",
+	"symbol": "NOBL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "NOBLEBLOCKS"
+	}
+}

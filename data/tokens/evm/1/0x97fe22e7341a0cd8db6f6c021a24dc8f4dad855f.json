@@ -1,0 +1,11 @@
+{
+	"address": "0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f",
+	"chainId": 1,
+	"name": "Synthetic Pound Sterling",
+	"symbol": "sGBP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Pound Sterling"
+	}
+}

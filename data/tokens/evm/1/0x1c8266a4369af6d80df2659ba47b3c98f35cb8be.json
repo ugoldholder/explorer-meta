@@ -1,0 +1,11 @@
+{
+	"address": "0x1c8266a4369af6d80df2659ba47b3c98f35cb8be",
+	"chainId": 1,
+	"name": "Koji",
+	"symbol": "KOJI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Koji"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xce246eea10988c495b4a90a905ee9237a0f91543",
+	"chainId": 1,
+	"name": "VaultCraft",
+	"symbol": "VCX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "VaultCraft"
+	}
+}

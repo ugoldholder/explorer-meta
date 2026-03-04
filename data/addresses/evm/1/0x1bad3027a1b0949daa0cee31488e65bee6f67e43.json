@@ -1,0 +1,6 @@
+{
+	"address": "0x1bad3027a1b0949daa0cee31488e65bee6f67e43",
+	"chainId": 1,
+	"label": "Uniswap v2: RXS Stellar/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x91386fdc265a9e3afc89998a1b7d5757232eab4e",
+	"chainId": 1,
+	"label": "Uniswap v2: FeedMyVillage/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

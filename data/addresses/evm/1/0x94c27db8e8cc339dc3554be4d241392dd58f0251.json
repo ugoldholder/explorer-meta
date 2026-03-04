@@ -1,0 +1,6 @@
+{
+	"address": "0x94c27db8e8cc339dc3554be4d241392dd58f0251",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/ZCAT Pool",
+	"source": ["kleros", "2026-03-03"]
+}

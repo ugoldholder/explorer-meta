@@ -1,0 +1,11 @@
+{
+	"address": "0x9f8eef61b1ad834b44c089dbf33eb854746a6bf9",
+	"chainId": 1,
+	"name": "SpaceDawgs",
+	"symbol": "DAWGS",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SpaceDawgs"
+	}
+}

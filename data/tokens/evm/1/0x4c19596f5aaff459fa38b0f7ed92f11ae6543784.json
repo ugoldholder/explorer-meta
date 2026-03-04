@@ -1,0 +1,17 @@
+{
+	"address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+	"chainId": 1,
+	"name": "TrueFi",
+	"symbol": "TRU",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TrueFi: TRU Token Proxy"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://truefi.io/"
+		}
+	]
+}

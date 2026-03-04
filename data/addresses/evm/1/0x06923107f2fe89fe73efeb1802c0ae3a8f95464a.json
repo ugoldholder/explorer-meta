@@ -1,0 +1,6 @@
+{
+	"address": "0x06923107f2fe89fe73efeb1802c0ae3a8f95464a",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Polarise Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x47da42696a866cdc61a4c809a515500a242909c1",
+	"chainId": 1,
+	"name": "BitRewards",
+	"symbol": "BIT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BitRewards"
+	}
+}

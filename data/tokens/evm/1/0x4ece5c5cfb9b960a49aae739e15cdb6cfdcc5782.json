@@ -1,0 +1,11 @@
+{
+	"address": "0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782",
+	"chainId": 1,
+	"name": "Doont Buy",
+	"symbol": "DBUY",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Doont Buy"
+	}
+}

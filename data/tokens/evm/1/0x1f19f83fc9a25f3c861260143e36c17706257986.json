@@ -1,0 +1,11 @@
+{
+	"address": "0x1f19f83fc9a25f3c861260143e36c17706257986",
+	"chainId": 1,
+	"name": "DAO Invest",
+	"symbol": "VEST",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DAO Invest"
+	}
+}

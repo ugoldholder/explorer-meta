@@ -1,0 +1,6 @@
+{
+	"address": "0x5132a183e9f3cb7c848b0aac5ae0c4f0491b7ab2",
+	"chainId": 1,
+	"label": "Polygon: Polygon zkEVM Proxy",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x1788430620960f9a70e3dc14202a3a35dde1a316",
+	"chainId": 1,
+	"name": "OpenAlexa Protocol",
+	"symbol": "OAP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "OpenAlexa Protocol"
+	}
+}

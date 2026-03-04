@@ -1,0 +1,6 @@
+{
+	"address": "0x1337bce724f67d21e486a514ed1746af1287e09d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Neurosama Pair",
+	"source": ["kleros", "2026-03-03"]
+}

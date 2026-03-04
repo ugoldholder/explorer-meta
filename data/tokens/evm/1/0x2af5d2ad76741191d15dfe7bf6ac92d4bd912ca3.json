@@ -3,5 +3,6 @@
 	"chainId": 1,
 	"name": "LEO Token",
 	"symbol": "LEO",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

@@ -1,0 +1,6 @@
+{
+	"address": "0x7ac845e34d24c34cc14fd393abaffbc298e8cfab",
+	"chainId": 1,
+	"label": "Uniswap v2: JETLAG/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

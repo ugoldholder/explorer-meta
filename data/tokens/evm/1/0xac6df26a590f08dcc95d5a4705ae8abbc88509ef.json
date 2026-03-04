@@ -1,0 +1,17 @@
+{
+	"address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+	"chainId": 1,
+	"name": "Aave ENJ",
+	"symbol": "aENJ",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aave: aENJ Token V2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://aave.com/atokens"
+		}
+	]
+}

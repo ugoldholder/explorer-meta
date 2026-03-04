@@ -1,0 +1,6 @@
+{
+	"address": "0x2d5570cdbee205befbf269744a3fbf79dea3a307",
+	"chainId": 1,
+	"label": "Uniswap v2: ReFi Bridge/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0xa40a8280590b276adae8d9ebcc8aecf723751f8e",
+	"chainId": 1,
+	"name": "WoofTools.io",
+	"symbol": "TOOLS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "WoofTools.io: TOOLS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.wooftools.io/"
+		}
+	]
+}

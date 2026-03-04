@@ -1,0 +1,6 @@
+{
+	"address": "0x6ba52f3f49be8e1ee2f2623f9266537292b82911",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/RAMDAI Pair",
+	"source": ["kleros", "2026-03-03"]
+}

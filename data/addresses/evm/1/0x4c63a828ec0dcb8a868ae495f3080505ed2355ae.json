@@ -1,0 +1,6 @@
+{
+	"address": "0x4c63a828ec0dcb8a868ae495f3080505ed2355ae",
+	"chainId": 1,
+	"label": "Uniswap v2: SushiSwap Synthetix/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

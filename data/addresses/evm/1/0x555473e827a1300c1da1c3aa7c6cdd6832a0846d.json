@@ -1,0 +1,6 @@
+{
+	"address": "0x555473e827a1300c1da1c3aa7c6cdd6832a0846d",
+	"chainId": 1,
+	"label": "Uniswap v2: Dorsey/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x607f4c5bb672230e8672085532f7e901544a7375",
+	"chainId": 1,
+	"name": "iExec RLC",
+	"symbol": "RLC",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "iExec: RLC Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://iex.ec/"
+		}
+	]
+}

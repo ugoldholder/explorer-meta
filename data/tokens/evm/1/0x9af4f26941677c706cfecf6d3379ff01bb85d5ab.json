@@ -1,0 +1,11 @@
+{
+	"address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+	"chainId": 1,
+	"name": "DomRaider",
+	"symbol": "DRT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DomRaider"
+	}
+}

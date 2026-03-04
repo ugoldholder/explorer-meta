@@ -1,0 +1,11 @@
+{
+	"address": "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8",
+	"chainId": 1,
+	"name": "yCurve",
+	"symbol": "yCrv",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "yCurve"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+	"chainId": 1,
+	"name": "Mask Network",
+	"symbol": "MASK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Mask Network: MASK Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://mask.io/"
+		}
+	]
+}

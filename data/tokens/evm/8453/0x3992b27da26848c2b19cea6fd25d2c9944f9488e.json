@@ -3,5 +3,6 @@
 	"chainId": 8453,
 	"name": "Sui",
 	"symbol": "SUI",
-	"decimals": 9
+	"decimals": 9,
+	"source": ["openscan", "2026-03-03"]
 }

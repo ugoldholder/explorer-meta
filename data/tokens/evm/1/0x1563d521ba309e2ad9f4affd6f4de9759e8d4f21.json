@@ -1,0 +1,11 @@
+{
+	"address": "0x1563d521ba309e2ad9f4affd6f4de9759e8d4f21",
+	"chainId": 1,
+	"name": "VisionX",
+	"symbol": "VNX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "VisionX"
+	}
+}

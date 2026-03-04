@@ -1,0 +1,11 @@
+{
+	"address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
+	"chainId": 1,
+	"name": "CargoX",
+	"symbol": "CXO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CargoX"
+	}
+}

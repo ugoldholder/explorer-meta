@@ -1,0 +1,17 @@
+{
+	"address": "0x35fa164735182de50811e8e2e824cfb9b6118ac2",
+	"chainId": 1,
+	"name": "ether.fi Staked ETH",
+	"symbol": "eETH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ether.fi: eETH Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://app.ether.fi/"
+		}
+	]
+}

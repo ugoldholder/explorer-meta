@@ -1,0 +1,6 @@
+{
+	"address": "0x5db04e2f7419f3ba8944ef951b3c40a43e225979",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Tenshi Dao Pair",
+	"source": ["kleros", "2026-03-03"]
+}

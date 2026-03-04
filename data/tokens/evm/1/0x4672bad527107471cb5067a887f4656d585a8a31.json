@@ -1,0 +1,11 @@
+{
+	"address": "0x4672bad527107471cb5067a887f4656d585a8a31",
+	"chainId": 1,
+	"name": "Dropil",
+	"symbol": "DROP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dropil"
+	}
+}

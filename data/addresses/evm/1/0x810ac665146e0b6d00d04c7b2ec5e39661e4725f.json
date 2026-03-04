@@ -1,0 +1,6 @@
+{
+	"address": "0x810ac665146e0b6d00d04c7b2ec5e39661e4725f",
+	"chainId": 1,
+	"label": "Uniswap v2: Kill Willy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

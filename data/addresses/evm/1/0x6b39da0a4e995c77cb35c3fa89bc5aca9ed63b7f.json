@@ -1,0 +1,6 @@
+{
+	"address": "0x6b39da0a4e995c77cb35c3fa89bc5aca9ed63b7f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/DJI Pair",
+	"source": ["kleros", "2026-03-03"]
+}

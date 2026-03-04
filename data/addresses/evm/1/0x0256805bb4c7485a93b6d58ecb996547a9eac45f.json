@@ -1,0 +1,6 @@
+{
+	"address": "0x0256805bb4c7485a93b6d58ecb996547a9eac45f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/FARC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

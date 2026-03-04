@@ -1,0 +1,6 @@
+{
+	"address": "0x43cc035c160e3c2f65adee303b01965a38812b7d",
+	"chainId": 1,
+	"label": "PancakeSwap v3: Cake/USDC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x90da7b10d476a3f2bd2109ee08e428401b5d51be",
+	"chainId": 1,
+	"label": "Uniswap v2: Depinsim/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

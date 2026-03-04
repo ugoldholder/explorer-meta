@@ -1,0 +1,6 @@
+{
+	"address": "0x151445852b0cfdf6a4cc81440f2af99176e8ad08",
+	"chainId": 1,
+	"label": "Chainlink: GBP / USD Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

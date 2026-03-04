@@ -1,0 +1,11 @@
+{
+	"address": "0x9fcf4497ed9fbb8d8b46259e4f2bb4749953ab8b",
+	"chainId": 1,
+	"name": "DeFiant Token",
+	"symbol": "DeFi",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DeFiant Token"
+	}
+}

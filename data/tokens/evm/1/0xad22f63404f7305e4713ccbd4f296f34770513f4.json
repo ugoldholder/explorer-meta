@@ -1,0 +1,11 @@
+{
+	"address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
+	"chainId": 1,
+	"name": "Atomic Wallet Coin",
+	"symbol": "AWC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Atomic Wallet Coin"
+	}
+}

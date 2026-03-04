@@ -1,0 +1,17 @@
+{
+	"address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+	"chainId": 1,
+	"name": "TOWER",
+	"symbol": "TOWER",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Tower: TOWER Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://crazydefenseheroes.com/"
+		}
+	]
+}

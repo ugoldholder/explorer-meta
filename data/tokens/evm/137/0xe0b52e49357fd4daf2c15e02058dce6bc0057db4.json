@@ -3,5 +3,6 @@
 	"chainId": 137,
 	"name": "agEUR",
 	"symbol": "agEUR",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

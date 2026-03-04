@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Bone ShibaSwap",
 	"symbol": "BONE",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "ShibaSwap: BONE Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://shibaswap.com/#/"
+		}
+	]
 }

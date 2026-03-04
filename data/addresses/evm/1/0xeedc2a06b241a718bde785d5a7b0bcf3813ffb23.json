@@ -1,0 +1,6 @@
+{
+	"address": "0xeedc2a06b241a718bde785d5a7b0bcf3813ffb23",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/DVD Pair",
+	"source": ["kleros", "2026-03-03"]
+}

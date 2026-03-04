@@ -1,0 +1,6 @@
+{
+	"address": "0x3154cf16ccdb4c6d922629664174b904d80f2c35",
+	"chainId": 1,
+	"label": "Base: L1 Standard Bridge Proxy",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+	"chainId": 1,
+	"name": "Aurora DAO",
+	"symbol": "AURA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aurora DAO"
+	}
+}

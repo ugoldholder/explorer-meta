@@ -1,0 +1,6 @@
+{
+	"address": "0x60d3fab54ebdedcfeb6affdbcb6963ba97c2cd05",
+	"chainId": 1,
+	"label": "Uniswap v2: Ryuko/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+	"chainId": 1,
+	"name": "DAO Maker",
+	"symbol": "DAO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DAO Maker: DAO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://daomaker.com/"
+		}
+	]
+}

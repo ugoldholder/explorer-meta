@@ -1,0 +1,17 @@
+{
+	"address": "0xb3d6e9e142a785ea8a4f0050fee73bcc3438c5c5",
+	"chainId": 1,
+	"name": "PudgyStrategy",
+	"symbol": "PUDGYSTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "PudgyStrategy"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.nftstrategy.fun/strategies/0xb3d6e9e142a785ea8a4f0050fee73bcc3438c5c5"
+		}
+	]
+}

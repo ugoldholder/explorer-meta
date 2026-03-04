@@ -1,0 +1,6 @@
+{
+	"address": "0x80c3f476adca0820c83b766cf1762ded1b431dcd",
+	"chainId": 1,
+	"label": "Uniswap v2: Hyperbolic/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

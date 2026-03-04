@@ -1,0 +1,6 @@
+{
+	"address": "0x0b00000de2ee5f556edbf630b427c1f5b9128051",
+	"chainId": 1,
+	"label": "Uniswap v2: FriendFi/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

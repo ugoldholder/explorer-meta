@@ -1,0 +1,6 @@
+{
+	"address": "0xda5047966e354e96331b7e7aad6838c4cbc10c94",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Frostmourne Pair",
+	"source": ["kleros", "2026-03-03"]
+}

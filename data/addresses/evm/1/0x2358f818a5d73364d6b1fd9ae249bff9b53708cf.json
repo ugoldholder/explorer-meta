@@ -1,0 +1,6 @@
+{
+	"address": "0x2358f818a5d73364d6b1fd9ae249bff9b53708cf",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Spacecoin Pair",
+	"source": ["kleros", "2026-03-03"]
+}

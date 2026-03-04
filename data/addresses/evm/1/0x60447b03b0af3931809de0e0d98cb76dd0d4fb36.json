@@ -1,0 +1,6 @@
+{
+	"address": "0x60447b03b0af3931809de0e0d98cb76dd0d4fb36",
+	"chainId": 1,
+	"label": "Uniswap v2: AZTEC/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

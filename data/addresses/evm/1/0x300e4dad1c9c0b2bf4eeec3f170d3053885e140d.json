@@ -1,0 +1,6 @@
+{
+	"address": "0x300e4dad1c9c0b2bf4eeec3f170d3053885e140d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/GLADIATOR Pair",
+	"source": ["kleros", "2026-03-03"]
+}

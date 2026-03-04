@@ -1,0 +1,11 @@
+{
+	"address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
+	"chainId": 1,
+	"name": "UNION Protocol Governance Token",
+	"symbol": "UNN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "UNION Protocol Governance Token"
+	}
+}

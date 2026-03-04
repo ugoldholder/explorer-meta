@@ -3,5 +3,9 @@
 	"chainId": 1,
 	"name": "Wrapped TON Coin",
 	"symbol": "TONCOIN",
-	"decimals": 9
+	"decimals": 9,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Wrapped TON Coin"
+	}
 }

@@ -1,0 +1,6 @@
+{
+	"address": "0x87c71b893b6ed25303b56f80d3a41c2c8888b472",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Onigiri Pair",
+	"source": ["kleros", "2026-03-03"]
+}

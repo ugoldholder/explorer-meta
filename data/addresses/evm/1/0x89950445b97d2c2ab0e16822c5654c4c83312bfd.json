@@ -1,0 +1,6 @@
+{
+	"address": "0x89950445b97d2c2ab0e16822c5654c4c83312bfd",
+	"chainId": 1,
+	"label": "Uniswap v2: Dracula/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

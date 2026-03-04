@@ -1,0 +1,11 @@
+{
+	"address": "0xe3cb486f3f5c639e98ccbaf57d95369375687f80",
+	"chainId": 1,
+	"name": "renDGB",
+	"symbol": "renDGB",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "renDGB"
+	}
+}

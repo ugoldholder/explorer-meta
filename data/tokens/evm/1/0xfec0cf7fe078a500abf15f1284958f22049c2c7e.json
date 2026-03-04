@@ -1,0 +1,11 @@
+{
+	"address": "0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+	"chainId": 1,
+	"name": "Maecenas",
+	"symbol": "ART",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Maecenas"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x55d1d16fb42fce47b899010c996a3a31f6db8fd6",
+	"chainId": 1,
+	"name": "Bully Inu",
+	"symbol": "BINU",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bully Inu"
+	}
+}

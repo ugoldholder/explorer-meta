@@ -1,0 +1,6 @@
+{
+	"address": "0x91bfc1e99abc96ee97f2f227e6e721e8695eecd6",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Mouse Pair",
+	"source": ["kleros", "2026-03-03"]
+}

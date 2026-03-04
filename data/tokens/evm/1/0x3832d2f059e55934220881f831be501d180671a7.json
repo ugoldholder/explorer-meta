@@ -1,0 +1,11 @@
+{
+	"address": "0x3832d2f059e55934220881f831be501d180671a7",
+	"chainId": 1,
+	"name": "renDOGE",
+	"symbol": "renDOGE",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "renDOGE"
+	}
+}

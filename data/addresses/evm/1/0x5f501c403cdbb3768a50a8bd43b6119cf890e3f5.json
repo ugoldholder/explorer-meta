@@ -1,0 +1,6 @@
+{
+	"address": "0x5f501c403cdbb3768a50a8bd43b6119cf890e3f5",
+	"chainId": 1,
+	"label": "Uniswap v2: GNSP/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

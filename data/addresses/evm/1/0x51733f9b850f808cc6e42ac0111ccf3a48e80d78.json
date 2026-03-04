@@ -1,0 +1,6 @@
+{
+	"address": "0x51733f9b850f808cc6e42ac0111ccf3a48e80d78",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Tatum Pair",
+	"source": ["kleros", "2026-03-03"]
+}

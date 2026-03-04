@@ -1,0 +1,11 @@
+{
+	"address": "0x137ddb47ee24eaa998a535ab00378d6bfa84f893",
+	"chainId": 1,
+	"name": "Radiant",
+	"symbol": "RDNT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Radiant"
+	}
+}

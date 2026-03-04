@@ -1,0 +1,6 @@
+{
+	"address": "0x06ed871e5a66bebf0af6fb768d343b1d14a04b5b",
+	"chainId": 1,
+	"label": "Uniswap v2: RIO/rUSD Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xa704fce7b309ec09df16e2f5ab8caf6fe8a4baa9",
+	"chainId": 1,
+	"name": "AgriChain",
+	"symbol": "AGRI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "AgriChain"
+	}
+}

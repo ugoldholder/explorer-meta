@@ -1,0 +1,11 @@
+{
+	"address": "0x9afb950948c2370975fb91a441f36fdc02737cd4",
+	"chainId": 1,
+	"name": "Huobi FIL",
+	"symbol": "HFIL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Huobi FIL"
+	}
+}

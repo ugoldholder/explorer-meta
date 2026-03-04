@@ -1,0 +1,6 @@
+{
+	"address": "0xabcd4dfa12b175759725fa6004800c175f23716b",
+	"chainId": 1,
+	"label": "Uniswap v2: TAXI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

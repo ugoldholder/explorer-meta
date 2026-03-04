@@ -1,0 +1,11 @@
+{
+	"address": "0xb04dfdb8271ed2d5e13858562c44a77d3ceb9e57",
+	"chainId": 1,
+	"name": "BuildUp",
+	"symbol": "BUP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BuildUp"
+	}
+}

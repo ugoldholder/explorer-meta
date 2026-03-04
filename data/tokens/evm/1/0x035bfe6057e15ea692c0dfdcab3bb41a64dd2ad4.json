@@ -1,0 +1,11 @@
+{
+	"address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
+	"chainId": 1,
+	"name": "Universal Liquidity Union",
+	"symbol": "ULU",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Universal Liquidity Union"
+	}
+}

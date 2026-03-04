@@ -1,0 +1,11 @@
+{
+	"address": "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+	"chainId": 1,
+	"name": "1World",
+	"symbol": "1WO",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "1World"
+	}
+}

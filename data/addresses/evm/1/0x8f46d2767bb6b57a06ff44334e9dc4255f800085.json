@@ -1,0 +1,6 @@
+{
+	"address": "0x8f46d2767bb6b57a06ff44334e9dc4255f800085",
+	"chainId": 1,
+	"label": "Uniswap v2: Sue Origin/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

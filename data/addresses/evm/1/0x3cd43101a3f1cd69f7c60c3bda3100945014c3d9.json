@@ -1,0 +1,6 @@
+{
+	"address": "0x3cd43101a3f1cd69f7c60c3bda3100945014c3d9",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TONBridge Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x8888889213dd4da823ebdd1e235b09590633c150",
+	"chainId": 1,
+	"name": "Marblecoin",
+	"symbol": "MBC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Marblecoin"
+	}
+}

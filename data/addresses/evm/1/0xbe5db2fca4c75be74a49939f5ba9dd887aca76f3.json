@@ -1,0 +1,6 @@
+{
+	"address": "0xbe5db2fca4c75be74a49939f5ba9dd887aca76f3",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/XDC Snek Pair",
+	"source": ["kleros", "2026-03-03"]
+}

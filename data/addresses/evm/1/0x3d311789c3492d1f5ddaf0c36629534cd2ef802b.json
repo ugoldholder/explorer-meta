@@ -1,0 +1,6 @@
+{
+	"address": "0x3d311789c3492d1f5ddaf0c36629534cd2ef802b",
+	"chainId": 1,
+	"label": "Uniswap v2: USDC/DGLD Pair",
+	"source": ["kleros", "2026-03-03"]
+}

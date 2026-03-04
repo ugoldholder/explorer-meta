@@ -1,0 +1,11 @@
+{
+	"address": "0xdc59ac4fefa32293a95889dc396682858d52e5db",
+	"chainId": 1,
+	"name": "Bean",
+	"symbol": "BEAN",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bean"
+	}
+}

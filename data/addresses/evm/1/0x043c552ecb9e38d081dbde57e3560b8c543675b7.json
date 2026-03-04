@@ -1,0 +1,6 @@
+{
+	"address": "0x043c552ecb9e38d081dbde57e3560b8c543675b7",
+	"chainId": 1,
+	"label": "Uniswap v2: Everpump/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

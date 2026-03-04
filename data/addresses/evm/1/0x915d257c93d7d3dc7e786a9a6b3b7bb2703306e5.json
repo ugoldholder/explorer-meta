@@ -1,0 +1,6 @@
+{
+	"address": "0x915d257c93d7d3dc7e786a9a6b3b7bb2703306e5",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/NUGGS Pair",
+	"source": ["kleros", "2026-03-03"]
+}

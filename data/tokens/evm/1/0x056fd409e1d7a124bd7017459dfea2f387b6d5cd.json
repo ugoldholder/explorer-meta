@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Gemini Dollar",
 	"symbol": "GUSD",
-	"decimals": 2
+	"decimals": 2,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Gemini: GUSD Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.gemini.com/dollar"
+		}
+	]
 }

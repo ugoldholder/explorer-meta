@@ -1,0 +1,6 @@
+{
+	"address": "0x298fcd689e1379779ad84dc4c42e4b5e0b23b064",
+	"chainId": 1,
+	"label": "Uniswap v2: Mt.Gox/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

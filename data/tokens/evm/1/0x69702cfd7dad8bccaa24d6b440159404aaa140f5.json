@@ -1,0 +1,11 @@
+{
+	"address": "0x69702cfd7dad8bccaa24d6b440159404aaa140f5",
+	"chainId": 1,
+	"name": "Strike USDT",
+	"symbol": "sUSDT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Strike USDT"
+	}
+}

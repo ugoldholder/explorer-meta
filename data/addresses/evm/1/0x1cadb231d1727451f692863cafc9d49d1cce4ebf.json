@@ -1,0 +1,6 @@
+{
+	"address": "0x1cadb231d1727451f692863cafc9d49d1cce4ebf",
+	"chainId": 1,
+	"label": "Uniswap v2: Prevost/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xf6e9b246319ea30e8c2fa2d1540aaebf6f9e1b89",
+	"chainId": 1,
+	"name": "Synthetic Inverse Bitcoin Cash",
+	"symbol": "iBCH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Inverse Bitcoin Cash"
+	}
+}

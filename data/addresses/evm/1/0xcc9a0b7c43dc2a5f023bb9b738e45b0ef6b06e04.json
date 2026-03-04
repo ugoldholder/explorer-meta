@@ -1,0 +1,6 @@
+{
+	"address": "0xcc9a0b7c43dc2a5f023bb9b738e45b0ef6b06e04",
+	"chainId": 1,
+	"label": "Aave: WETH Gateway",
+	"source": ["kleros", "2026-03-03"]
+}

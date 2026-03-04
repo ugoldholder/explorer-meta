@@ -1,0 +1,6 @@
+{
+	"address": "0x8521344e0dd0d540d27bbb804a7ed35cf72076a4",
+	"chainId": 1,
+	"label": "Uniswap v2: lisUSD MANTA/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

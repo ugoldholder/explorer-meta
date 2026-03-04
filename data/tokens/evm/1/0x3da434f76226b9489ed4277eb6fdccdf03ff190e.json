@@ -1,0 +1,11 @@
+{
+	"address": "0x3da434f76226b9489ed4277eb6fdccdf03ff190e",
+	"chainId": 1,
+	"name": "ZION",
+	"symbol": "ZION",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ZION"
+	}
+}

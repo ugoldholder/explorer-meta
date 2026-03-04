@@ -1,0 +1,6 @@
+{
+	"address": "0x23e519016198a59865dc30c7b9d96c44e8cff134",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BABYGROOT Pair",
+	"source": ["kleros", "2026-03-03"]
+}

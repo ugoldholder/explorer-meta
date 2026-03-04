@@ -1,0 +1,11 @@
+{
+	"address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+	"chainId": 1,
+	"name": "Rentberry",
+	"symbol": "BERRY",
+	"decimals": 14,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Rentberry"
+	}
+}

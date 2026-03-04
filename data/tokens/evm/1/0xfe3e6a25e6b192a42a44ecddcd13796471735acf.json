@@ -1,0 +1,17 @@
+{
+	"address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+	"chainId": 1,
+	"name": "Reef",
+	"symbol": "REEF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Reef: REEF Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://reef.io/"
+		}
+	]
+}

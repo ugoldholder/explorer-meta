@@ -1,0 +1,11 @@
+{
+	"address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+	"chainId": 1,
+	"name": "GAMEE",
+	"symbol": "GMEE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GAMEE"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x6b12313afdec445524845ba704ca752e1b2bbacb",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/$BABYAVAX Pair",
+	"source": ["kleros", "2026-03-03"]
+}

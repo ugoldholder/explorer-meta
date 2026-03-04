@@ -1,0 +1,11 @@
+{
+	"address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+	"chainId": 1,
+	"name": "Hoge Finance",
+	"symbol": "HOGE",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Hoge Finance"
+	}
+}

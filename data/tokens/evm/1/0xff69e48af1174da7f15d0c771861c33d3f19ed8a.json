@@ -1,0 +1,11 @@
+{
+	"address": "0xff69e48af1174da7f15d0c771861c33d3f19ed8a",
+	"chainId": 1,
+	"name": "TESLA INU",
+	"symbol": "TESINU",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TESLA INU"
+	}
+}

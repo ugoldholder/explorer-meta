@@ -1,0 +1,11 @@
+{
+	"address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5",
+	"chainId": 1,
+	"name": "PlayChip",
+	"symbol": "PLA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "PlayChip"
+	}
+}

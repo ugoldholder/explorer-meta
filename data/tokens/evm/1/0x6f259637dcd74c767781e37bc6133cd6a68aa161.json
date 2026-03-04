@@ -1,0 +1,17 @@
+{
+	"address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+	"chainId": 1,
+	"name": "Huobi",
+	"symbol": "HT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Huobi: HT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.huobi.com/"
+		}
+	]
+}

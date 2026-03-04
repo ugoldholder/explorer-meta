@@ -3,5 +3,6 @@
 	"chainId": 42161,
 	"name": "Tether USD",
 	"symbol": "USDT",
-	"decimals": 6
+	"decimals": 6,
+	"source": ["openscan", "2026-03-03"]
 }

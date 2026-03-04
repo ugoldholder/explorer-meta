@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Tokenize Xchange",
 	"symbol": "TKX",
-	"decimals": 8
+	"decimals": 8,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Tokenlon: LON Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://tokenlon.im/lon"
+		}
+	]
 }

@@ -1,0 +1,6 @@
+{
+	"address": "0x45b174057ae8c3518e03d4ae2f66ca3fa02b6bfa",
+	"chainId": 1,
+	"label": "Uniswap v2: Boris/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

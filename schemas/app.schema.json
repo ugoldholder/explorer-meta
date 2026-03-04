@@ -120,6 +120,23 @@
 				"type": "string"
 			},
 			"description": "Categorization tags (e.g., defi, nft, lending)"
+		},
+		"source": {
+			"type": "array",
+			"items": [
+				{
+					"type": "string",
+					"description": "Data source name (e.g., openscan, kleros)"
+				},
+				{
+					"type": "string",
+					"format": "date",
+					"description": "Date added or last updated (YYYY-MM-DD)"
+				}
+			],
+			"minItems": 2,
+			"additionalItems": false,
+			"description": "Data source: [name, date added/updated]"
 		}
 	},
 	"additionalProperties": false

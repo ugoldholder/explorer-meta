@@ -1,0 +1,6 @@
+{
+	"address": "0x38648e011379a16cb2a58252fc1024a89d104206",
+	"chainId": 1,
+	"label": "Uniswap v2: Grumpy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

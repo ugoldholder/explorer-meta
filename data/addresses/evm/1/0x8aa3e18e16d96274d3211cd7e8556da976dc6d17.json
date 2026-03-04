@@ -1,0 +1,6 @@
+{
+	"address": "0x8aa3e18e16d96274d3211cd7e8556da976dc6d17",
+	"chainId": 1,
+	"label": "Uniswap v2: Exit Liquidity/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

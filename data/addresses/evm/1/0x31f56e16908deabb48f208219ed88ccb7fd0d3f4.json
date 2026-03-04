@@ -1,0 +1,6 @@
+{
+	"address": "0x31f56e16908deabb48f208219ed88ccb7fd0d3f4",
+	"chainId": 1,
+	"label": "Uniswap v2: Groklet/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

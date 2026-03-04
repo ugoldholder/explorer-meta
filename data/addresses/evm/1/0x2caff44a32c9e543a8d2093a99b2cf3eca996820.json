@@ -1,0 +1,6 @@
+{
+	"address": "0x2caff44a32c9e543a8d2093a99b2cf3eca996820",
+	"chainId": 1,
+	"label": "Uniswap v2: QUSD/KUN Pair",
+	"source": ["kleros", "2026-03-03"]
+}

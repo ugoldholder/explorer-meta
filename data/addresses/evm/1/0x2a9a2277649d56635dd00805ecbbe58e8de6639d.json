@@ -1,0 +1,6 @@
+{
+	"address": "0x2a9a2277649d56635dd00805ecbbe58e8de6639d",
+	"chainId": 1,
+	"label": "Uniswap v2: ShibuyaTunnel/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

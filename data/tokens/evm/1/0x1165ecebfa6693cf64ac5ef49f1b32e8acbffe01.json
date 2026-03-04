@@ -1,0 +1,17 @@
+{
+	"address": "0x1165ecebfa6693cf64ac5ef49f1b32e8acbffe01",
+	"chainId": 1,
+	"name": "Courage The Dog",
+	"symbol": "CCDOG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Courage The Dog"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://couragethedog.com/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x976eebdaf20b02e881e841796986dadbcff3bacc",
+	"chainId": 1,
+	"label": "Uniswap v2: EggSwap/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

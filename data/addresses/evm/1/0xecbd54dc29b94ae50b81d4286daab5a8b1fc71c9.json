@@ -1,0 +1,6 @@
+{
+	"address": "0xecbd54dc29b94ae50b81d4286daab5a8b1fc71c9",
+	"chainId": 1,
+	"label": "PancakeSwap v3: WETH/USDT Pool",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x0b435401ead6f2a240905315ec5ad9d637b658b1",
+	"chainId": 1,
+	"label": "Uniswap v2: CR7/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

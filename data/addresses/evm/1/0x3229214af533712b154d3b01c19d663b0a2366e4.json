@@ -1,0 +1,6 @@
+{
+	"address": "0x3229214af533712b154d3b01c19d663b0a2366e4",
+	"chainId": 1,
+	"label": "Sushi v2: USDC/TSync Pool",
+	"source": ["kleros", "2026-03-03"]
+}

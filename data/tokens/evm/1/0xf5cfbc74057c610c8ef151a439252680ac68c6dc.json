@@ -1,0 +1,11 @@
+{
+	"address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
+	"chainId": 1,
+	"name": "Octopus Network",
+	"symbol": "OCT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Octopus Network"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0xc5bbae50781be1669306b9e001eff57a2957b09d",
+	"chainId": 1,
+	"name": "Gifto",
+	"symbol": "GTO",
+	"decimals": 5,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Gifto: GTO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://gifto.io/"
+		}
+	]
+}

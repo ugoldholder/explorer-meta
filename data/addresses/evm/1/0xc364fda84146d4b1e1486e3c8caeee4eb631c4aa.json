@@ -1,0 +1,6 @@
+{
+	"address": "0xc364fda84146d4b1e1486e3c8caeee4eb631c4aa",
+	"chainId": 1,
+	"label": "Uniswap v2: PSK/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

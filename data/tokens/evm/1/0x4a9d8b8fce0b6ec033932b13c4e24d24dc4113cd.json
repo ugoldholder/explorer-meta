@@ -1,0 +1,11 @@
+{
+	"address": "0x4a9d8b8fce0b6ec033932b13c4e24d24dc4113cd",
+	"chainId": 1,
+	"name": "United Doge Finance",
+	"symbol": "UDOG",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "United Doge Finance"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f",
+	"chainId": 1,
+	"name": "Falcon Nine",
+	"symbol": "F9",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Falcon Nine"
+	}
+}

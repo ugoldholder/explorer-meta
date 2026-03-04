@@ -1,0 +1,11 @@
+{
+	"address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+	"chainId": 1,
+	"name": "MyBit",
+	"symbol": "MYB",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MyBit"
+	}
+}

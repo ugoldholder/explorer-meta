@@ -1,0 +1,11 @@
+{
+	"address": "0x32c319ac8d2f4a79b2fbdea543473cc03a986aaf",
+	"chainId": 1,
+	"name": "AVENGER",
+	"symbol": "AVENGER",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "AVENGER"
+	}
+}

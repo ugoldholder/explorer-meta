@@ -1,0 +1,6 @@
+{
+	"address": "0x21faa42dd30f4030049d0c7fbd40f5c3feff83db",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Alyria Pair",
+	"source": ["kleros", "2026-03-03"]
+}

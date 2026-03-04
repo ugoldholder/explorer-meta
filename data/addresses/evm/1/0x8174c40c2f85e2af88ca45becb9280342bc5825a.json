@@ -1,0 +1,6 @@
+{
+	"address": "0x8174c40c2f85e2af88ca45becb9280342bc5825a",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/AMPLIFI Pair",
+	"source": ["kleros", "2026-03-03"]
+}

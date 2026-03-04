@@ -1,0 +1,11 @@
+{
+	"address": "0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d",
+	"chainId": 1,
+	"name": "Cream DefiPulse Index",
+	"symbol": "crDPI",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream DefiPulse Index"
+	}
+}

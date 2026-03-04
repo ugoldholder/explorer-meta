@@ -1,0 +1,6 @@
+{
+	"address": "0x16924ae9c2ac6cdbc9d6bb16fafcd38bed560936",
+	"chainId": 1,
+	"label": "Chainlink: FTSE / GBP Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

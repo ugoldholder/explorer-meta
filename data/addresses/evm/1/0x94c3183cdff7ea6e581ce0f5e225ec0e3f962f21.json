@@ -1,0 +1,6 @@
+{
+	"address": "0x94c3183cdff7ea6e581ce0f5e225ec0e3f962f21",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Farcaster Pair",
+	"source": ["kleros", "2026-03-03"]
+}

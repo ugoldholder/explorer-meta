@@ -1,0 +1,6 @@
+{
+	"address": "0x16d4036efd9c8c26ca78a35fe51c121ecdf8b20c",
+	"chainId": 1,
+	"label": "Uniswap v2: Sushi/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

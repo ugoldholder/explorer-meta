@@ -1,0 +1,17 @@
+{
+	"address": "0x589891a198195061cb8ad1a75357a3b7dbadd7bc",
+	"chainId": 1,
+	"name": "Contentos",
+	"symbol": "COS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Contentos: COS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.contentos.io/"
+		}
+	]
+}

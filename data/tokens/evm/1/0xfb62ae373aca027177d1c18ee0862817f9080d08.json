@@ -1,0 +1,11 @@
+{
+	"address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+	"chainId": 1,
+	"name": "My DeFi Pet",
+	"symbol": "DPET",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "My DeFi Pet"
+	}
+}

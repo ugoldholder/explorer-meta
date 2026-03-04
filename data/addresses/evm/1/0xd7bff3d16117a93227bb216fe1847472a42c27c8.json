@@ -1,0 +1,6 @@
+{
+	"address": "0xd7bff3d16117a93227bb216fe1847472a42c27c8",
+	"chainId": 1,
+	"label": "Uniswap v2: Sherlock/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

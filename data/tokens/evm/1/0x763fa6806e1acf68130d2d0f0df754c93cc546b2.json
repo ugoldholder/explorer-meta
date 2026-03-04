@@ -1,0 +1,11 @@
+{
+	"address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+	"chainId": 1,
+	"name": "Lition",
+	"symbol": "LIT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Lition"
+	}
+}

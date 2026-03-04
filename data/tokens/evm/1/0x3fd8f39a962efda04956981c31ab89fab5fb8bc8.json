@@ -1,0 +1,11 @@
+{
+	"address": "0x3fd8f39a962efda04956981c31ab89fab5fb8bc8",
+	"chainId": 1,
+	"name": "Rotharium",
+	"symbol": "RTH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Rotharium"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xe89a6d0509faf730bd707bf868d9a2a744a363c7",
+	"chainId": 1,
+	"name": "Cream Uniswap",
+	"symbol": "crUNI",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream Uniswap"
+	}
+}

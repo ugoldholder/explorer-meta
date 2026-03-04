@@ -1,0 +1,6 @@
+{
+	"address": "0x7ac66c96e277d6f9befa7b44f6dd730018751c28",
+	"chainId": 1,
+	"label": "Uniswap v2: STOPFRONTRUNNING/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

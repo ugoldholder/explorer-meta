@@ -1,0 +1,6 @@
+{
+	"address": "0x75715946c3183b85ca99410d13eab6a0e6735147",
+	"chainId": 1,
+	"label": "Uniswap v2: POF/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x0bf1dd7b772ec22f456bda92268bac41f00299e6",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Rube Goldberg Pair",
+	"source": ["kleros", "2026-03-03"]
+}

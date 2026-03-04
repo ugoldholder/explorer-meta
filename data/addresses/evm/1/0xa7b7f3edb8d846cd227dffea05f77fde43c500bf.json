@@ -1,0 +1,6 @@
+{
+	"address": "0xa7b7f3edb8d846cd227dffea05f77fde43c500bf",
+	"chainId": 1,
+	"label": "PancakeSwap v3: husky/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

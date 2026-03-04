@@ -1,0 +1,6 @@
+{
+	"address": "0xc71f028d23716aa8bd7571fd3c843f145f9bf1ce",
+	"chainId": 1,
+	"label": "Uniswap v2: TOFU/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

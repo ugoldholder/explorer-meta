@@ -1,0 +1,6 @@
+{
+	"address": "0x420128a2e63fca60be2363e43fb1bc61c4c7241e",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/KIRBY Pair",
+	"source": ["kleros", "2026-03-03"]
+}

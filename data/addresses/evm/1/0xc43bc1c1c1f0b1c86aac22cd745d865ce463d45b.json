@@ -1,0 +1,6 @@
+{
+	"address": "0xc43bc1c1c1f0b1c86aac22cd745d865ce463d45b",
+	"chainId": 1,
+	"label": "Uniswap v2: dynamic illusion/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

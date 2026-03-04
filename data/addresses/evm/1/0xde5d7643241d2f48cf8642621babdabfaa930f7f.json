@@ -1,0 +1,6 @@
+{
+	"address": "0xde5d7643241d2f48cf8642621babdabfaa930f7f",
+	"chainId": 1,
+	"label": "Uniswap v2: SnakeBot/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

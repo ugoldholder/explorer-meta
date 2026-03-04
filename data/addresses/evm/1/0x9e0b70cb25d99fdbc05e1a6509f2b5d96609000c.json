@@ -1,0 +1,6 @@
+{
+	"address": "0x9e0b70cb25d99fdbc05e1a6509f2b5d96609000c",
+	"chainId": 1,
+	"label": "Uniswap v2: Watchdog/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

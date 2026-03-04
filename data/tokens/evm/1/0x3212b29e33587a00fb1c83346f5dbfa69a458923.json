@@ -1,0 +1,11 @@
+{
+	"address": "0x3212b29e33587a00fb1c83346f5dbfa69a458923",
+	"chainId": 1,
+	"name": "The Tokenized Bitcoin",
+	"symbol": "imBTC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "The Tokenized Bitcoin"
+	}
+}

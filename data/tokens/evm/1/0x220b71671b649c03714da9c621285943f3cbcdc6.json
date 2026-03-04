@@ -1,0 +1,11 @@
+{
+	"address": "0x220b71671b649c03714da9c621285943f3cbcdc6",
+	"chainId": 1,
+	"name": "TosDis",
+	"symbol": "DIS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TosDis"
+	}
+}

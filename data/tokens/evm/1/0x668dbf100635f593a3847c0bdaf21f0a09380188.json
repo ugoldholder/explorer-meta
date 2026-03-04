@@ -1,0 +1,11 @@
+{
+	"address": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
+	"chainId": 1,
+	"name": "BNSD Finance",
+	"symbol": "BNSD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BNSD Finance"
+	}
+}

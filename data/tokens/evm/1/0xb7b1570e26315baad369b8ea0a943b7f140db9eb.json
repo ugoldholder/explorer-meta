@@ -1,0 +1,11 @@
+{
+	"address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb",
+	"chainId": 1,
+	"name": "DEEPSPACE",
+	"symbol": "DPS",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DEEPSPACE"
+	}
+}

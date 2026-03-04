@@ -1,0 +1,11 @@
+{
+	"address": "0xbcc8ebabfd6ab52caa883ed8ebc45b7973700a29",
+	"chainId": 1,
+	"name": "Yubiai",
+	"symbol": "YBI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Yubiai"
+	}
+}

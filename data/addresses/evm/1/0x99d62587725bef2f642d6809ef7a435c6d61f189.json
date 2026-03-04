@@ -1,0 +1,6 @@
+{
+	"address": "0x99d62587725bef2f642d6809ef7a435c6d61f189",
+	"chainId": 1,
+	"label": "Uniswap v2: Alloca/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x37a15c92e67686aa268df03d4c881a76340907e8",
+	"chainId": 1,
+	"name": "Pixiu Finance",
+	"symbol": "PIXIU",
+	"decimals": 0,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Pixiu Finance"
+	}
+}

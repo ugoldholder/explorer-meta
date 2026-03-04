@@ -1,0 +1,11 @@
+{
+	"address": "0x49d716dfe60b37379010a75329ae09428f17118d",
+	"chainId": 1,
+	"name": "Pool Dai",
+	"symbol": "plDai",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Pool Dai"
+	}
+}

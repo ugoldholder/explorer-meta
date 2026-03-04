@@ -1,0 +1,6 @@
+{
+	"address": "0x6f7cc47f257337d5a74648f7e2bd97c1dffdb888",
+	"chainId": 1,
+	"label": "Uniswap v2: DAI/LUNA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+	"chainId": 1,
+	"name": "Revomon",
+	"symbol": "REVO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Revomon: REVO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://revomon.io/"
+		}
+	]
+}

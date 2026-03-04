@@ -1,0 +1,11 @@
+{
+	"address": "0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02",
+	"chainId": 1,
+	"name": "Gera Coin",
+	"symbol": "GERA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Gera Coin"
+	}
+}

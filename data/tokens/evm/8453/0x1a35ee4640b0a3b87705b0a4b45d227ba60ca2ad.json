@@ -3,5 +3,6 @@
 	"chainId": 8453,
 	"name": "Axelar Wrapped USDC",
 	"symbol": "axlUSDC",
-	"decimals": 6
+	"decimals": 6,
+	"source": ["openscan", "2026-03-03"]
 }

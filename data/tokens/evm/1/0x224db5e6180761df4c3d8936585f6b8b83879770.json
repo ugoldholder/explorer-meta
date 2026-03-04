@@ -1,0 +1,11 @@
+{
+	"address": "0x224db5e6180761df4c3d8936585f6b8b83879770",
+	"chainId": 1,
+	"name": "Omlira",
+	"symbol": "OML",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Omlira"
+	}
+}

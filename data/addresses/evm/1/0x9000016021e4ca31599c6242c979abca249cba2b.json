@@ -1,0 +1,6 @@
+{
+	"address": "0x9000016021e4ca31599c6242c979abca249cba2b",
+	"chainId": 1,
+	"label": "Uniswap v2: PORKFI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

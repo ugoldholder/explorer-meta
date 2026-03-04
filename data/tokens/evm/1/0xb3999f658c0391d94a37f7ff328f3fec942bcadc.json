@@ -1,0 +1,17 @@
+{
+	"address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+	"chainId": 1,
+	"name": "Hashflow",
+	"symbol": "HFT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Hashflow: HFT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.hashflow.com/"
+		}
+	]
+}

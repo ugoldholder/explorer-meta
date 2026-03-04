@@ -1,0 +1,17 @@
+{
+	"address": "0x89e8e084cc60e6988527f0904b4be71656e8bfa9",
+	"chainId": 1,
+	"name": "Smog",
+	"symbol": "SMOG",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Smog"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://smogtoken.com/en#home"
+		}
+	]
+}

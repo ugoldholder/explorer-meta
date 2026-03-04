@@ -1,0 +1,6 @@
+{
+	"address": "0x4261b1420796072a69c68a1423fd2b85b7f959e9",
+	"chainId": 1,
+	"label": "Uniswap v2: RFI/RBAL Pair",
+	"source": ["kleros", "2026-03-03"]
+}

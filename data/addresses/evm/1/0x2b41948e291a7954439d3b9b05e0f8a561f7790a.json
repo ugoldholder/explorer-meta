@@ -1,0 +1,6 @@
+{
+	"address": "0x2b41948e291a7954439d3b9b05e0f8a561f7790a",
+	"chainId": 1,
+	"label": "Uniswap v2: AMC/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

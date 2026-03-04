@@ -1,0 +1,11 @@
+{
+	"address": "0xfa2562da1bba7b954f26c74725df51fb62646313",
+	"chainId": 1,
+	"name": "ASSY Index",
+	"symbol": "ASSY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ASSY Index"
+	}
+}

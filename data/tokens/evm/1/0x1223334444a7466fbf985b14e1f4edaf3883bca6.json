@@ -1,0 +1,17 @@
+{
+	"address": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+	"chainId": 1,
+	"name": "Grow",
+	"symbol": "GROW",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Grow"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.growunited.com/"
+		}
+	]
+}

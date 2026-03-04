@@ -1,0 +1,11 @@
+{
+	"address": "0x71297312753ea7a2570a5a3278ed70d9a75f4f44",
+	"chainId": 1,
+	"name": "ETHEREUM IS GOOD",
+	"symbol": "EBULL",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ETHEREUM IS GOOD"
+	}
+}

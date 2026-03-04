@@ -1,0 +1,6 @@
+{
+	"address": "0x5c146a2ccd787f59fcfbcb4474d4c9abe1a27ce6",
+	"chainId": 1,
+	"label": "Sushi v2: USDC/ACH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

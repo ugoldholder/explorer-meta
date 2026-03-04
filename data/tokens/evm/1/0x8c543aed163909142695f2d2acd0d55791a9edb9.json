@@ -1,0 +1,11 @@
+{
+	"address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+	"chainId": 1,
+	"name": "Velas",
+	"symbol": "VLX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Velas"
+	}
+}

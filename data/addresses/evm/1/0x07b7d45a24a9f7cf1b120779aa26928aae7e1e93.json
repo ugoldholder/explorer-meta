@@ -1,0 +1,6 @@
+{
+	"address": "0x07b7d45a24a9f7cf1b120779aa26928aae7e1e93",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Nazgul Pair",
+	"source": ["kleros", "2026-03-03"]
+}

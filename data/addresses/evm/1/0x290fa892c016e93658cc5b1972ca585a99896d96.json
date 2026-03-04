@@ -1,0 +1,6 @@
+{
+	"address": "0x290fa892c016e93658cc5b1972ca585a99896d96",
+	"chainId": 1,
+	"label": "Uniswap v2: Glider/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

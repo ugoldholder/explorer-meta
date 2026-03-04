@@ -1,0 +1,6 @@
+{
+	"address": "0x7c978fa0e57a985e7fee6d94d633d327af27ec45",
+	"chainId": 1,
+	"label": "Uniswap v2: BOTLIB/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

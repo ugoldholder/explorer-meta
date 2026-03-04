@@ -1,0 +1,6 @@
+{
+	"address": "0xea32c91a9ff7a4fe44779919fcebb5174093f668",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/LIQMA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24",
+	"chainId": 1,
+	"name": "Gourmet Galaxy",
+	"symbol": "GUM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Gourmet Galaxy"
+	}
+}

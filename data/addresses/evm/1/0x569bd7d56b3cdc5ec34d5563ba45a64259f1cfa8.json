@@ -1,0 +1,6 @@
+{
+	"address": "0x569bd7d56b3cdc5ec34d5563ba45a64259f1cfa8",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/HypeDuck Pair",
+	"source": ["kleros", "2026-03-03"]
+}

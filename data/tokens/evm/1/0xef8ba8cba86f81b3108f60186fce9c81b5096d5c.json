@@ -1,0 +1,11 @@
+{
+	"address": "0xef8ba8cba86f81b3108f60186fce9c81b5096d5c",
+	"chainId": 1,
+	"name": "YFII Gold",
+	"symbol": "YFIIG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "YFII Gold"
+	}
+}

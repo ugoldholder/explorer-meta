@@ -1,0 +1,11 @@
+{
+	"address": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
+	"chainId": 1,
+	"name": "Synthetic DeFi Index",
+	"symbol": "sDEFI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic DeFi Index"
+	}
+}

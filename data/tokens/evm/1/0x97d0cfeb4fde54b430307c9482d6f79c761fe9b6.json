@@ -1,0 +1,11 @@
+{
+	"address": "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6",
+	"chainId": 1,
+	"name": "Epoch",
+	"symbol": "EPOCH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Epoch"
+	}
+}

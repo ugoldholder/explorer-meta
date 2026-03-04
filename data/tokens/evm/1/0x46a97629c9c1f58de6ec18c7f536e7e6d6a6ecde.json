@@ -1,0 +1,11 @@
+{
+	"address": "0x46a97629c9c1f58de6ec18c7f536e7e6d6a6ecde",
+	"chainId": 1,
+	"name": "Synthetic Inverse Polkadot",
+	"symbol": "iDOT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Inverse Polkadot"
+	}
+}

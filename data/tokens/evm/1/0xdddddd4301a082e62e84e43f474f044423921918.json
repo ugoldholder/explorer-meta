@@ -1,0 +1,11 @@
+{
+	"address": "0xdddddd4301a082e62e84e43f474f044423921918",
+	"chainId": 1,
+	"name": "DVF",
+	"symbol": "DVF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DVF"
+	}
+}

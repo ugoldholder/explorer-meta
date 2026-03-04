@@ -1,0 +1,6 @@
+{
+	"address": "0x4105e543a0e1b855201cbbc5c3469b4bb1c83ace",
+	"chainId": 1,
+	"label": "Uniswap v2: Vanitas/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

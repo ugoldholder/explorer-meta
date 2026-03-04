@@ -1,0 +1,6 @@
+{
+	"address": "0x0c83806c9ecf77ed450a964d9068fa5b5f6cd52a",
+	"chainId": 1,
+	"label": "Uniswap v2: DestroyElon/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

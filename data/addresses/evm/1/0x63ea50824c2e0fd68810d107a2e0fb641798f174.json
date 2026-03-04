@@ -1,0 +1,6 @@
+{
+	"address": "0x63ea50824c2e0fd68810d107a2e0fb641798f174",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/MILBURN Pair",
+	"source": ["kleros", "2026-03-03"]
+}

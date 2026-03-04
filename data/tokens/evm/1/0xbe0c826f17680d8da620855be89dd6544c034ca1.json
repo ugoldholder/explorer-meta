@@ -1,0 +1,11 @@
+{
+	"address": "0xbe0c826f17680d8da620855be89dd6544c034ca1",
+	"chainId": 1,
+	"name": "BankEth",
+	"symbol": "BANKETH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BankEth"
+	}
+}

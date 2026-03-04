@@ -1,0 +1,6 @@
+{
+	"address": "0x5d892931e0a5c3de79554529ea310b97ac7d6f36",
+	"chainId": 1,
+	"label": "Uniswap v2: CASPER/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

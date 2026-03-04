@@ -1,0 +1,17 @@
+{
+	"address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+	"chainId": 1,
+	"name": "QuarkChain",
+	"symbol": "QKC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "QuarkChain: QKC Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://quarkchain.io/"
+		}
+	]
+}

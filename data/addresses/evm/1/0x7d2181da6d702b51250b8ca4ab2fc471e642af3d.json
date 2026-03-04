@@ -1,0 +1,6 @@
+{
+	"address": "0x7d2181da6d702b51250b8ca4ab2fc471e642af3d",
+	"chainId": 1,
+	"label": "Uniswap v2: Telepathy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

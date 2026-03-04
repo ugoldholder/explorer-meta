@@ -1,0 +1,11 @@
+{
+	"address": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
+	"chainId": 1,
+	"name": "Sovryn",
+	"symbol": "eSOV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Sovryn"
+	}
+}

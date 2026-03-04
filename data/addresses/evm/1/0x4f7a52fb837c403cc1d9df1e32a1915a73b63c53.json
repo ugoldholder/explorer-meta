@@ -1,0 +1,6 @@
+{
+	"address": "0x4f7a52fb837c403cc1d9df1e32a1915a73b63c53",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/AZZIP Pool",
+	"source": ["kleros", "2026-03-03"]
+}

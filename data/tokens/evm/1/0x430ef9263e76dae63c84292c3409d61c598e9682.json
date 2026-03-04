@@ -1,0 +1,17 @@
+{
+	"address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
+	"chainId": 1,
+	"name": "Vulcan Forged",
+	"symbol": "PYR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Vulcan Forged: PYR Token v2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.vulcanforged.com/"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+	"chainId": 1,
+	"name": "Chi Gastoken",
+	"symbol": "CHI",
+	"decimals": 0,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "1inch Network: CHI Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://1inch.io/"
+		}
+	]
+}

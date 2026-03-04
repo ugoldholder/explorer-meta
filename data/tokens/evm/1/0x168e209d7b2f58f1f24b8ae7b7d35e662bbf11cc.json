@@ -1,0 +1,11 @@
+{
+	"address": "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc",
+	"chainId": 1,
+	"name": "LayerAI",
+	"symbol": "LAI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "LayerAI"
+	}
+}

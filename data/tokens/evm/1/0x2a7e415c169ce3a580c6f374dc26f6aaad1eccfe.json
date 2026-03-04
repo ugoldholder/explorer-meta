@@ -1,0 +1,11 @@
+{
+	"address": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
+	"chainId": 1,
+	"name": "Hachi",
+	"symbol": "HACHI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Hachi"
+	}
+}

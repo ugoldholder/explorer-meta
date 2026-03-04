@@ -1,0 +1,17 @@
+{
+	"address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+	"chainId": 1,
+	"name": "Cult DAO",
+	"symbol": "CULT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CULT.DAO: CULT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://cultdao.io/"
+		}
+	]
+}

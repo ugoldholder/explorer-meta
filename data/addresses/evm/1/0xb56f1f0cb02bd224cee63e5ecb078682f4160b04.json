@@ -1,0 +1,6 @@
+{
+	"address": "0xb56f1f0cb02bd224cee63e5ecb078682f4160b04",
+	"chainId": 1,
+	"label": "Uniswap v2: HOLESKY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

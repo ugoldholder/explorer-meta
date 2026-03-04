@@ -1,0 +1,11 @@
+{
+	"address": "0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
+	"chainId": 1,
+	"name": "BAD IDEA AI",
+	"symbol": "BAD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BAD IDEA AI"
+	}
+}

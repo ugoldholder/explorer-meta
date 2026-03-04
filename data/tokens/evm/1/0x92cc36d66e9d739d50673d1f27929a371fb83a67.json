@@ -1,0 +1,11 @@
+{
+	"address": "0x92cc36d66e9d739d50673d1f27929a371fb83a67",
+	"chainId": 1,
+	"name": "Wagmi",
+	"symbol": "WAGMI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Wagmi"
+	}
+}

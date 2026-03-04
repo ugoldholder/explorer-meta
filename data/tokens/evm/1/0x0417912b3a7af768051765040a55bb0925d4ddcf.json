@@ -1,0 +1,11 @@
+{
+	"address": "0x0417912b3a7af768051765040a55bb0925d4ddcf",
+	"chainId": 1,
+	"name": "Liquidity Dividends Protocol",
+	"symbol": "LID",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Liquidity Dividends Protocol"
+	}
+}

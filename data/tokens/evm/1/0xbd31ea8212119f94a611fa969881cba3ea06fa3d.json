@@ -1,0 +1,11 @@
+{
+	"address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+	"chainId": 1,
+	"name": "Terra Classic",
+	"symbol": "LUNC",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Terra Classic"
+	}
+}

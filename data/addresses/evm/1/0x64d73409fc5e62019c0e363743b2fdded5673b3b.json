@@ -1,0 +1,6 @@
+{
+	"address": "0x64d73409fc5e62019c0e363743b2fdded5673b3b",
+	"chainId": 1,
+	"label": "Uniswap v2: VanEck/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

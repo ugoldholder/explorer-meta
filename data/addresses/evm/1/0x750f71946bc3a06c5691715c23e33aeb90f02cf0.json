@@ -1,0 +1,6 @@
+{
+	"address": "0x750f71946bc3a06c5691715c23e33aeb90f02cf0",
+	"chainId": 1,
+	"label": "Uniswap v2: FIREFLY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

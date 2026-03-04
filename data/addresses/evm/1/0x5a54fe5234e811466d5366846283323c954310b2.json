@@ -1,0 +1,6 @@
+{
+	"address": "0x5a54fe5234e811466d5366846283323c954310b2",
+	"chainId": 1,
+	"label": "Stargate Finance: LayerZero Oracle",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+	"chainId": 1,
+	"name": "Cream",
+	"symbol": "CREAM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream.Finance: CREAM Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://cream.finance/"
+		}
+	]
+}

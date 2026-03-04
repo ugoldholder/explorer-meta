@@ -1,0 +1,6 @@
+{
+	"address": "0x65470c00f5d5e3eceba71104178ab1c13a9a892f",
+	"chainId": 1,
+	"label": "Uniswap v2: DOLLARS/GBP Peg Pair",
+	"source": ["kleros", "2026-03-03"]
+}

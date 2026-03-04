@@ -1,0 +1,11 @@
+{
+	"address": "0x22222c03318440305ac3e8a7820563d6a9fd777f",
+	"chainId": 1,
+	"name": "Clover",
+	"symbol": "CLV",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Clover"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x5bbf7208af9cfa6b533b978ca0191fd7c72be758",
+	"chainId": 1,
+	"label": "Uniswap v2: Stabble STB/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

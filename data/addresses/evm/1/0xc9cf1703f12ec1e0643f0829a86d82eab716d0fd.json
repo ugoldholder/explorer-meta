@@ -1,0 +1,6 @@
+{
+	"address": "0xc9cf1703f12ec1e0643f0829a86d82eab716d0fd",
+	"chainId": 1,
+	"label": "Uniswap v2: LEND/STA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

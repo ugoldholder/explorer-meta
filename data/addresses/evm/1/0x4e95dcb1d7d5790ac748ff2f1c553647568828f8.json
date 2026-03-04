@@ -1,0 +1,6 @@
+{
+	"address": "0x4e95dcb1d7d5790ac748ff2f1c553647568828f8",
+	"chainId": 1,
+	"label": "Uniswap v2: Hedwig/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xd44bb6663936cab1310584a277f7daa6943d4904",
+	"chainId": 1,
+	"name": "Winco",
+	"symbol": "WCO",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Winco"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x926f4cd7c50300a03765d69031043b484f831ab0",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/MARVIN Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x038d7040aee66f250c660642ba5e12a73c2464b4",
+	"chainId": 1,
+	"label": "Uniswap v2: OpenLedger/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

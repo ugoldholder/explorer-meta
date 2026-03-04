@@ -1,0 +1,6 @@
+{
+	"address": "0x84e0df367d1f366383549799996f3a413500ba2b",
+	"chainId": 1,
+	"label": "Uniswap v2: init buy/vETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

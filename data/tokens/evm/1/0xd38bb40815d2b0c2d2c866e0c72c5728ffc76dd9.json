@@ -1,0 +1,11 @@
+{
+	"address": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
+	"chainId": 1,
+	"name": "Symbiosis",
+	"symbol": "SIS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Symbiosis"
+	}
+}

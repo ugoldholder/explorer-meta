@@ -1,0 +1,11 @@
+{
+	"address": "0x3f09400313e83d53366147e3ea0e4e2279d80850",
+	"chainId": 1,
+	"name": "Kush Finance",
+	"symbol": "KSEED",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Kush Finance"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x7dc10f9f84c3f7a97a33a6659a271b4d98779f79",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/XRB Pool",
+	"source": ["kleros", "2026-03-03"]
+}

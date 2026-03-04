@@ -1,0 +1,11 @@
+{
+	"address": "0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
+	"chainId": 1,
+	"name": "Blackmoon",
+	"symbol": "BMC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Blackmoon"
+	}
+}

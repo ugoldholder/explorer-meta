@@ -1,0 +1,11 @@
+{
+	"address": "0x9783b81438c24848f85848f8df31845097341771",
+	"chainId": 1,
+	"name": "Dog Collar",
+	"symbol": "COLLAR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dog Collar"
+	}
+}

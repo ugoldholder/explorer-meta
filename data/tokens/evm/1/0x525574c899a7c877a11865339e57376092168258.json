@@ -1,0 +1,11 @@
+{
+	"address": "0x525574c899a7c877a11865339e57376092168258",
+	"chainId": 1,
+	"name": "GURU",
+	"symbol": "GURU",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GURU"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xe541504417670fb76b612b41b4392d967a1956c7",
+	"chainId": 1,
+	"name": "Bitsonic",
+	"symbol": "BSC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bitsonic"
+	}
+}

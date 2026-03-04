@@ -1,0 +1,6 @@
+{
+	"address": "0x51019c21d9805a1010150c401a13e9aa6e267849",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Morpher Massa Pair",
+	"source": ["kleros", "2026-03-03"]
+}

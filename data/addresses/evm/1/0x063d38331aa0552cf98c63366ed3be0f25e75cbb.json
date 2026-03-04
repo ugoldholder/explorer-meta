@@ -1,0 +1,6 @@
+{
+	"address": "0x063d38331aa0552cf98c63366ed3be0f25e75cbb",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Commerzbank Pair",
+	"source": ["kleros", "2026-03-03"]
+}

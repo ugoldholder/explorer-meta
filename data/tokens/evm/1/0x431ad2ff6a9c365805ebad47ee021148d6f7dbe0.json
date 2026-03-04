@@ -1,0 +1,17 @@
+{
+	"address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+	"chainId": 1,
+	"name": "dForce",
+	"symbol": "DF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "dForce: DF Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://dforce.network/"
+		}
+	]
+}

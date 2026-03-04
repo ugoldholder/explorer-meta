@@ -1,0 +1,11 @@
+{
+	"address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+	"chainId": 1,
+	"name": "DEXTF Protocol",
+	"symbol": "DEXTF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DEXTF Protocol"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x7bf8ebff79072fbff4bfca98fb59a2e06b93e2be",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Flokireum Pair",
+	"source": ["kleros", "2026-03-03"]
+}

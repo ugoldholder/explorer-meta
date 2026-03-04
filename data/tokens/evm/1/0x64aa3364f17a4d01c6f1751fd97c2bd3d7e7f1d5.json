@@ -3,5 +3,9 @@
 	"chainId": 1,
 	"name": "Olympus",
 	"symbol": "OHM",
-	"decimals": 9
+	"decimals": 9,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Olympus"
+	}
 }

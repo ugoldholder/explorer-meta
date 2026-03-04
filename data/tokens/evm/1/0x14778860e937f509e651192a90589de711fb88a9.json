@@ -1,0 +1,11 @@
+{
+	"address": "0x14778860e937f509e651192a90589de711fb88a9",
+	"chainId": 1,
+	"name": "CyberConnect",
+	"symbol": "CYBER",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CyberConnect"
+	}
+}

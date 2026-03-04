@@ -1,0 +1,11 @@
+{
+	"address": "0x17107f40d70f4470d20cb3f138a052cae8ebd4be",
+	"chainId": 1,
+	"name": "Cream renBTC",
+	"symbol": "crRENBTC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream renBTC"
+	}
+}

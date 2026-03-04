@@ -1,0 +1,6 @@
+{
+	"address": "0x78914e62ed49f15cc14e3ec3225600fb3469b223",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/MANEKI Pair",
+	"source": ["kleros", "2026-03-03"]
+}

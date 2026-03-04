@@ -1,0 +1,17 @@
+{
+	"address": "0xf16e81dce15b08f326220742020379b855b87df9",
+	"chainId": 1,
+	"name": "Popsicle Finance",
+	"symbol": "ICE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Popsicle Finance: ICE token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://popsicle.finance/"
+		}
+	]
+}

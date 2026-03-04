@@ -1,0 +1,6 @@
+{
+	"address": "0x06a6bc80bec1f1799f62dd2e31e1c0891032726b",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Gypsy Pair",
+	"source": ["kleros", "2026-03-03"]
+}

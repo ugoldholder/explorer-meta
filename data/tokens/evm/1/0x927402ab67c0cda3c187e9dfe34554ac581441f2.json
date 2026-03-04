@@ -1,0 +1,11 @@
+{
+	"address": "0x927402ab67c0cda3c187e9dfe34554ac581441f2",
+	"chainId": 1,
+	"name": "SaitaBit",
+	"symbol": "SAITABIT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SaitaBit"
+	}
+}

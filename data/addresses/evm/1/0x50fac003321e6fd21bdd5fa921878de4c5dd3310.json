@@ -1,0 +1,6 @@
+{
+	"address": "0x50fac003321e6fd21bdd5fa921878de4c5dd3310",
+	"chainId": 1,
+	"label": "Uniswap v2: Rocky/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

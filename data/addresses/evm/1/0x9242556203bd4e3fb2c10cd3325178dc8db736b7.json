@@ -1,0 +1,6 @@
+{
+	"address": "0x9242556203bd4e3fb2c10cd3325178dc8db736b7",
+	"chainId": 1,
+	"label": "Uniswap v2: PWM/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

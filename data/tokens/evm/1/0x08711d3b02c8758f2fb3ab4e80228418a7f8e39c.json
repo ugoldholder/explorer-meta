@@ -1,0 +1,11 @@
+{
+	"address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+	"chainId": 1,
+	"name": "Edgeless",
+	"symbol": "EDG",
+	"decimals": 0,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Edgeless"
+	}
+}

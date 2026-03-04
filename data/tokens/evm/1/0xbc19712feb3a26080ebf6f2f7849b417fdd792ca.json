@@ -1,0 +1,11 @@
+{
+	"address": "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
+	"chainId": 1,
+	"name": "BoringDAO",
+	"symbol": "BORING",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BoringDAO"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x45ba7074c881970ec01200b1e8c7cbb581e25d09",
+	"chainId": 1,
+	"label": "Sushi v2: byte(1)/USDC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

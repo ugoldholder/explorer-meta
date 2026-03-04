@@ -1,0 +1,11 @@
+{
+	"address": "0xd82df0abd3f51425eb15ef7580fda55727875f14",
+	"chainId": 1,
+	"name": "DAV",
+	"symbol": "DAV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DAV"
+	}
+}

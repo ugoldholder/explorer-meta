@@ -1,0 +1,6 @@
+{
+	"address": "0x07e442b5b69e15e86ec056c744b5285d76a954b5",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Supercharger Pair",
+	"source": ["kleros", "2026-03-03"]
+}

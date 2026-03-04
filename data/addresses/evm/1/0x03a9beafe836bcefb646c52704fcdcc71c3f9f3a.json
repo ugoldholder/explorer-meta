@@ -1,0 +1,6 @@
+{
+	"address": "0x03a9beafe836bcefb646c52704fcdcc71c3f9f3a",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/VENDASTA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

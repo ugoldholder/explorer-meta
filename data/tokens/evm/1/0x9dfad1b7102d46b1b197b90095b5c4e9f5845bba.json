@@ -1,0 +1,11 @@
+{
+	"address": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
+	"chainId": 1,
+	"name": "Botto",
+	"symbol": "BOTTO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Botto"
+	}
+}

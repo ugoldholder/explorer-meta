@@ -1,0 +1,11 @@
+{
+	"address": "0xef9cd7882c067686691b6ff49e650b43afbbcc6b",
+	"chainId": 1,
+	"name": "FinNexus",
+	"symbol": "FNX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "FinNexus"
+	}
+}

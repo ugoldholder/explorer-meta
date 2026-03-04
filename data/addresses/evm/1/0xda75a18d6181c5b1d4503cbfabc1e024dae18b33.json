@@ -1,0 +1,6 @@
+{
+	"address": "0xda75a18d6181c5b1d4503cbfabc1e024dae18b33",
+	"chainId": 1,
+	"label": "Uniswap v2: BYRON/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

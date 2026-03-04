@@ -1,0 +1,6 @@
+{
+	"address": "0x2ce69ac9686d3d4b3003c12be99ce79fca312b03",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Austin >> LA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xd7f5879316b4e51ed66a1239e171ffa65bda8455",
+	"chainId": 1,
+	"name": "HARRIS2024",
+	"symbol": "HARRIS2024",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "HARRIS2024"
+	}
+}

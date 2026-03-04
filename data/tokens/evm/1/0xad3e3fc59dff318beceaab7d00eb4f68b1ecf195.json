@@ -1,0 +1,11 @@
+{
+	"address": "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195",
+	"chainId": 1,
+	"name": "Wrapped Celo USD",
+	"symbol": "WCUSD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Wrapped Celo USD"
+	}
+}

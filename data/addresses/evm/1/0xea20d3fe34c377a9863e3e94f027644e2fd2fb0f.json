@@ -1,0 +1,6 @@
+{
+	"address": "0xea20d3fe34c377a9863e3e94f027644e2fd2fb0f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/ECLYPSIUM Pair",
+	"source": ["kleros", "2026-03-03"]
+}

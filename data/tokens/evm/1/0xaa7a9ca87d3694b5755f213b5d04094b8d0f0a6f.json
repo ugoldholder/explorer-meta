@@ -1,0 +1,17 @@
+{
+	"address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+	"chainId": 1,
+	"name": "OriginTrail",
+	"symbol": "TRAC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "OriginTrail: TRAC Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://origintrail.io/"
+		}
+	]
+}

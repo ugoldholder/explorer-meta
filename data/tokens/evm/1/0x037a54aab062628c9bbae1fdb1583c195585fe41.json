@@ -1,0 +1,17 @@
+{
+	"address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+	"chainId": 1,
+	"name": "LCX",
+	"symbol": "LCX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "LCX: LCX Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.lcx.com/"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+	"chainId": 1,
+	"name": "GET Protocol",
+	"symbol": "GET",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GET Protocol"
+	}
+}

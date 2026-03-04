@@ -1,0 +1,11 @@
+{
+	"address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+	"chainId": 1,
+	"name": "Tether Gold",
+	"symbol": "XAUt",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Tether Gold"
+	}
+}

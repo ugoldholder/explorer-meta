@@ -1,0 +1,6 @@
+{
+	"address": "0xf4f88960c73f99df8bdf35506c1104b513305eb7",
+	"chainId": 1,
+	"label": "Uniswap v2: MEV/USDC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

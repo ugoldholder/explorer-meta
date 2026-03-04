@@ -1,0 +1,17 @@
+{
+	"address": "0xe25b0bba01dc5630312b6a21927e578061a13f55",
+	"chainId": 1,
+	"name": "ShipChain",
+	"symbol": "SHIP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ShipChain: SHIP Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://shipchain.io/"
+		}
+	]
+}

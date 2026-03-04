@@ -1,0 +1,11 @@
+{
+	"address": "0xfd609a03b393f1a1cfcacedabf068cad09a924e2",
+	"chainId": 1,
+	"name": "Cream Cream ETH 2",
+	"symbol": "crCRETH2",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream Cream ETH 2"
+	}
+}

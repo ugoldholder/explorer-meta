@@ -3,5 +3,6 @@
 	"chainId": 56,
 	"name": "XRP Token",
 	"symbol": "XRP",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

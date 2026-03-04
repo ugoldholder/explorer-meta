@@ -1,0 +1,11 @@
+{
+	"address": "0xe96edd48cf0c6e930ce55f171a721017b28e0f08",
+	"chainId": 1,
+	"name": "NexusAI",
+	"symbol": "NexusAI",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "NexusAI"
+	}
+}

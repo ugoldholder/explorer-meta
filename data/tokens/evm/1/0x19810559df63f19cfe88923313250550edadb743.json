@@ -1,0 +1,11 @@
+{
+	"address": "0x19810559df63f19cfe88923313250550edadb743",
+	"chainId": 1,
+	"name": "Toast.finance",
+	"symbol": "HOUSE",
+	"decimals": 0,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Toast.finance"
+	}
+}

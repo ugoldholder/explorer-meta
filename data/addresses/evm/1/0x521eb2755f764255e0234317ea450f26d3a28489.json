@@ -1,0 +1,6 @@
+{
+	"address": "0x521eb2755f764255e0234317ea450f26d3a28489",
+	"chainId": 1,
+	"label": "Uniswap v2: ChildSeat/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

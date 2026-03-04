@@ -1,0 +1,6 @@
+{
+	"address": "0x06adfaebbe462b5adb9889f4fa4ddc7a8957cca7",
+	"chainId": 1,
+	"label": "Uniswap v2: VENMO/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

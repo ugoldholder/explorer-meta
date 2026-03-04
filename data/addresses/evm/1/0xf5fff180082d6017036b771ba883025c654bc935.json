@@ -1,0 +1,6 @@
+{
+	"address": "0xf5fff180082d6017036b771ba883025c654bc935",
+	"chainId": 1,
+	"label": "Chainlink: BTC / USD Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

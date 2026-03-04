@@ -1,0 +1,17 @@
+{
+	"address": "0xfcfcb729e45f7037362ba61f6dfbcdaefacfd55e",
+	"chainId": 1,
+	"name": "PLURcoin",
+	"symbol": "PLUR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "PLURcoin"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.plurcoin.com/"
+		}
+	]
+}

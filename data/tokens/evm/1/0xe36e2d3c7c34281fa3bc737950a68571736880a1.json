@@ -1,0 +1,11 @@
+{
+	"address": "0xe36e2d3c7c34281fa3bc737950a68571736880a1",
+	"chainId": 1,
+	"name": "Synthetic Cardano",
+	"symbol": "sADA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Cardano"
+	}
+}

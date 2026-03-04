@@ -1,0 +1,6 @@
+{
+	"address": "0x7e000b85045fb10d95dadd3bcad050c075f8bb90",
+	"chainId": 1,
+	"label": "PancakeSwap v3: ETH/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

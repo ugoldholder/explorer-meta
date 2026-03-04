@@ -3,5 +3,6 @@
 	"chainId": 1,
 	"name": "Dejitaru Tsuka",
 	"symbol": "TSUKA",
-	"decimals": 9
+	"decimals": 9,
+	"source": ["openscan", "2026-03-03"]
 }

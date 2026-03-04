@@ -1,0 +1,11 @@
+{
+	"address": "0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+	"chainId": 1,
+	"name": "Origin Sport",
+	"symbol": "ORS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Origin Sport"
+	}
+}

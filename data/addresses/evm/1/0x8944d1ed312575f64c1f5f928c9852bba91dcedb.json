@@ -1,0 +1,6 @@
+{
+	"address": "0x8944d1ed312575f64c1f5f928c9852bba91dcedb",
+	"chainId": 1,
+	"label": "Uniswap v2: reggie/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

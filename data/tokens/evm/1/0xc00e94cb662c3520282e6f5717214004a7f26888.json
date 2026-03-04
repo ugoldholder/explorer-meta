@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Compound",
 	"symbol": "COMP",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Compound: COMP Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://compound.finance/"
+		}
+	]
 }

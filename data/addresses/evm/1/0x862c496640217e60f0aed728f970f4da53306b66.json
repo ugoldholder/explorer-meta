@@ -1,0 +1,6 @@
+{
+	"address": "0x862c496640217e60f0aed728f970f4da53306b66",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/coinlock.finance Pair",
+	"source": ["kleros", "2026-03-03"]
+}

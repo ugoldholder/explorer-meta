@@ -1,0 +1,6 @@
+{
+	"address": "0x2c39b301121b7463855918a6fbda9b7c146f5173",
+	"chainId": 1,
+	"label": "Uniswap v2: AVAXbot/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x3acee1e35c7c2d9184218a365cc60dd0fb11a1ca",
+	"chainId": 1,
+	"label": "Uniswap v2: AMLO/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

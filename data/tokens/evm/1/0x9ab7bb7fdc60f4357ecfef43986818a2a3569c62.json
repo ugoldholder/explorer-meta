@@ -1,0 +1,11 @@
+{
+	"address": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
+	"chainId": 1,
+	"name": "Guild of Guardians",
+	"symbol": "GOG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Guild of Guardians"
+	}
+}

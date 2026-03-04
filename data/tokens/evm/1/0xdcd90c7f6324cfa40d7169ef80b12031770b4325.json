@@ -1,0 +1,11 @@
+{
+	"address": "0xdcd90c7f6324cfa40d7169ef80b12031770b4325",
+	"chainId": 1,
+	"name": "Curve stETH Pool yVault",
+	"symbol": "yvCurve-stETH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Curve stETH Pool yVault"
+	}
+}

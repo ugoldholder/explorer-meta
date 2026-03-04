@@ -1,0 +1,6 @@
+{
+	"address": "0x21c161fa4c4b7a845137f8ff233fd13da56b10bd",
+	"chainId": 1,
+	"label": "Uniswap v2: SENDOR/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

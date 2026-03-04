@@ -1,0 +1,11 @@
+{
+	"address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+	"chainId": 1,
+	"name": "Aave DAI",
+	"symbol": "aDAI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aave DAI"
+	}
+}

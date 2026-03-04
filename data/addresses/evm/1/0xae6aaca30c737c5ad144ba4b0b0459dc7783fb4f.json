@@ -1,0 +1,6 @@
+{
+	"address": "0xae6aaca30c737c5ad144ba4b0b0459dc7783fb4f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TAIGA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

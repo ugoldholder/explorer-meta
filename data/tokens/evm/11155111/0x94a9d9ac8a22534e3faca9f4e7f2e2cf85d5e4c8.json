@@ -3,5 +3,6 @@
 	"chainId": 11155111,
 	"name": "Aave Token",
 	"symbol": "AAVE",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

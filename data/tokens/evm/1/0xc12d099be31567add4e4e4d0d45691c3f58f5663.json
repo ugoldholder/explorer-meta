@@ -1,0 +1,11 @@
+{
+	"address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+	"chainId": 1,
+	"name": "Auctus",
+	"symbol": "AUC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Auctus"
+	}
+}

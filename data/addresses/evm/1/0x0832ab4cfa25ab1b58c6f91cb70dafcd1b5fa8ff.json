@@ -1,0 +1,6 @@
+{
+	"address": "0x0832ab4cfa25ab1b58c6f91cb70dafcd1b5fa8ff",
+	"chainId": 1,
+	"label": "Uniswap v2: FORTIFY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

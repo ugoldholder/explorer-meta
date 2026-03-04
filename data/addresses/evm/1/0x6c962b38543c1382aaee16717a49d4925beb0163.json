@@ -1,0 +1,6 @@
+{
+	"address": "0x6c962b38543c1382aaee16717a49d4925beb0163",
+	"chainId": 1,
+	"label": "Uniswap v2: Potassium/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x25134365dfaeecd8ac708ec0d616198771b1d2e3",
+	"chainId": 1,
+	"label": "Uniswap v2: Fair BERC20/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+	"chainId": 1,
+	"name": "SingularityNET",
+	"symbol": "AGIX",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SingularityNET: AGIX Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://singularitynet.io/"
+		}
+	]
+}

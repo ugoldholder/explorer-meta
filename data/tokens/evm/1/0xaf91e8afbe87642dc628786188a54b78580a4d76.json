@@ -1,0 +1,11 @@
+{
+	"address": "0xaf91e8afbe87642dc628786188a54b78580a4d76",
+	"chainId": 1,
+	"name": "Fund Of Yours",
+	"symbol": "FOY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Fund Of Yours"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+	"chainId": 1,
+	"name": "FunFair",
+	"symbol": "FUN",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "FUNToken: FUN Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://funtoken.io/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x895c508f9bb73fd9d9180d7f19cac43751922533",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Circumcisions Pair",
+	"source": ["kleros", "2026-03-03"]
+}

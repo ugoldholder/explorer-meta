@@ -1,0 +1,6 @@
+{
+	"address": "0x64acc649d2dc9238a9b01ddb8af09f712faddaac",
+	"chainId": 1,
+	"label": "Uniswap v2: PINGPONG/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

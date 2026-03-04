@@ -1,0 +1,11 @@
+{
+	"address": "0x630bc7dd0abfc2d196289ce09db947dd2cafae7c",
+	"chainId": 1,
+	"name": "Nabox",
+	"symbol": "NABOX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Nabox"
+	}
+}

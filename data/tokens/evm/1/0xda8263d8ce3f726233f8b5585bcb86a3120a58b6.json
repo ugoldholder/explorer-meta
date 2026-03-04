@@ -1,0 +1,11 @@
+{
+	"address": "0xda8263d8ce3f726233f8b5585bcb86a3120a58b6",
+	"chainId": 1,
+	"name": "DogeClub",
+	"symbol": "DOGC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DogeClub"
+	}
+}

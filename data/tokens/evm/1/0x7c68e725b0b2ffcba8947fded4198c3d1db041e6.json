@@ -1,0 +1,17 @@
+{
+	"address": "0x7c68e725b0b2ffcba8947fded4198c3d1db041e6",
+	"chainId": 1,
+	"name": "Pongo",
+	"symbol": "Pongo",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Pongo"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://pongo-coin.com/"
+		}
+	]
+}

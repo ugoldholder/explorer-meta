@@ -1,0 +1,6 @@
+{
+	"address": "0x8ac4ae65b3656e26dc4e0e69108b392283350f55",
+	"chainId": 1,
+	"label": "PulseChain: WETH Omnibridge Router",
+	"source": ["kleros", "2026-03-03"]
+}

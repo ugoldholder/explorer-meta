@@ -1,0 +1,6 @@
+{
+	"address": "0xd3a65805b88611e6601a679898924d912cff7e78",
+	"chainId": 1,
+	"label": "Uniswap v2: Bittensor Hedera/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

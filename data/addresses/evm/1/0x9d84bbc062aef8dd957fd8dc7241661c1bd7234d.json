@@ -1,0 +1,6 @@
+{
+	"address": "0x9d84bbc062aef8dd957fd8dc7241661c1bd7234d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BabyLeash Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x44e2a890928c31d7977b51eaf3f11204946f5865",
+	"chainId": 1,
+	"label": "Uniswap v2: Bedrock/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

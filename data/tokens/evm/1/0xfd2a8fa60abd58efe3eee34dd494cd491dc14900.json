@@ -1,0 +1,11 @@
+{
+	"address": "0xfd2a8fa60abd58efe3eee34dd494cd491dc14900",
+	"chainId": 1,
+	"name": "a3Curve",
+	"symbol": "a3Crv",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "a3Curve"
+	}
+}

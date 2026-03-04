@@ -1,0 +1,6 @@
+{
+	"address": "0x4b0dd00e405b2ba6044ee3a4affb40fc33546995",
+	"chainId": 1,
+	"label": "Uniswap v2: LaunchFerc/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

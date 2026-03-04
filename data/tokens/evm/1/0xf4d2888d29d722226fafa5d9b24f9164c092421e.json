@@ -1,0 +1,17 @@
+{
+	"address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+	"chainId": 1,
+	"name": "LooksRare",
+	"symbol": "LOOKS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "LooksRare: LOOKS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://looksrare.org/"
+		}
+	]
+}

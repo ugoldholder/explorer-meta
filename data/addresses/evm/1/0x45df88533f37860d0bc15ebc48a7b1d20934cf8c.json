@@ -1,0 +1,6 @@
+{
+	"address": "0x45df88533f37860d0bc15ebc48a7b1d20934cf8c",
+	"chainId": 1,
+	"label": "Uniswap v2: Termite/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

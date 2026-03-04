@@ -1,0 +1,11 @@
+{
+	"address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+	"chainId": 1,
+	"name": "MultiVAC",
+	"symbol": "MTV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MultiVAC"
+	}
+}

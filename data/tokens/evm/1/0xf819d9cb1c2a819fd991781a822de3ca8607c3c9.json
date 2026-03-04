@@ -1,0 +1,17 @@
+{
+	"address": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
+	"chainId": 1,
+	"name": "UNIBOT",
+	"symbol": "UNIBOT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Unibot: UNIBOT Token v2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://unibot.app/"
+		}
+	]
+}

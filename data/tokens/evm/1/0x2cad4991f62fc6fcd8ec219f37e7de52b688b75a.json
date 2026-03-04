@@ -1,0 +1,11 @@
+{
+	"address": "0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a",
+	"chainId": 1,
+	"name": "Schain Wallet",
+	"symbol": "SCHA",
+	"decimals": 0,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Schain Wallet"
+	}
+}

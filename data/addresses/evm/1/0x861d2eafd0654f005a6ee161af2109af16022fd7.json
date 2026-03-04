@@ -1,0 +1,6 @@
+{
+	"address": "0x861d2eafd0654f005a6ee161af2109af16022fd7",
+	"chainId": 1,
+	"label": "Uniswap v2: KYMEX/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

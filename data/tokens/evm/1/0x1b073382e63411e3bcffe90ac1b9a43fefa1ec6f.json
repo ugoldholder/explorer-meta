@@ -1,0 +1,11 @@
+{
+	"address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+	"chainId": 1,
+	"name": "Bitpanda Ecosystem Token",
+	"symbol": "BEST",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bitpanda Ecosystem Token"
+	}
+}

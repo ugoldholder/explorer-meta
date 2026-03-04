@@ -1,0 +1,6 @@
+{
+	"address": "0x5385ae7b7978c8e6b644bd69cc3b0399a69d652d",
+	"chainId": 1,
+	"label": "Uniswap v2: Pinto pay/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

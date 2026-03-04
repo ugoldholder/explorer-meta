@@ -1,0 +1,17 @@
+{
+	"address": "0xddb3422497e61e13543bea06989c0789117555c5",
+	"chainId": 1,
+	"name": "COTI",
+	"symbol": "COTI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "COTI: COTI Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://coti.io/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x14fc44029bca08c078a245de14d0bd8faed7fef0",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Testicals Pair",
+	"source": ["kleros", "2026-03-03"]
+}

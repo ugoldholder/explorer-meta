@@ -1,0 +1,11 @@
+{
+	"address": "0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008",
+	"chainId": 1,
+	"name": "Sperax",
+	"symbol": "SPA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Sperax"
+	}
+}

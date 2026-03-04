@@ -1,0 +1,6 @@
+{
+	"address": "0x9b9b01dcb5e927d6c969524bbd18ef7ee59f2763",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/AMC HBOT Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x3c6c553a95910f9fc81c98784736bd628636d296",
+	"chainId": 1,
+	"name": "Cream Empty Set Dollar",
+	"symbol": "crESD",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream Empty Set Dollar"
+	}
+}

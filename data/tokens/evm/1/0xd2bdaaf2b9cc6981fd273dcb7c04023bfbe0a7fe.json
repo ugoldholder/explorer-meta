@@ -1,0 +1,11 @@
+{
+	"address": "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe",
+	"chainId": 1,
+	"name": "Aviator",
+	"symbol": "AVI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aviator"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0xbabe7401bb911a4071cf8cff27b8065b44f9e72e",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/蜜罐 Pair",
+	"source": ["kleros", "2026-03-03"]
+}

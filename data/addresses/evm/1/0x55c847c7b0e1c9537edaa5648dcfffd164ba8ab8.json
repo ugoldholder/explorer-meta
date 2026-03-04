@@ -1,0 +1,6 @@
+{
+	"address": "0x55c847c7b0e1c9537edaa5648dcfffd164ba8ab8",
+	"chainId": 1,
+	"label": "Uniswap v2: Don't Buy MEME/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

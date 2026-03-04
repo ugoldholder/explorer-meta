@@ -1,0 +1,6 @@
+{
+	"address": "0x0b91b937df47f3316f39d716fb7a69c7d323a599",
+	"chainId": 1,
+	"label": "Uniswap v2: Gridlock/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

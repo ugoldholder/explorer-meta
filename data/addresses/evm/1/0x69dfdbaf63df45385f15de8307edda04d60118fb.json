@@ -1,0 +1,6 @@
+{
+	"address": "0x69dfdbaf63df45385f15de8307edda04d60118fb",
+	"chainId": 1,
+	"label": "Uniswap v2: initial buy/VETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

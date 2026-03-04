@@ -1,0 +1,6 @@
+{
+	"address": "0x22f700f07c3edcf9c7e12296b17ac9c627e918b8",
+	"chainId": 1,
+	"label": "Uniswap v2: COSMOS/USDC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

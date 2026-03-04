@@ -1,0 +1,11 @@
+{
+	"address": "0xc7a8b45e184138114e6085c82936a8db93dd156a",
+	"chainId": 1,
+	"name": "MASK Vault",
+	"symbol": "MASK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MASK Vault"
+	}
+}

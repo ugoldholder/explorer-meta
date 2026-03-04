@@ -1,0 +1,6 @@
+{
+	"address": "0x75ff1e88bea0b5df828781b238ee02f22bcfb218",
+	"chainId": 1,
+	"label": "PancakeSwap v3: WETH/cbBTC Pool",
+	"source": ["kleros", "2026-03-03"]
+}

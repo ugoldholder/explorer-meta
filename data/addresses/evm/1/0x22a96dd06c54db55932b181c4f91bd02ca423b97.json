@@ -1,0 +1,6 @@
+{
+	"address": "0x22a96dd06c54db55932b181c4f91bd02ca423b97",
+	"chainId": 1,
+	"label": "Uniswap v2: Greedy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

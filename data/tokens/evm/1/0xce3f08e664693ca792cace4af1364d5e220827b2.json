@@ -1,0 +1,17 @@
+{
+	"address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
+	"chainId": 1,
+	"name": "SAITAMA",
+	"symbol": "SAITAMA",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Saitama: SAITAMA Token V2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.saitamatoken.com/"
+		}
+	]
+}

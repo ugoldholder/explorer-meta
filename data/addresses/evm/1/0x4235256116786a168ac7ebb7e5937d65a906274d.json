@@ -1,0 +1,6 @@
+{
+	"address": "0x4235256116786a168ac7ebb7e5937d65a906274d",
+	"chainId": 1,
+	"label": "Uniswap v2: Hestia/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

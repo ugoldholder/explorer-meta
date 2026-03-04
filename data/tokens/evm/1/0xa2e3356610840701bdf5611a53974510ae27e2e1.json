@@ -3,5 +3,6 @@
 	"chainId": 1,
 	"name": "Wrapped Binance Beacon ETH",
 	"symbol": "wBETH",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

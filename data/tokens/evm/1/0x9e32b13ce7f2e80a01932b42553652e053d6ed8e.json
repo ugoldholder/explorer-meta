@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Metis Token",
 	"symbol": "METIS",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Metis: METIS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.metis.io/"
+		}
+	]
 }

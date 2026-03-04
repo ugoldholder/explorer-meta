@@ -1,0 +1,11 @@
+{
+	"address": "0x99d36e97676a68313ffdc627fd6b56382a2a08b6",
+	"chainId": 1,
+	"name": "Baby Trump",
+	"symbol": "BABYTRUMP",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Baby Trump"
+	}
+}

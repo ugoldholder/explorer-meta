@@ -1,0 +1,11 @@
+{
+	"address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+	"chainId": 1,
+	"name": "XDEFI",
+	"symbol": "XDEFI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "XDEFI"
+	}
+}

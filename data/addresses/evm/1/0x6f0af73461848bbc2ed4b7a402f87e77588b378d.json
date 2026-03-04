@@ -1,0 +1,6 @@
+{
+	"address": "0x6f0af73461848bbc2ed4b7a402f87e77588b378d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/CoalaPay Pair",
+	"source": ["kleros", "2026-03-03"]
+}

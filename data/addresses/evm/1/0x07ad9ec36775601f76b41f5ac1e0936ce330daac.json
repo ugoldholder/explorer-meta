@@ -1,0 +1,6 @@
+{
+	"address": "0x07ad9ec36775601f76b41f5ac1e0936ce330daac",
+	"chainId": 1,
+	"label": "Uniswap v2: GATSBY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

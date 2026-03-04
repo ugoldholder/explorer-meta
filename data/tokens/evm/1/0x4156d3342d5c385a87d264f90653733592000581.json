@@ -1,0 +1,17 @@
+{
+	"address": "0x4156d3342d5c385a87d264f90653733592000581",
+	"chainId": 1,
+	"name": "SALT",
+	"symbol": "SALT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SALT: SALT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://saltlending.com/"
+		}
+	]
+}

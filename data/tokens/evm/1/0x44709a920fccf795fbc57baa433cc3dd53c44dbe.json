@@ -1,0 +1,17 @@
+{
+	"address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+	"chainId": 1,
+	"name": "DappRadar",
+	"symbol": "RADAR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DappRadar: RADAR Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://dappradar.com/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x1b623fe6491349b4523b28e2a3d80c93a2ca5aa4",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/OSAK CRO Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x01455e035fae800acfdd2632e9042290ff9860cf",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/NAILA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

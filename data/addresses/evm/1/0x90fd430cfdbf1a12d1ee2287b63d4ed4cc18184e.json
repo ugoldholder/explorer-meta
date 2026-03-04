@@ -1,0 +1,6 @@
+{
+	"address": "0x90fd430cfdbf1a12d1ee2287b63d4ed4cc18184e",
+	"chainId": 1,
+	"label": "Uniswap v2: proBTC/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x344aafbdacf8b42a84a09428a26a0e64f16f8fe0",
+	"chainId": 1,
+	"label": "Uniswap v2: HALAL/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

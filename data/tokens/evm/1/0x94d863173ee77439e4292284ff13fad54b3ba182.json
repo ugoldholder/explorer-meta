@@ -1,0 +1,11 @@
+{
+	"address": "0x94d863173ee77439e4292284ff13fad54b3ba182",
+	"chainId": 1,
+	"name": "Akropolis Delphi",
+	"symbol": "ADEL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Akropolis Delphi"
+	}
+}

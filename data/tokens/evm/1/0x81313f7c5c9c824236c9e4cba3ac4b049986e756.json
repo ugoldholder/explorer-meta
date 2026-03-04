@@ -1,0 +1,11 @@
+{
+	"address": "0x81313f7c5c9c824236c9e4cba3ac4b049986e756",
+	"chainId": 1,
+	"name": "HippoFinance",
+	"symbol": "HIPPO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "HippoFinance"
+	}
+}

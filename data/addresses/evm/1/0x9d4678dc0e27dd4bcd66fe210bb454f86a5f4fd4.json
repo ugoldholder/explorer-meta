@@ -1,0 +1,6 @@
+{
+	"address": "0x9d4678dc0e27dd4bcd66fe210bb454f86a5f4fd4",
+	"chainId": 1,
+	"label": "Uniswap v2: Ratchet/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

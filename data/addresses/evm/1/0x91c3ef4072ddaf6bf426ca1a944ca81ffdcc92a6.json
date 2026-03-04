@@ -1,0 +1,6 @@
+{
+	"address": "0x91c3ef4072ddaf6bf426ca1a944ca81ffdcc92a6",
+	"chainId": 1,
+	"label": "Uniswap v2: TPFR/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

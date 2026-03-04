@@ -1,0 +1,11 @@
+{
+	"address": "0xe0d2f5c883d5d470d16fa6dd73610bb4253577ff",
+	"chainId": 1,
+	"name": "MemeCoinUniverse",
+	"symbol": "MCM",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MemeCoinUniverse"
+	}
+}

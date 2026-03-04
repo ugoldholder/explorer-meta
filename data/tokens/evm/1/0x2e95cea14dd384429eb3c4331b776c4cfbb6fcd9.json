@@ -1,0 +1,11 @@
+{
+	"address": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
+	"chainId": 1,
+	"name": "Throne",
+	"symbol": "THN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Throne"
+	}
+}

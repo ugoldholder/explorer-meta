@@ -1,0 +1,11 @@
+{
+	"address": "0x4b5f49487ea7b3609b1ad05459be420548789f1f",
+	"chainId": 1,
+	"name": "LeverFi",
+	"symbol": "LEVER",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "LeverFi"
+	}
+}

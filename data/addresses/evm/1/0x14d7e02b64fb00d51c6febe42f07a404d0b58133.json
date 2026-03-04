@@ -1,0 +1,6 @@
+{
+	"address": "0x14d7e02b64fb00d51c6febe42f07a404d0b58133",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/UMBREX Pair",
+	"source": ["kleros", "2026-03-03"]
+}

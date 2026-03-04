@@ -1,0 +1,11 @@
+{
+	"address": "0x0e192d382a36de7011f795acc4391cd302003606",
+	"chainId": 1,
+	"name": "Futureswap",
+	"symbol": "FST",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Futureswap"
+	}
+}

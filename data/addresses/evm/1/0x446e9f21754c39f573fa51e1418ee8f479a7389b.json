@@ -1,0 +1,6 @@
+{
+	"address": "0x446e9f21754c39f573fa51e1418ee8f479a7389b",
+	"chainId": 1,
+	"label": "Uniswap v2: gorklon rust/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

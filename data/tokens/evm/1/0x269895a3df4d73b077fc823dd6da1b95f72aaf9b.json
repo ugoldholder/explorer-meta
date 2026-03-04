@@ -1,0 +1,11 @@
+{
+	"address": "0x269895a3df4d73b077fc823dd6da1b95f72aaf9b",
+	"chainId": 1,
+	"name": "Synthetic South Korean Won",
+	"symbol": "sKRW",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic South Korean Won"
+	}
+}

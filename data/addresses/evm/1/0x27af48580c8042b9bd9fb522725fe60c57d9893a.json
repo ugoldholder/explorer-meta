@@ -1,0 +1,6 @@
+{
+	"address": "0x27af48580c8042b9bd9fb522725fe60c57d9893a",
+	"chainId": 1,
+	"label": "Uniswap v2: Pesticide/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

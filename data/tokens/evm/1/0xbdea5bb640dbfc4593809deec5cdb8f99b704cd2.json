@@ -1,0 +1,11 @@
+{
+	"address": "0xbdea5bb640dbfc4593809deec5cdb8f99b704cd2",
+	"chainId": 1,
+	"name": "Direwolf",
+	"symbol": "DIREWOLF",
+	"decimals": 2,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Direwolf"
+	}
+}

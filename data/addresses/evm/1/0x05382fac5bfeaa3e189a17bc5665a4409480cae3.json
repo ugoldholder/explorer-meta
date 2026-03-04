@@ -1,0 +1,6 @@
+{
+	"address": "0x05382fac5bfeaa3e189a17bc5665a4409480cae3",
+	"chainId": 1,
+	"label": "Uniswap v2: SINATRA/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

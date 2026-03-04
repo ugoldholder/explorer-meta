@@ -1,0 +1,6 @@
+{
+	"address": "0x161fb57fd46002113deb471e8afcf389fafae748",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/STILTON Pair",
+	"source": ["kleros", "2026-03-03"]
+}

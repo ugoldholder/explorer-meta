@@ -1,0 +1,11 @@
+{
+	"address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+	"chainId": 1,
+	"name": "Blockchain Certified Data Token",
+	"symbol": "BCDT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Blockchain Certified Data Token"
+	}
+}

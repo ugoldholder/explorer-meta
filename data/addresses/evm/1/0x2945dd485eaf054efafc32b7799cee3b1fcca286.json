@@ -1,0 +1,6 @@
+{
+	"address": "0x2945dd485eaf054efafc32b7799cee3b1fcca286",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/babyferc Pair",
+	"source": ["kleros", "2026-03-03"]
+}

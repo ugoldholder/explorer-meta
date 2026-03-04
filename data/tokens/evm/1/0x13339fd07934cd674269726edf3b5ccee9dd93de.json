@@ -1,0 +1,11 @@
+{
+	"address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
+	"chainId": 1,
+	"name": "Curio",
+	"symbol": "CUR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Curio"
+	}
+}

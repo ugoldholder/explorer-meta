@@ -1,0 +1,17 @@
+{
+	"address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+	"chainId": 1,
+	"name": "Serum",
+	"symbol": "SRM",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Serum: SRM Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.projectserum.com/"
+		}
+	]
+}

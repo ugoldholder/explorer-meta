@@ -1,0 +1,6 @@
+{
+	"address": "0xd2974f30ad93326e01d19507f9234cf8ed535316",
+	"chainId": 1,
+	"label": "Uniswap v2: Sybil/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x2cbfd29947f774b8cf338f776915e6fee052f236",
+	"chainId": 1,
+	"label": "Chainlink: YFI / ETH Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

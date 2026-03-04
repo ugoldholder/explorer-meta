@@ -1,0 +1,11 @@
+{
+	"address": "0x96f6ef951840721adbf46ac996b59e0235cb985c",
+	"chainId": 1,
+	"name": "Ondo US Dollar Yield",
+	"symbol": "USDY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ondo US Dollar Yield"
+	}
+}

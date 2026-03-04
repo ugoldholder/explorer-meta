@@ -3,5 +3,6 @@
 	"chainId": 1,
 	"name": "Wrapped Centrifuge",
 	"symbol": "wCFG",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

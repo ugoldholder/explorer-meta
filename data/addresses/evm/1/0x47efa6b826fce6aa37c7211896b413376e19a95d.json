@@ -1,0 +1,6 @@
+{
+	"address": "0x47efa6b826fce6aa37c7211896b413376e19a95d",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/MLM Pair",
+	"source": ["kleros", "2026-03-03"]
+}

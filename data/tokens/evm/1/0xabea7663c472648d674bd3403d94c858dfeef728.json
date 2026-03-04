@@ -1,0 +1,11 @@
+{
+	"address": "0xabea7663c472648d674bd3403d94c858dfeef728",
+	"chainId": 1,
+	"name": "PUDGY Vault",
+	"symbol": "PUDGY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "PUDGY Vault"
+	}
+}

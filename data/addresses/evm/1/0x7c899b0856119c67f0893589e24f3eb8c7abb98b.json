@@ -1,0 +1,6 @@
+{
+	"address": "0x7c899b0856119c67f0893589e24f3eb8c7abb98b",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/CRYBB Pair",
+	"source": ["kleros", "2026-03-03"]
+}

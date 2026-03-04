@@ -1,0 +1,11 @@
+{
+	"address": "0x81afa8aca19d5693883b0b1e10ae1ccaf2f42781",
+	"chainId": 1,
+	"name": "ForeverUp",
+	"symbol": "FOREVERUP",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ForeverUp"
+	}
+}

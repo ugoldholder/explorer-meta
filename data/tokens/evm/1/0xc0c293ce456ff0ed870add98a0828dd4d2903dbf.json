@@ -1,0 +1,11 @@
+{
+	"address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+	"chainId": 1,
+	"name": "Aura",
+	"symbol": "AURA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aura"
+	}
+}

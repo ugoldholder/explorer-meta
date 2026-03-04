@@ -3,5 +3,6 @@
 	"chainId": 1,
 	"name": "Dola USD Stablecoin",
 	"symbol": "DOLA",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

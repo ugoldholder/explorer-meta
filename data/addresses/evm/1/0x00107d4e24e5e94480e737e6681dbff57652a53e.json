@@ -1,0 +1,6 @@
+{
+	"address": "0x00107d4e24e5e94480e737e6681dbff57652a53e",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/OptiMask Pair",
+	"source": ["kleros", "2026-03-03"]
+}

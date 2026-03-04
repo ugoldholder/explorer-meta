@@ -1,0 +1,11 @@
+{
+	"address": "0x0a913bead80f321e7ac35285ee10d9d922659cb7",
+	"chainId": 1,
+	"name": "DOS Network",
+	"symbol": "DOS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DOS Network"
+	}
+}

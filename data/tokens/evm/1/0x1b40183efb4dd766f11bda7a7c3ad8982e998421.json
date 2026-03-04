@@ -1,0 +1,17 @@
+{
+	"address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+	"chainId": 1,
+	"name": "Vesper Finance",
+	"symbol": "VSP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Vesper Finance: VSP Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://vesper.finance/"
+		}
+	]
+}

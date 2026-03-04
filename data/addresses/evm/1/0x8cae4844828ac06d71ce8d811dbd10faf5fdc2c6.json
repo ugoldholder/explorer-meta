@@ -1,0 +1,6 @@
+{
+	"address": "0x8cae4844828ac06d71ce8d811dbd10faf5fdc2c6",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/SUV Pair",
+	"source": ["kleros", "2026-03-03"]
+}

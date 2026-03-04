@@ -1,0 +1,17 @@
+{
+	"address": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4",
+	"chainId": 1,
+	"name": "Universal Basic Income",
+	"symbol": "UBI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "UBI: UBI Token Proxy"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://ubi.eth.limo/"
+		}
+	]
+}

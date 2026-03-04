@@ -1,0 +1,11 @@
+{
+	"address": "0x49642110b712c1fd7261bc074105e9e44676c68f",
+	"chainId": 1,
+	"name": "DinoLFG",
+	"symbol": "DINO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DinoLFG"
+	}
+}

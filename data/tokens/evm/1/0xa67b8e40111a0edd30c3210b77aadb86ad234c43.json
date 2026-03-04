@@ -1,0 +1,11 @@
+{
+	"address": "0xa67b8e40111a0edd30c3210b77aadb86ad234c43",
+	"chainId": 1,
+	"name": "Banana Index",
+	"symbol": "BANDEX",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Banana Index"
+	}
+}

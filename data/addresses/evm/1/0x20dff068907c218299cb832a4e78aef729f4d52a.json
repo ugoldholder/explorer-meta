@@ -1,0 +1,6 @@
+{
+	"address": "0x20dff068907c218299cb832a4e78aef729f4d52a",
+	"chainId": 1,
+	"label": "Uniswap v2: MUSTACHE/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

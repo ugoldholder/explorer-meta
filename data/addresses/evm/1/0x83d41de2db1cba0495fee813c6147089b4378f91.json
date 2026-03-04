@@ -1,0 +1,6 @@
+{
+	"address": "0x83d41de2db1cba0495fee813c6147089b4378f91",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/FlyBNB Pair",
+	"source": ["kleros", "2026-03-03"]
+}

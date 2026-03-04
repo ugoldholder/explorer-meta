@@ -1,0 +1,11 @@
+{
+	"address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+	"chainId": 1,
+	"name": "Parallel",
+	"symbol": "PAR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Parallel"
+	}
+}

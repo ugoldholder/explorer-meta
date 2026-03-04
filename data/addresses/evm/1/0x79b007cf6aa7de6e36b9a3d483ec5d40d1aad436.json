@@ -1,0 +1,6 @@
+{
+	"address": "0x79b007cf6aa7de6e36b9a3d483ec5d40d1aad436",
+	"chainId": 1,
+	"label": "Uniswap v2: ZAPEX/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

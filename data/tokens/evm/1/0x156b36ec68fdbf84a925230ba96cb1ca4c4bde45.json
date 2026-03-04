@@ -1,0 +1,11 @@
+{
+	"address": "0x156b36ec68fdbf84a925230ba96cb1ca4c4bde45",
+	"chainId": 1,
+	"name": "Wrapped MNT",
+	"symbol": "MNT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Wrapped MNT"
+	}
+}

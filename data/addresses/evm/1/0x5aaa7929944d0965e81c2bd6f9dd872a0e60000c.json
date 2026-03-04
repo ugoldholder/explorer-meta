@@ -1,0 +1,6 @@
+{
+	"address": "0x5aaa7929944d0965e81c2bd6f9dd872a0e60000c",
+	"chainId": 1,
+	"label": "Uniswap v2: HORACE/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

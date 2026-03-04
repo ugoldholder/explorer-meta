@@ -1,0 +1,11 @@
+{
+	"address": "0x33e07f5055173cf8febede8b21b12d1e2b523205",
+	"chainId": 1,
+	"name": "Etherland",
+	"symbol": "ELAND",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Etherland"
+	}
+}

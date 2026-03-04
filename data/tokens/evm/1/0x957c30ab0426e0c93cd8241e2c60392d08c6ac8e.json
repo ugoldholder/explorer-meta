@@ -1,0 +1,11 @@
+{
+	"address": "0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e",
+	"chainId": 1,
+	"name": "Modum",
+	"symbol": "MOD",
+	"decimals": 0,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Modum"
+	}
+}

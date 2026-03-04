@@ -1,0 +1,6 @@
+{
+	"address": "0x7290e2ab0f8eb1f639b8ba172aeb4bf682c3191b",
+	"chainId": 1,
+	"label": "Uniswap v2: DEXBOT/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

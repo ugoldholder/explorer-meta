@@ -1,0 +1,17 @@
+{
+	"address": "0xcc9e0bd9438ca0056653d134de794abeaff8c676",
+	"chainId": 1,
+	"name": "Leslie",
+	"symbol": "LESLIE",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Leslie"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://leslietoken.com/"
+		}
+	]
+}

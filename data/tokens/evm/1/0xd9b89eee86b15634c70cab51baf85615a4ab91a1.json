@@ -1,0 +1,11 @@
+{
+	"address": "0xd9b89eee86b15634c70cab51baf85615a4ab91a1",
+	"chainId": 1,
+	"name": "Locklet",
+	"symbol": "LKT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Locklet"
+	}
+}

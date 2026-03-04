@@ -1,0 +1,11 @@
+{
+	"address": "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8",
+	"chainId": 1,
+	"name": "Sociall",
+	"symbol": "SCL",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Sociall"
+	}
+}

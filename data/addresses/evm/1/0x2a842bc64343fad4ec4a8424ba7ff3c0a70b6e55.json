@@ -1,0 +1,6 @@
+{
+	"address": "0x2a842bc64343fad4ec4a8424ba7ff3c0a70b6e55",
+	"chainId": 1,
+	"label": "dYdX: Signed Operation Proxy",
+	"source": ["kleros", "2026-03-03"]
+}

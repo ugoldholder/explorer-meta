@@ -1,0 +1,17 @@
+{
+	"address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+	"chainId": 1,
+	"name": "Tribe",
+	"symbol": "TRIBE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Fei Protocol: TRIBE Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://fei.money/"
+		}
+	]
+}

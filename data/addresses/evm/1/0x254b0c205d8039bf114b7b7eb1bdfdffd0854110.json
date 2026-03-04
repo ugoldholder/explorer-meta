@@ -1,0 +1,6 @@
+{
+	"address": "0x254b0c205d8039bf114b7b7eb1bdfdffd0854110",
+	"chainId": 1,
+	"label": "Uniswap v2: WAKEUP/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

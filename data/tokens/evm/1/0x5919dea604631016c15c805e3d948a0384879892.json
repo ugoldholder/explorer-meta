@@ -1,0 +1,11 @@
+{
+	"address": "0x5919dea604631016c15c805e3d948a0384879892",
+	"chainId": 1,
+	"name": "The Peoples Coin",
+	"symbol": "PEEP$",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "The Peoples Coin"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x5b17089162dade15b26f7e8766ecea3b8bb611e7",
+	"chainId": 1,
+	"label": "Uniswap v2: GeminiApp/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

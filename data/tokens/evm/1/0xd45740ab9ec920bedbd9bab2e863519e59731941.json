@@ -1,0 +1,11 @@
+{
+	"address": "0xd45740ab9ec920bedbd9bab2e863519e59731941",
+	"chainId": 1,
+	"name": "Schnoodle",
+	"symbol": "SNOOD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Schnoodle"
+	}
+}

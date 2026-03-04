@@ -1,0 +1,6 @@
+{
+	"address": "0x1f2c5aca8359e8582746240cd5c0afbc4954af30",
+	"chainId": 1,
+	"label": "Uniswap v2: HASBI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

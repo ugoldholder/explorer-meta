@@ -1,0 +1,11 @@
+{
+	"address": "0x99a3a5333b4eb80192149f9edd42d1d57ac591ee",
+	"chainId": 1,
+	"name": "CELT",
+	"symbol": "CELT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CELT"
+	}
+}

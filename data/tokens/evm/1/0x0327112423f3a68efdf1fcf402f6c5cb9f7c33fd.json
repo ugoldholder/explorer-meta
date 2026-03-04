@@ -1,0 +1,11 @@
+{
+	"address": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+	"chainId": 1,
+	"name": "PieDAO BTC++",
+	"symbol": "BTC++",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "PieDAO BTC++"
+	}
+}

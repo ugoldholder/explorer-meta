@@ -1,0 +1,6 @@
+{
+	"address": "0x15fee7149aafb1b23d811cf62764225c7f951c62",
+	"chainId": 1,
+	"label": "Uniswap v2: Solomon/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

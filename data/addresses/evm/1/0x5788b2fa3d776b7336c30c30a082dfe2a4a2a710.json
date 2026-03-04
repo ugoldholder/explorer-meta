@@ -1,0 +1,6 @@
+{
+	"address": "0x5788b2fa3d776b7336c30c30a082dfe2a4a2a710",
+	"chainId": 1,
+	"label": "Uniswap v2: Gondola/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

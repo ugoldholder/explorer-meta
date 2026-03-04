@@ -1,0 +1,6 @@
+{
+	"address": "0x70ee673b378333b280207bb8bc6f2d115c3c21c1",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/amkvtoken Pair",
+	"source": ["kleros", "2026-03-03"]
+}

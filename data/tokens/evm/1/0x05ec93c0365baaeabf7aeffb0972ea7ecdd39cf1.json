@@ -1,0 +1,11 @@
+{
+	"address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1",
+	"chainId": 1,
+	"name": "Aave BAT",
+	"symbol": "aBAT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aave BAT"
+	}
+}

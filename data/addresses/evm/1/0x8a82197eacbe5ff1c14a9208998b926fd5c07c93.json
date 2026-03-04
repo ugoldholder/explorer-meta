@@ -1,0 +1,6 @@
+{
+	"address": "0x8a82197eacbe5ff1c14a9208998b926fd5c07c93",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BABYGOAT Pair",
+	"source": ["kleros", "2026-03-03"]
+}

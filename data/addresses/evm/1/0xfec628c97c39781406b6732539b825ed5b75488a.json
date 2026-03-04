@@ -1,0 +1,6 @@
+{
+	"address": "0xfec628c97c39781406b6732539b825ed5b75488a",
+	"chainId": 1,
+	"label": "Uniswap v2: ARBI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

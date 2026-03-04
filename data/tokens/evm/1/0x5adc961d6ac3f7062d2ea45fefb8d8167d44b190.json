@@ -1,0 +1,11 @@
+{
+	"address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+	"chainId": 1,
+	"name": "Dether",
+	"symbol": "DTH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dether"
+	}
+}

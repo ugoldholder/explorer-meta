@@ -1,0 +1,6 @@
+{
+	"address": "0x5d0d3f797101e2877565092ad417b8dd8c364e42",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/DORKY Pair",
+	"source": ["kleros", "2026-03-03"]
+}

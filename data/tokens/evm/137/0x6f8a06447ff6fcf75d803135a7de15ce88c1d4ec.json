@@ -3,5 +3,6 @@
 	"chainId": 137,
 	"name": "SHIBA INU",
 	"symbol": "SHIB",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

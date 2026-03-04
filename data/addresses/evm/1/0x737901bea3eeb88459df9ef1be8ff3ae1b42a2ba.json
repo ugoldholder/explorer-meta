@@ -1,0 +1,6 @@
+{
+	"address": "0x737901bea3eeb88459df9ef1be8ff3ae1b42a2ba",
+	"chainId": 1,
+	"label": "Aztec: Private Rollup Bridge",
+	"source": ["kleros", "2026-03-03"]
+}

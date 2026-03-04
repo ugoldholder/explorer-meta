@@ -1,0 +1,6 @@
+{
+	"address": "0x2ee35193c34a97b753838b27a971fa2f5ccaeb5d",
+	"chainId": 1,
+	"label": "Uniswap v2: CARDANO/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

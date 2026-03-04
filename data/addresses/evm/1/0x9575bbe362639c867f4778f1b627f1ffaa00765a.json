@@ -1,0 +1,6 @@
+{
+	"address": "0x9575bbe362639c867f4778f1b627f1ffaa00765a",
+	"chainId": 1,
+	"label": "Uniswap v2: USDC/SYDE Pair",
+	"source": ["kleros", "2026-03-03"]
+}

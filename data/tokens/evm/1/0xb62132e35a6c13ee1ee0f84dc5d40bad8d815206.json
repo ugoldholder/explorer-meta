@@ -1,0 +1,17 @@
+{
+	"address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+	"chainId": 1,
+	"name": "Nexo",
+	"symbol": "NEXO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Nexo: NEXO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://nexo.io/"
+		}
+	]
+}

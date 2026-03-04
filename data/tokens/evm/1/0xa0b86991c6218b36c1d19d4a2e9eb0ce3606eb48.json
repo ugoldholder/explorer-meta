@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "USD Coin",
 	"symbol": "USDC",
-	"decimals": 6
+	"decimals": 6,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Circle: USDC Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.circle.com/"
+		}
+	]
 }

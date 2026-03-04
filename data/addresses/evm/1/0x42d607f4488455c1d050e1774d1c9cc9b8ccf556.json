@@ -1,0 +1,6 @@
+{
+	"address": "0x42d607f4488455c1d050e1774d1c9cc9b8ccf556",
+	"chainId": 1,
+	"label": "Uniswap v2: SNIFFER/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

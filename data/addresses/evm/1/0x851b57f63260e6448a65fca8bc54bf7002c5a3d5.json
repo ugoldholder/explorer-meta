@@ -1,0 +1,6 @@
+{
+	"address": "0x851b57f63260e6448a65fca8bc54bf7002c5a3d5",
+	"chainId": 1,
+	"label": "Uniswap v2: Vandalism/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x38778e6d4d0dbe9becef3ae8b938570209efa48b",
+	"chainId": 1,
+	"name": "Punk Auction Strategy Token",
+	"symbol": "PAST",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Punk Auction Strategy Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://punk.auction/"
+		}
+	]
+}

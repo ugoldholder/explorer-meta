@@ -1,0 +1,6 @@
+{
+	"address": "0x2bd6b40055b1e01de1ee5d00d68d8e96b89a0eb0",
+	"chainId": 1,
+	"label": "Uniswap v2: Ligtning/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

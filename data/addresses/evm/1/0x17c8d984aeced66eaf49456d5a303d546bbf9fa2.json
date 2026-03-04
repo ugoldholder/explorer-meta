@@ -1,0 +1,6 @@
+{
+	"address": "0x17c8d984aeced66eaf49456d5a303d546bbf9fa2",
+	"chainId": 1,
+	"label": "Uniswap v2: MicroFinance/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

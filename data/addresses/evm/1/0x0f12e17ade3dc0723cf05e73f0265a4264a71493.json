@@ -1,0 +1,6 @@
+{
+	"address": "0x0f12e17ade3dc0723cf05e73f0265a4264a71493",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/PORTIA Pair",
+	"source": ["kleros", "2026-03-03"]
+}

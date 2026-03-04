@@ -1,0 +1,6 @@
+{
+	"address": "0x5528f9b844cf3076a6ddb317c5727e651ba77eb9",
+	"chainId": 1,
+	"label": "Uniswap v2: TBRIDGE/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

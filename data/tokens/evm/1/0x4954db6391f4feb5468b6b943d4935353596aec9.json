@@ -1,0 +1,11 @@
+{
+	"address": "0x4954db6391f4feb5468b6b943d4935353596aec9",
+	"chainId": 1,
+	"name": "USDQ",
+	"symbol": "USDQ",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "USDQ"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x4a5b3d0004454988c50e8de1bcfc921ee995ade3",
+	"chainId": 1,
+	"name": "wXEQ v2",
+	"symbol": "wXEQ",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "wXEQ v2"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31",
+	"chainId": 1,
+	"name": "IQeon",
+	"symbol": "IQN",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "IQeon"
+	}
+}

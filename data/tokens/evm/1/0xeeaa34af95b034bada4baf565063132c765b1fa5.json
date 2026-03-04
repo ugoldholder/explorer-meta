@@ -1,0 +1,11 @@
+{
+	"address": "0xeeaa34af95b034bada4baf565063132c765b1fa5",
+	"chainId": 1,
+	"name": "OLCF",
+	"symbol": "OLCF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "OLCF"
+	}
+}

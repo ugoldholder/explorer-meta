@@ -1,0 +1,17 @@
+{
+	"address": "0xca76bf98b6e44df7360da8650e701f6d9d94bb58",
+	"chainId": 1,
+	"name": "MemeLinked",
+	"symbol": "MK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MemeLinked"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.memelinked.io/"
+		}
+	]
+}

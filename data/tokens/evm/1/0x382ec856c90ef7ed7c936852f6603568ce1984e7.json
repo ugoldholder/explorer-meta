@@ -1,0 +1,17 @@
+{
+	"address": "0x382ec856c90ef7ed7c936852f6603568ce1984e7",
+	"chainId": 1,
+	"name": "VOX",
+	"symbol": "VOX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "VOX"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.vox-ai.online/"
+		}
+	]
+}

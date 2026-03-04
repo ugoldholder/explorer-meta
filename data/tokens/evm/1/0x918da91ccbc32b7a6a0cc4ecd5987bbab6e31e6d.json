@@ -1,0 +1,11 @@
+{
+	"address": "0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d",
+	"chainId": 1,
+	"name": "Synthetic Tesla",
+	"symbol": "sTSLA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Tesla"
+	}
+}

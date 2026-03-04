@@ -1,0 +1,6 @@
+{
+	"address": "0x0dd5c281cd3ed2edce2b39c1a662fc61c452b253",
+	"chainId": 1,
+	"label": "Uniswap v2: Playtime/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

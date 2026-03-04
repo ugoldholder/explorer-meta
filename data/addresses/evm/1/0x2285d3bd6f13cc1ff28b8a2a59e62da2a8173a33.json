@@ -1,0 +1,6 @@
+{
+	"address": "0x2285d3bd6f13cc1ff28b8a2a59e62da2a8173a33",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/StonksCoin Pair",
+	"source": ["kleros", "2026-03-03"]
+}

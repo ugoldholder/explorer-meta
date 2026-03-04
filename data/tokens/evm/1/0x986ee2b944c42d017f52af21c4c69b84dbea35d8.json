@@ -1,0 +1,11 @@
+{
+	"address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+	"chainId": 1,
+	"name": "BitMart",
+	"symbol": "BMX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BitMart"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x806582a6799d220936fd4835d5473caa7b1f9d99",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/PIKACORO Pair",
+	"source": ["kleros", "2026-03-03"]
+}

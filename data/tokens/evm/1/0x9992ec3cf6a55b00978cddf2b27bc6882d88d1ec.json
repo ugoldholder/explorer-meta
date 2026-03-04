@@ -1,0 +1,17 @@
+{
+	"address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+	"chainId": 1,
+	"name": "Polymath",
+	"symbol": "POLY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Polymath: POLY Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.polymath.network/"
+		}
+	]
+}

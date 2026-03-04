@@ -1,0 +1,17 @@
+{
+	"address": "0xf55bbe0255f7f4e70f63837ff72a577fbddbe924",
+	"chainId": 1,
+	"name": "Cream BarnBridge",
+	"symbol": "crBOND",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream.Finance: crBOND Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://cream.finance/"
+		}
+	]
+}

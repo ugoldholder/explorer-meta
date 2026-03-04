@@ -1,0 +1,11 @@
+{
+	"address": "0x30680ac0a8a993088223925265fd7a76beb87e7f",
+	"chainId": 1,
+	"name": "ARAW",
+	"symbol": "ARAW",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ARAW"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x9ad37205d608b8b219e6a2573f922094cec5c200",
+	"chainId": 1,
+	"name": "iZUMi",
+	"symbol": "iZi",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "iZUMi"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x795180ddd3cb99838a852f5f1ece5fb85aa5f9a2",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/BINK Pool",
+	"source": ["kleros", "2026-03-03"]
+}

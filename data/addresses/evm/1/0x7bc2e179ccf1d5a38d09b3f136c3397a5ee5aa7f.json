@@ -1,0 +1,6 @@
+{
+	"address": "0x7bc2e179ccf1d5a38d09b3f136c3397a5ee5aa7f",
+	"chainId": 1,
+	"label": "Uniswap v2: DAI/MCC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

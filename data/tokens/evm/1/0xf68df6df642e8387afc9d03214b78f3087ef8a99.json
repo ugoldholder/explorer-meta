@@ -1,0 +1,11 @@
+{
+	"address": "0xf68df6df642e8387afc9d03214b78f3087ef8a99",
+	"chainId": 1,
+	"name": "Doge Reloaded",
+	"symbol": "RELOADED",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Doge Reloaded"
+	}
+}

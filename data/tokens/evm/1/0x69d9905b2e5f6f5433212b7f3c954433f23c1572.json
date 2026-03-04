@@ -1,0 +1,11 @@
+{
+	"address": "0x69d9905b2e5f6f5433212b7f3c954433f23c1572",
+	"chainId": 1,
+	"name": "Onooks",
+	"symbol": "OOKS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Onooks"
+	}
+}

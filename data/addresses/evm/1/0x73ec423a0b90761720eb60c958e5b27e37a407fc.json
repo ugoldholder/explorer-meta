@@ -1,0 +1,6 @@
+{
+	"address": "0x73ec423a0b90761720eb60c958e5b27e37a407fc",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/KYUBEY Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x1268f45373a16fa91b45d0a3214f23687b27e1ce",
+	"chainId": 1,
+	"label": "Uniswap v2: taffy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

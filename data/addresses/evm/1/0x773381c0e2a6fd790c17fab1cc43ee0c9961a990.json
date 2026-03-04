@@ -1,0 +1,6 @@
+{
+	"address": "0x773381c0e2a6fd790c17fab1cc43ee0c9961a990",
+	"chainId": 1,
+	"label": "Uniswap v2: Snowball/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

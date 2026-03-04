@@ -1,0 +1,11 @@
+{
+	"address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+	"chainId": 1,
+	"name": "CryptoFranc",
+	"symbol": "XCHF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CryptoFranc"
+	}
+}

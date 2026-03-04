@@ -1,0 +1,11 @@
+{
+	"address": "0x73ee6d7e6b203125add89320e9f343d65ec7c39a",
+	"chainId": 1,
+	"name": "Axioms",
+	"symbol": "AXI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Axioms"
+	}
+}

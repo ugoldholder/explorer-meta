@@ -1,0 +1,11 @@
+{
+	"address": "0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+	"chainId": 1,
+	"name": "Vera",
+	"symbol": "VERA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Vera"
+	}
+}

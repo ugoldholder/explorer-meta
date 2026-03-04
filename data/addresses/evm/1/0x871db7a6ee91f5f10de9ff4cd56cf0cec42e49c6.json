@@ -1,0 +1,6 @@
+{
+	"address": "0x871db7a6ee91f5f10de9ff4cd56cf0cec42e49c6",
+	"chainId": 1,
+	"label": "Uniswap v2: GPU/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

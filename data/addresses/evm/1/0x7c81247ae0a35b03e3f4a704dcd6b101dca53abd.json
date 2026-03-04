@@ -1,0 +1,6 @@
+{
+	"address": "0x7c81247ae0a35b03e3f4a704dcd6b101dca53abd",
+	"chainId": 1,
+	"label": "Revert: Auto-Compound v3",
+	"source": ["kleros", "2026-03-03"]
+}

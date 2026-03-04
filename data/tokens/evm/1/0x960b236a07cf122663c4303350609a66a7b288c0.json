@@ -1,0 +1,17 @@
+{
+	"address": "0x960b236a07cf122663c4303350609a66a7b288c0",
+	"chainId": 1,
+	"name": "Aragon",
+	"symbol": "ANT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aragon: ANT V1 Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://aragon.org/"
+		}
+	]
+}

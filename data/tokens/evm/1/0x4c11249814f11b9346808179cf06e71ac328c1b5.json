@@ -1,0 +1,17 @@
+{
+	"address": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
+	"chainId": 1,
+	"name": "Oraichain",
+	"symbol": "ORAI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "OraiChain: ORAI Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://orai.io/"
+		}
+	]
+}

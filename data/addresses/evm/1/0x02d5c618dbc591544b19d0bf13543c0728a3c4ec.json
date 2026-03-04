@@ -1,0 +1,6 @@
+{
+	"address": "0x02d5c618dbc591544b19d0bf13543c0728a3c4ec",
+	"chainId": 1,
+	"label": "Chainlink: CHF / USD Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

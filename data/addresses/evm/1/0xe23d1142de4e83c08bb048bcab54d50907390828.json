@@ -1,0 +1,6 @@
+{
+	"address": "0xe23d1142de4e83c08bb048bcab54d50907390828",
+	"chainId": 1,
+	"label": "Chainlink: SNX / ETH Aggregator",
+	"source": ["kleros", "2026-03-03"]
+}

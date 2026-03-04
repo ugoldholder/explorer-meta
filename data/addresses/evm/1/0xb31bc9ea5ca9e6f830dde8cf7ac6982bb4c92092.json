@@ -1,0 +1,6 @@
+{
+	"address": "0xb31bc9ea5ca9e6f830dde8cf7ac6982bb4c92092",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/RUGPULL Pair",
+	"source": ["kleros", "2026-03-03"]
+}

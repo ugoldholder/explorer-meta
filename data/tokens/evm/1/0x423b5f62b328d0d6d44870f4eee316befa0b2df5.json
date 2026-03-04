@@ -1,0 +1,11 @@
+{
+	"address": "0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
+	"chainId": 1,
+	"name": "GoNetwork",
+	"symbol": "GOT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "GoNetwork"
+	}
+}

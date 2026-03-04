@@ -1,0 +1,6 @@
+{
+	"address": "0x00000000000c2e074ec69a0dfb2997ba6c7d2e1e",
+	"chainId": 1,
+	"label": "ENS: Registry with Fallback",
+	"source": ["kleros", "2026-03-03"]
+}

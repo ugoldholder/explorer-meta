@@ -1,0 +1,17 @@
+{
+	"address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+	"chainId": 1,
+	"name": "NAOS Finance",
+	"symbol": "NAOS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "NAOS Finance: NAOS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://naos.finance/"
+		}
+	]
+}

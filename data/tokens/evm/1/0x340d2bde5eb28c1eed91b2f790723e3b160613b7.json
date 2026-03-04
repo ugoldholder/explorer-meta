@@ -1,0 +1,17 @@
+{
+	"address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+	"chainId": 1,
+	"name": "BLOCKv",
+	"symbol": "VEE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BLOCKv: VEE Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://blockv.io/"
+		}
+	]
+}

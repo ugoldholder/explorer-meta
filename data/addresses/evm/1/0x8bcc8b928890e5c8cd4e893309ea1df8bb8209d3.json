@@ -1,0 +1,6 @@
+{
+	"address": "0x8bcc8b928890e5c8cd4e893309ea1df8bb8209d3",
+	"chainId": 1,
+	"label": "Sushi v2: XDB/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

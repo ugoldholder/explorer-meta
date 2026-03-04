@@ -1,0 +1,11 @@
+{
+	"address": "0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56",
+	"chainId": 1,
+	"name": "Synthetic Perpetual Oil Futures",
+	"symbol": "sOIL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Perpetual Oil Futures"
+	}
+}

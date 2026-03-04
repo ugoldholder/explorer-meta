@@ -1,0 +1,11 @@
+{
+	"address": "0xac1d3d7a8878e655cbb063d58e453540641f4117",
+	"chainId": 1,
+	"name": "Acid Toad",
+	"symbol": "TOAD",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Acid Toad"
+	}
+}

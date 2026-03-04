@@ -1,0 +1,6 @@
+{
+	"address": "0x32cfd565d048ec20bedb087f3942dfa1d5a68c6a",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BidenDebt Pair",
+	"source": ["kleros", "2026-03-03"]
+}

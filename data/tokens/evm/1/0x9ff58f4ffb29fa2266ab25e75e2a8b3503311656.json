@@ -1,0 +1,11 @@
+{
+	"address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+	"chainId": 1,
+	"name": "Aave WBTC",
+	"symbol": "aWBTC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aave WBTC"
+	}
+}

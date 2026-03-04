@@ -1,0 +1,6 @@
+{
+	"address": "0x86fff55501e08416569ee20c5632b8957122e5e0",
+	"chainId": 1,
+	"label": "Uniswap v2: ERC20/XRPC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x5d97bf50c94abf77a80075346ff3cea22d26c1e2",
+	"chainId": 1,
+	"label": "Uniswap v2: Goldman/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

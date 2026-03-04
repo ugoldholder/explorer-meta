@@ -1,0 +1,6 @@
+{
+	"address": "0x2f02c61163b189ff42ab6d2f4d451413e679966e",
+	"chainId": 1,
+	"label": "Uniswap v2: Laika/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

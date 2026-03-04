@@ -1,0 +1,6 @@
+{
+	"address": "0xda064dc25cc0c153a8d9ed3d2cd93092a2e334fc",
+	"chainId": 1,
+	"label": "Uniswap v2: ZAP Odos/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

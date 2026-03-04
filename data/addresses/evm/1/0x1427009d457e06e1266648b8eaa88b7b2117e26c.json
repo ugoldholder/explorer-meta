@@ -1,0 +1,6 @@
+{
+	"address": "0x1427009d457e06e1266648b8eaa88b7b2117e26c",
+	"chainId": 1,
+	"label": "PancakeSwap v3: USDC/ROCI Pool",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+	"chainId": 1,
+	"name": "Compound USDT",
+	"symbol": "cUSDT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Compound: cUSDT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://compound.finance/"
+		}
+	]
+}

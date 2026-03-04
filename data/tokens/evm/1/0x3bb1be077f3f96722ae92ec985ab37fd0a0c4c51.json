@@ -1,0 +1,11 @@
+{
+	"address": "0x3bb1be077f3f96722ae92ec985ab37fd0a0c4c51",
+	"chainId": 1,
+	"name": "Marv",
+	"symbol": "MARV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Marv"
+	}
+}

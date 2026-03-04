@@ -1,0 +1,11 @@
+{
+	"address": "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3",
+	"chainId": 1,
+	"name": "Origin Ether",
+	"symbol": "OETH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Origin Ether"
+	}
+}

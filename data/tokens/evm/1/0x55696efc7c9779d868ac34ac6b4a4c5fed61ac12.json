@@ -1,0 +1,11 @@
+{
+	"address": "0x55696efc7c9779d868ac34ac6b4a4c5fed61ac12",
+	"chainId": 1,
+	"name": "Dynamic Supply Tracker",
+	"symbol": "DSTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Dynamic Supply Tracker"
+	}
+}

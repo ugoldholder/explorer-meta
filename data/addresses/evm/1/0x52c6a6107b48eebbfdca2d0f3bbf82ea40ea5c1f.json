@@ -1,0 +1,6 @@
+{
+	"address": "0x52c6a6107b48eebbfdca2d0f3bbf82ea40ea5c1f",
+	"chainId": 1,
+	"label": "Uniswap v2: Bloomberg/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x888e312512e7f84ac9dc374b545834c46b9dcf9e",
+	"chainId": 1,
+	"label": "Uniswap v2: Polkado/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

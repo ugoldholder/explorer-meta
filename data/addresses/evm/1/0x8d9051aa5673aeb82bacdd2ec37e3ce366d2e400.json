@@ -1,0 +1,6 @@
+{
+	"address": "0x8d9051aa5673aeb82bacdd2ec37e3ce366d2e400",
+	"chainId": 1,
+	"label": "Uniswap v2: ShibaPound/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

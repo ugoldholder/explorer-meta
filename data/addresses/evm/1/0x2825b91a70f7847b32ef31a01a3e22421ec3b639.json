@@ -1,0 +1,6 @@
+{
+	"address": "0x2825b91a70f7847b32ef31a01a3e22421ec3b639",
+	"chainId": 1,
+	"label": "Uniswap v2: Plasma/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x10d04f7e0559ba42817cbdae19b63941892b2bdd",
+	"chainId": 1,
+	"label": "Uniswap v2: ORBERC/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

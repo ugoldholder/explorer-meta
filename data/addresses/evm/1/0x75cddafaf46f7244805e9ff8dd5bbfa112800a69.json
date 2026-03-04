@@ -1,0 +1,6 @@
+{
+	"address": "0x75cddafaf46f7244805e9ff8dd5bbfa112800a69",
+	"chainId": 1,
+	"label": "Uniswap v2: Harakiri/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

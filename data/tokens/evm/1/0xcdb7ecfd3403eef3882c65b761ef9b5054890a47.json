@@ -1,0 +1,11 @@
+{
+	"address": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
+	"chainId": 1,
+	"name": "Hurify",
+	"symbol": "HUR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Hurify"
+	}
+}

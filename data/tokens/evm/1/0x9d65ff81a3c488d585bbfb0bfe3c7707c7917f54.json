@@ -1,0 +1,11 @@
+{
+	"address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+	"chainId": 1,
+	"name": "ssv.network",
+	"symbol": "SSV",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ssv.network"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0xdf6986c8ac7d51042d68da0191abb1f77cddeb56",
+	"chainId": 1,
+	"label": "Uniswap v2: Trojan horse/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

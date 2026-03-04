@@ -1,0 +1,11 @@
+{
+	"address": "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec",
+	"chainId": 1,
+	"name": "vEmpire DDAO",
+	"symbol": "VEMP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "vEmpire DDAO"
+	}
+}

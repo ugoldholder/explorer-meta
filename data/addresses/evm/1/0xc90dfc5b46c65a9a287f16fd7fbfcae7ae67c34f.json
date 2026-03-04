@@ -1,0 +1,6 @@
+{
+	"address": "0xc90dfc5b46c65a9a287f16fd7fbfcae7ae67c34f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/GameStop Pair",
+	"source": ["kleros", "2026-03-03"]
+}

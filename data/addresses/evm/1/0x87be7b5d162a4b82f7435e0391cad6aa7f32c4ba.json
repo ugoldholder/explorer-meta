@@ -1,0 +1,6 @@
+{
+	"address": "0x87be7b5d162a4b82f7435e0391cad6aa7f32c4ba",
+	"chainId": 1,
+	"label": "Uniswap v2: Kill Floki/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

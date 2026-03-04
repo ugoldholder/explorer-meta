@@ -1,0 +1,6 @@
+{
+	"address": "0x630402f7bb860dbc1d62fa9f3a164ae2d4315c01",
+	"chainId": 1,
+	"label": "Uniswap v2: YUSD RFX/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

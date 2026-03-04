@@ -1,0 +1,11 @@
+{
+	"address": "0x80d186b4c786ea66592b2c52e2004ab10cfe4cf3",
+	"chainId": 1,
+	"name": "Lynx Tech",
+	"symbol": "LYNX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Lynx Tech"
+	}
+}

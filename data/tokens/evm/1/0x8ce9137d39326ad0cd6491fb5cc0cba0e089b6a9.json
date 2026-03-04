@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Swipe",
 	"symbol": "SXP",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Swipe: SXP Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.swipe.io/"
+		}
+	]
 }

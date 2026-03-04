@@ -1,0 +1,6 @@
+{
+	"address": "0x4882c4760d4b6729f3e158772350c9685f4ad7af",
+	"chainId": 1,
+	"label": "Uniswap v2: Lucky/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

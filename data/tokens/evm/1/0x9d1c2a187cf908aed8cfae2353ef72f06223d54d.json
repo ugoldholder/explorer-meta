@@ -1,0 +1,11 @@
+{
+	"address": "0x9d1c2a187cf908aed8cfae2353ef72f06223d54d",
+	"chainId": 1,
+	"name": "Strike WBTC",
+	"symbol": "sWBTC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Strike WBTC"
+	}
+}

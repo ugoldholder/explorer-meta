@@ -1,0 +1,11 @@
+{
+	"address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
+	"chainId": 1,
+	"name": "Kirobo",
+	"symbol": "KIRO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Kirobo"
+	}
+}

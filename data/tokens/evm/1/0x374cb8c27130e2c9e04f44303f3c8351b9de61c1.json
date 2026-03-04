@@ -1,0 +1,17 @@
+{
+	"address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+	"chainId": 1,
+	"name": "Bao Finance",
+	"symbol": "BAO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bao Finance: BAO Token V1"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.bao.finance/"
+		}
+	]
+}

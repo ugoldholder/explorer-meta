@@ -1,0 +1,11 @@
+{
+	"address": "0xd957e08ac5421e2c28510586b57d095e5094836a",
+	"chainId": 1,
+	"name": "VorteX Network",
+	"symbol": "VTX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "VorteX Network"
+	}
+}

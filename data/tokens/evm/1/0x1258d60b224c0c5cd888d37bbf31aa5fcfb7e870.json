@@ -1,0 +1,11 @@
+{
+	"address": "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870",
+	"chainId": 1,
+	"name": "NodeAI",
+	"symbol": "GPU",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "NodeAI"
+	}
+}

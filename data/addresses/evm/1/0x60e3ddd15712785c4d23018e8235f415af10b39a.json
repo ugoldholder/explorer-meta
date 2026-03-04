@@ -1,0 +1,6 @@
+{
+	"address": "0x60e3ddd15712785c4d23018e8235f415af10b39a",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/VALKON Pair",
+	"source": ["kleros", "2026-03-03"]
+}

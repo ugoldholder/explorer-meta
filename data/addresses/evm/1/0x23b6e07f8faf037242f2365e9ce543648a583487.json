@@ -1,0 +1,6 @@
+{
+	"address": "0x23b6e07f8faf037242f2365e9ce543648a583487",
+	"chainId": 1,
+	"label": "Uniswap v2: banjo/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

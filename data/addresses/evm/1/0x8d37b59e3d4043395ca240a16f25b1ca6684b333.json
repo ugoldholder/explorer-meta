@@ -1,0 +1,6 @@
+{
+	"address": "0x8d37b59e3d4043395ca240a16f25b1ca6684b333",
+	"chainId": 1,
+	"label": "Uniswap v2: Santa/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

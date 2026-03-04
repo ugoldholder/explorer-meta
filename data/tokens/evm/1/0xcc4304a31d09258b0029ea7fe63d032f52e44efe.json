@@ -1,0 +1,17 @@
+{
+	"address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+	"chainId": 1,
+	"name": "TrustSwap",
+	"symbol": "SWAP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "TrustSwap: SWAP Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://trustswap.com/"
+		}
+	]
+}

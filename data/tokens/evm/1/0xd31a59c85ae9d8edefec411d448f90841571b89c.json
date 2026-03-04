@@ -3,5 +3,6 @@
 	"chainId": 1,
 	"name": "SOL Wormhole",
 	"symbol": "SOL",
-	"decimals": 9
+	"decimals": 9,
+	"source": ["openscan", "2026-03-03"]
 }

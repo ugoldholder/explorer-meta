@@ -1,0 +1,17 @@
+{
+	"address": "0x9469d013805bffb7d3debe5e7839237e535ec483",
+	"chainId": 1,
+	"name": "Darwinia Network",
+	"symbol": "RING",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Darwinia Network: RING Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://darwinia.network/"
+		}
+	]
+}

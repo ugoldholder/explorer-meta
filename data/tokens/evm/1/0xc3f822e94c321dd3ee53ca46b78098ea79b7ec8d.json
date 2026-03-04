@@ -1,0 +1,17 @@
+{
+	"address": "0xc3f822e94c321dd3ee53ca46b78098ea79b7ec8d",
+	"chainId": 1,
+	"name": "BTC Bull",
+	"symbol": "BTCBULL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BTC Bull"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://btcbulltoken.com/"
+		}
+	]
+}

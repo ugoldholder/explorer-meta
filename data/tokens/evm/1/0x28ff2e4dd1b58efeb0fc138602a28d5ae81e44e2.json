@@ -1,0 +1,17 @@
+{
+	"address": "0x28ff2e4dd1b58efeb0fc138602a28d5ae81e44e2",
+	"chainId": 1,
+	"name": "Cronos zkEVM CRO",
+	"symbol": "zkCRO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cronos zkEVM CRO"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://zkevm.cronos.org/"
+		}
+	]
+}

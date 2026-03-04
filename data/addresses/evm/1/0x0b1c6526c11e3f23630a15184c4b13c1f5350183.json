@@ -1,0 +1,6 @@
+{
+	"address": "0x0b1c6526c11e3f23630a15184c4b13c1f5350183",
+	"chainId": 1,
+	"label": "Uniswap v2: Safelon/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

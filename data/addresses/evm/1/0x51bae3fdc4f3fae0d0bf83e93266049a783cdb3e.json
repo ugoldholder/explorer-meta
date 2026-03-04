@@ -1,0 +1,6 @@
+{
+	"address": "0x51bae3fdc4f3fae0d0bf83e93266049a783cdb3e",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/PONZI Pair",
+	"source": ["kleros", "2026-03-03"]
+}

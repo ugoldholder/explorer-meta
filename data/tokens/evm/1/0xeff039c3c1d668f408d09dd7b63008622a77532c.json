@@ -1,0 +1,11 @@
+{
+	"address": "0xeff039c3c1d668f408d09dd7b63008622a77532c",
+	"chainId": 1,
+	"name": "Cream Wrapped NXM",
+	"symbol": "crWNXM",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Cream Wrapped NXM"
+	}
+}

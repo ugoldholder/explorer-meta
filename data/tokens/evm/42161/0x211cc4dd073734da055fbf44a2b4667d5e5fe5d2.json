@@ -3,5 +3,6 @@
 	"chainId": 42161,
 	"name": "sUSDe",
 	"symbol": "sUSDe",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

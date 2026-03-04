@@ -1,0 +1,11 @@
+{
+	"address": "0x7dedbce5a2e31e4c75f87fea60bf796c17718715",
+	"chainId": 1,
+	"name": "Penpie",
+	"symbol": "PNP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Penpie"
+	}
+}

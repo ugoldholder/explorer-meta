@@ -1,0 +1,17 @@
+{
+	"address": "0xa4392e3cef22679fa36704d37e5a8192cf8350f2",
+	"chainId": 1,
+	"name": "aiSUI",
+	"symbol": "SUIAGENT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "aiSUI"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://aisui.org/"
+		}
+	]
+}

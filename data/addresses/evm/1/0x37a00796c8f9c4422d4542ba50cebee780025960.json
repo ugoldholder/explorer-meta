@@ -1,0 +1,6 @@
+{
+	"address": "0x37a00796c8f9c4422d4542ba50cebee780025960",
+	"chainId": 1,
+	"label": "Uniswap v2: Conway/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

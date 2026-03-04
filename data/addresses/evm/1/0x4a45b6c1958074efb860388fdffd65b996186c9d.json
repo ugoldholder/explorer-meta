@@ -1,0 +1,6 @@
+{
+	"address": "0x4a45b6c1958074efb860388fdffd65b996186c9d",
+	"chainId": 1,
+	"label": "Uniswap v2: ILOCK/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

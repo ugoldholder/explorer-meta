@@ -1,0 +1,6 @@
+{
+	"address": "0x78ab3c5a4c6eaeb112e969d12c08178334bf1521",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/SILKRD Pair",
+	"source": ["kleros", "2026-03-03"]
+}

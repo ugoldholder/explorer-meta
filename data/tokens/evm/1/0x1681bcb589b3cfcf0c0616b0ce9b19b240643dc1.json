@@ -1,0 +1,11 @@
+{
+	"address": "0x1681bcb589b3cfcf0c0616b0ce9b19b240643dc1",
+	"chainId": 1,
+	"name": "Island",
+	"symbol": "ISLE",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Island"
+	}
+}

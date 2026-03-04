@@ -1,0 +1,6 @@
+{
+	"address": "0x9ecbac0700d454bd50e682557177c27f89b9b407",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/VOLDEMORT Pair",
+	"source": ["kleros", "2026-03-03"]
+}

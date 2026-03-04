@@ -1,0 +1,11 @@
+{
+	"address": "0xe0e4839e0c7b2773c58764f9ec3b9622d01a0428",
+	"chainId": 1,
+	"name": "EnCore",
+	"symbol": "ENCORE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "EnCore"
+	}
+}

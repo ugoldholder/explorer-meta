@@ -1,0 +1,11 @@
+{
+	"address": "0x06af07097c9eeb7fd685c692751d5c66db49c215",
+	"chainId": 1,
+	"name": "Chai",
+	"symbol": "CHAI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Chai"
+	}
+}

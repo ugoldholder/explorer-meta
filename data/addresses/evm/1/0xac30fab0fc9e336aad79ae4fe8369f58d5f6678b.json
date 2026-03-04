@@ -1,0 +1,6 @@
+{
+	"address": "0xac30fab0fc9e336aad79ae4fe8369f58d5f6678b",
+	"chainId": 1,
+	"label": "Uniswap v2: AntiSFI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

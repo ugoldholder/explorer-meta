@@ -1,0 +1,6 @@
+{
+	"address": "0x842fb98d43ab9b6786af335c2076d88d30e9e5ad",
+	"chainId": 1,
+	"label": "Uniswap v2: ZBRIDGE/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

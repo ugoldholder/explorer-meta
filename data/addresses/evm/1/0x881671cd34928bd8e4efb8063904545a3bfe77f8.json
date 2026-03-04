@@ -1,0 +1,6 @@
+{
+	"address": "0x881671cd34928bd8e4efb8063904545a3bfe77f8",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TERMINATOR Pair",
+	"source": ["kleros", "2026-03-03"]
+}

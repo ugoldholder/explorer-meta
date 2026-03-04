@@ -1,0 +1,6 @@
+{
+	"address": "0x3cc7587ed402d09cbb2e07e253a03a1097e2d2cb",
+	"chainId": 1,
+	"label": "Uniswap v2: Schnauzer/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

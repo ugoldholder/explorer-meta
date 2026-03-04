@@ -1,0 +1,11 @@
+{
+	"address": "0xf29992d7b589a0a6bd2de7be29a97a6eb73eaf85",
+	"chainId": 1,
+	"name": "DMScript",
+	"symbol": "DMST",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DMScript"
+	}
+}

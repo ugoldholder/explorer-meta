@@ -1,0 +1,6 @@
+{
+	"address": "0x0000000000075efbee23fe2de1bd0b7690883cc9",
+	"chainId": 1,
+	"label": "TrueUSD: Token Controller Proxy",
+	"source": ["kleros", "2026-03-03"]
+}

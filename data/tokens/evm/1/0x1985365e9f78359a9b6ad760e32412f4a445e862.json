@@ -3,5 +3,6 @@
 	"chainId": 1,
 	"name": "Reputation",
 	"symbol": "REP",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"]
 }

@@ -1,0 +1,6 @@
+{
+	"address": "0x456512c064e2d572de1f9a990a9a2bbd5197ee07",
+	"chainId": 1,
+	"label": "Uniswap v2: RUSTKEY/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

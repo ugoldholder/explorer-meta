@@ -1,0 +1,11 @@
+{
+	"address": "0x8e16bf47065fe843a82f4399baf5abac4e0822b7",
+	"chainId": 1,
+	"name": "Binance Wrapped FIL",
+	"symbol": "BFIL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Binance Wrapped FIL"
+	}
+}

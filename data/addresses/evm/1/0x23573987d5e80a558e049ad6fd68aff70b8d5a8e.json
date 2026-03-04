@@ -1,0 +1,6 @@
+{
+	"address": "0x23573987d5e80a558e049ad6fd68aff70b8d5a8e",
+	"chainId": 1,
+	"label": "PancakeSwap v3: Sailor/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

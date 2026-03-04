@@ -1,0 +1,17 @@
+{
+	"address": "0x2a74aa45bdd121bb7af4a491fa2d13fd9049d11f",
+	"chainId": 1,
+	"name": "Blubird",
+	"symbol": "BLU",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Blubird"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.getblubird.com/"
+		}
+	]
+}

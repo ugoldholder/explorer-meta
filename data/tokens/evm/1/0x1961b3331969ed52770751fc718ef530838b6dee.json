@@ -1,0 +1,11 @@
+{
+	"address": "0x1961b3331969ed52770751fc718ef530838b6dee",
+	"chainId": 1,
+	"name": "BitDegree",
+	"symbol": "BDG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "BitDegree"
+	}
+}

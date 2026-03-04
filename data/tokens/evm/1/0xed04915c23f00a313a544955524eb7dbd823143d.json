@@ -1,0 +1,17 @@
+{
+	"address": "0xed04915c23f00a313a544955524eb7dbd823143d",
+	"chainId": 1,
+	"name": "Alchemy Pay",
+	"symbol": "ACH",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Alchemy Pay: ACH Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://alchemypay.org/"
+		}
+	]
+}

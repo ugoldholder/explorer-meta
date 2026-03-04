@@ -1,0 +1,11 @@
+{
+	"address": "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b",
+	"chainId": 1,
+	"name": "WeTrust",
+	"symbol": "TRST",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "WeTrust"
+	}
+}

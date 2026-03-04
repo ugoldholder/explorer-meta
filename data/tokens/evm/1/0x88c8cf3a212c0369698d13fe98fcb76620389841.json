@@ -1,0 +1,11 @@
+{
+	"address": "0x88c8cf3a212c0369698d13fe98fcb76620389841",
+	"chainId": 1,
+	"name": "Synthetic EOS",
+	"symbol": "sEOS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic EOS"
+	}
+}

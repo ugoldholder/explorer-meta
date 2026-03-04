@@ -1,0 +1,6 @@
+{
+	"address": "0x824649b513e1c52357a83213b75d894e07254b45",
+	"chainId": 1,
+	"label": "Uniswap v2: Proxima/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

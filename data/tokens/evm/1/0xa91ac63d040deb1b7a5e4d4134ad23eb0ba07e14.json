@@ -1,0 +1,17 @@
+{
+	"address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+	"chainId": 1,
+	"name": "Bella Protocol",
+	"symbol": "BEL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bella Protocol: BEL Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://bella.fi/"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xf2051511b9b121394fa75b8f7d4e7424337af687",
+	"chainId": 1,
+	"name": "DAOhaus",
+	"symbol": "HAUS",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "DAOhaus"
+	}
+}

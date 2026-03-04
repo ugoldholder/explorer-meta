@@ -1,0 +1,11 @@
+{
+	"address": "0xee0f286776639cd363da810daf3e0623f82576b0",
+	"chainId": 1,
+	"name": "Lung Protocol",
+	"symbol": "L2P",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Lung Protocol"
+	}
+}

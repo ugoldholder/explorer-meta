@@ -1,0 +1,17 @@
+{
+	"address": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
+	"chainId": 1,
+	"name": "Nifty League",
+	"symbol": "NFTL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Nifty League: NFTL Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://niftyleague.com/"
+		}
+	]
+}

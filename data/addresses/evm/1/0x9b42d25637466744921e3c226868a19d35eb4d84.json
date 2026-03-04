@@ -1,0 +1,6 @@
+{
+	"address": "0x9b42d25637466744921e3c226868a19d35eb4d84",
+	"chainId": 1,
+	"label": "Uniswap v2: PYUSD/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

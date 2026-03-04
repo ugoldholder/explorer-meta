@@ -1,0 +1,17 @@
+{
+	"address": "0x4687f007da484efe20d7a17e5b1d105cdbfca0eb",
+	"chainId": 1,
+	"name": "Morpheus",
+	"symbol": "MORPH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Morpheus"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.morpheus.win/home"
+		}
+	]
+}

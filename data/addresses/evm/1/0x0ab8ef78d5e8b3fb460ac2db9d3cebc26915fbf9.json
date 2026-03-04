@@ -1,0 +1,6 @@
+{
+	"address": "0x0ab8ef78d5e8b3fb460ac2db9d3cebc26915fbf9",
+	"chainId": 1,
+	"label": "Uniswap v2: Bokage/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

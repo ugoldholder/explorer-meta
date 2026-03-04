@@ -1,0 +1,6 @@
+{
+	"address": "0x4fef175b97dc81e0549892ac7704045f11b1cfef",
+	"chainId": 1,
+	"label": "Uniswap v2: GDAX/SDAX Pair",
+	"source": ["kleros", "2026-03-03"]
+}

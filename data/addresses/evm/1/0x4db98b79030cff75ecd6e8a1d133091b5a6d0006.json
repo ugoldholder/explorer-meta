@@ -1,0 +1,6 @@
+{
+	"address": "0x4db98b79030cff75ecd6e8a1d133091b5a6d0006",
+	"chainId": 1,
+	"label": "Uniswap v2: USDC/thing Pair",
+	"source": ["kleros", "2026-03-03"]
+}

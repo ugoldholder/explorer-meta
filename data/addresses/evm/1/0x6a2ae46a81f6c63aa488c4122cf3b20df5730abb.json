@@ -1,0 +1,6 @@
+{
+	"address": "0x6a2ae46a81f6c63aa488c4122cf3b20df5730abb",
+	"chainId": 1,
+	"label": "Uniswap v2: Miroku/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

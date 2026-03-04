@@ -1,0 +1,11 @@
+{
+	"address": "0x4adf728e2df4945082cdd6053869f51278fae196",
+	"chainId": 1,
+	"name": "Synthetic Inverse Monero",
+	"symbol": "iXMR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Inverse Monero"
+	}
+}

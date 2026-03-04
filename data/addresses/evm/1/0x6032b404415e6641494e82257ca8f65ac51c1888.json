@@ -1,0 +1,6 @@
+{
+	"address": "0x6032b404415e6641494e82257ca8f65ac51c1888",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/SPYCAM Pair",
+	"source": ["kleros", "2026-03-03"]
+}

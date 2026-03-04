@@ -1,0 +1,6 @@
+{
+	"address": "0xe25bad54b748f699c9a5e055f54d124b4d674859",
+	"chainId": 1,
+	"label": "Uniswap v2: Stratum/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x1b980e05943de3db3a459c72325338d327b6f5a9",
+	"chainId": 1,
+	"name": "Bitgear",
+	"symbol": "GEAR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bitgear"
+	}
+}

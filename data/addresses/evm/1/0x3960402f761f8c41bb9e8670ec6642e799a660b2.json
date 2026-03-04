@@ -1,0 +1,6 @@
+{
+	"address": "0x3960402f761f8c41bb9e8670ec6642e799a660b2",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TUBBY Pair",
+	"source": ["kleros", "2026-03-03"]
+}

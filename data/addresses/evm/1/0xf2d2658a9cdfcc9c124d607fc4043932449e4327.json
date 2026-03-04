@@ -1,0 +1,6 @@
+{
+	"address": "0xf2d2658a9cdfcc9c124d607fc4043932449e4327",
+	"chainId": 1,
+	"label": "Uniswap v2: Massa Oracle Network/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

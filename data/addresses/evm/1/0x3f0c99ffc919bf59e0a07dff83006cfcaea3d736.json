@@ -1,0 +1,6 @@
+{
+	"address": "0x3f0c99ffc919bf59e0a07dff83006cfcaea3d736",
+	"chainId": 1,
+	"label": "Uniswap v2: MOFI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

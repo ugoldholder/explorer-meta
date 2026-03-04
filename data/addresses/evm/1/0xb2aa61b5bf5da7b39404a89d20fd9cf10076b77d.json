@@ -1,0 +1,6 @@
+{
+	"address": "0xb2aa61b5bf5da7b39404a89d20fd9cf10076b77d",
+	"chainId": 1,
+	"label": "Uniswap v2: BPF/USDC Pair",
+	"source": ["kleros", "2026-03-03"]
+}

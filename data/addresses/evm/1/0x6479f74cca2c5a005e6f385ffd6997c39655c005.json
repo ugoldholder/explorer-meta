@@ -1,0 +1,6 @@
+{
+	"address": "0x6479f74cca2c5a005e6f385ffd6997c39655c005",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/DANJI Pair",
+	"source": ["kleros", "2026-03-03"]
+}

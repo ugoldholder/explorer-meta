@@ -1,0 +1,6 @@
+{
+	"address": "0x422eee376b5f5a414f4140dc232ff88b940ac1e0",
+	"chainId": 1,
+	"label": "Uniswap v2: Avalanche D/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

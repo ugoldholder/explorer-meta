@@ -1,0 +1,17 @@
+{
+	"address": "0x231a6bd8eb88cfa42776b7ac575cecaf82bf1e21",
+	"chainId": 1,
+	"name": "Beraplug",
+	"symbol": "PLUG",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Beraplug"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.plug.sucks/"
+		}
+	]
+}

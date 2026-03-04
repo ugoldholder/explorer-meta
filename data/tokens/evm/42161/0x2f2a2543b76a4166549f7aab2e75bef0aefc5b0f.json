@@ -3,5 +3,6 @@
 	"chainId": 42161,
 	"name": "Wrapped BTC",
 	"symbol": "WBTC",
-	"decimals": 8
+	"decimals": 8,
+	"source": ["openscan", "2026-03-03"]
 }

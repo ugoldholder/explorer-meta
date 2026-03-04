@@ -1,0 +1,6 @@
+{
+	"address": "0xff1415fadc06d36ec2f0c269469e412505755306",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/NAZIS Pair",
+	"source": ["kleros", "2026-03-03"]
+}

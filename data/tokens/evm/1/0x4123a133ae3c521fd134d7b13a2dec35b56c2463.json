@@ -1,0 +1,17 @@
+{
+	"address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+	"chainId": 1,
+	"name": "Qredo",
+	"symbol": "QRDO",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Qredo: QRDO Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.qredo.com/"
+		}
+	]
+}

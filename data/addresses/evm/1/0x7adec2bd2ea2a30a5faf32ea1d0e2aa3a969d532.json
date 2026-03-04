@@ -1,0 +1,6 @@
+{
+	"address": "0x7adec2bd2ea2a30a5faf32ea1d0e2aa3a969d532",
+	"chainId": 1,
+	"label": "Uniswap v2: balrog/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

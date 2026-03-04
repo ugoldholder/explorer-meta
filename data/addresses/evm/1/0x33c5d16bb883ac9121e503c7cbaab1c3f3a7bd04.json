@@ -1,0 +1,6 @@
+{
+	"address": "0x33c5d16bb883ac9121e503c7cbaab1c3f3a7bd04",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/SCHRODINGER Pair",
+	"source": ["kleros", "2026-03-03"]
+}

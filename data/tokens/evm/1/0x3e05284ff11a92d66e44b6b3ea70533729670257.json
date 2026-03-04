@@ -1,0 +1,17 @@
+{
+	"address": "0x3e05284ff11a92d66e44b6b3ea70533729670257",
+	"chainId": 1,
+	"name": "fric the frog",
+	"symbol": "fric",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "fric the frog"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://fricthefrog.vip/"
+		}
+	]
+}

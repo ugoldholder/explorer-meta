@@ -1,0 +1,6 @@
+{
+	"address": "0x13199059e99af51b1dd4419ac69c7633ce90424e",
+	"chainId": 1,
+	"label": "PancakeSwap v3: USDC/ETHx Pool",
+	"source": ["kleros", "2026-03-03"]
+}

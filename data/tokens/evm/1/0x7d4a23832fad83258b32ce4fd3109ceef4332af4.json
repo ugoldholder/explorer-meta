@@ -1,0 +1,17 @@
+{
+	"address": "0x7d4a23832fad83258b32ce4fd3109ceef4332af4",
+	"chainId": 1,
+	"name": "Stonks",
+	"symbol": "STONKS",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Stonks"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://stonkseth.com/"
+		}
+	]
+}

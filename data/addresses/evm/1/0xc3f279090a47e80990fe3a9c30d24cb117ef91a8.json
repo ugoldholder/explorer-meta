@@ -1,0 +1,6 @@
+{
+	"address": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/ALCX Pool",
+	"source": ["kleros", "2026-03-03"]
+}

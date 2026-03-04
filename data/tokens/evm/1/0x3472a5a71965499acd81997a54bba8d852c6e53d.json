@@ -1,0 +1,17 @@
+{
+	"address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+	"chainId": 1,
+	"name": "Badger DAO",
+	"symbol": "BADGER",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Badger: BADGER Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://badger.com/"
+		}
+	]
+}

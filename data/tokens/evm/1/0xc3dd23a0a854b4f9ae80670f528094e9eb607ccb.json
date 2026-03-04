@@ -1,0 +1,11 @@
+{
+	"address": "0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb",
+	"chainId": 1,
+	"name": "Trendering",
+	"symbol": "TRND",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Trendering"
+	}
+}

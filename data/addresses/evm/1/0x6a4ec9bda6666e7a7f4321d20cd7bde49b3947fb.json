@@ -1,0 +1,6 @@
+{
+	"address": "0x6a4ec9bda6666e7a7f4321d20cd7bde49b3947fb",
+	"chainId": 1,
+	"label": "Uniswap v2: ABSCI/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

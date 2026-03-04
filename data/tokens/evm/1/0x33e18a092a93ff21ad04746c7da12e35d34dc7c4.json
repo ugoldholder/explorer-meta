@@ -1,0 +1,11 @@
+{
+	"address": "0x33e18a092a93ff21ad04746c7da12e35d34dc7c4",
+	"chainId": 1,
+	"name": "Metaverse NFT Index",
+	"symbol": "PLAY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Metaverse NFT Index"
+	}
+}

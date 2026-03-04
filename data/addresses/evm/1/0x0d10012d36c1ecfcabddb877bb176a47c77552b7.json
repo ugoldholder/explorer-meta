@@ -1,0 +1,6 @@
+{
+	"address": "0x0d10012d36c1ecfcabddb877bb176a47c77552b7",
+	"chainId": 1,
+	"label": "Uniswap v2: Pickle/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

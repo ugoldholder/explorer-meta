@@ -1,0 +1,11 @@
+{
+	"address": "0xda1e53e088023fe4d1dc5a418581748f52cbd1b8",
+	"chainId": 1,
+	"name": "Aidi Inu",
+	"symbol": "AIDI",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Aidi Inu"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0xbef144282430d29e831d41d4fb1b8ca49d403f61",
+	"chainId": 1,
+	"label": "Uniswap v2: Matcha/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x41195c44fdaf00b2a95ae52f048c2e4bba219dca",
+	"chainId": 1,
+	"label": "Uniswap v2: Olympus/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

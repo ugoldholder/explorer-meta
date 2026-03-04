@@ -1,0 +1,11 @@
+{
+	"address": "0x6b66ccd1340c479b07b390d326eadcbb84e726ba",
+	"chainId": 1,
+	"name": "Seamless",
+	"symbol": "SEAM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Seamless"
+	}
+}

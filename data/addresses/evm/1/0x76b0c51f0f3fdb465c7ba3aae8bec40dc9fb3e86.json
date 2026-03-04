@@ -1,0 +1,6 @@
+{
+	"address": "0x76b0c51f0f3fdb465c7ba3aae8bec40dc9fb3e86",
+	"chainId": 1,
+	"label": "Uniswap v2: call me baby/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

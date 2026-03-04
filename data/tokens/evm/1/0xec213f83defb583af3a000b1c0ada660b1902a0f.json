@@ -1,0 +1,17 @@
+{
+	"address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
+	"chainId": 1,
+	"name": "Presearch",
+	"symbol": "PRE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Presearch: PRE Token V2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://presearch.io/"
+		}
+	]
+}

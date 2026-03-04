@@ -1,0 +1,17 @@
+{
+	"address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+	"chainId": 1,
+	"name": "Ultra",
+	"symbol": "UOS",
+	"decimals": 4,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ultra: UOS Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://ultra.io/"
+		}
+	]
+}

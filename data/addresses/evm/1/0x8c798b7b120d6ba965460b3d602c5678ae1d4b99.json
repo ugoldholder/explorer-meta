@@ -1,0 +1,6 @@
+{
+	"address": "0x8c798b7b120d6ba965460b3d602c5678ae1d4b99",
+	"chainId": 1,
+	"label": "Uniswap v2: Telegram/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x40395044ac3c0c57051906da938b54bd6557f212",
+	"chainId": 1,
+	"name": "MobileGo",
+	"symbol": "MGO",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "MobileGo"
+	}
+}

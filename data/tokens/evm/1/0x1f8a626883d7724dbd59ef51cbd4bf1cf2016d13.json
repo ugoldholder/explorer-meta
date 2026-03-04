@@ -1,0 +1,11 @@
+{
+	"address": "0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13",
+	"chainId": 1,
+	"name": "Jigstack",
+	"symbol": "STAK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Jigstack"
+	}
+}

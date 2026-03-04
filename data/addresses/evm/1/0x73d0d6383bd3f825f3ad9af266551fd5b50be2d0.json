@@ -1,0 +1,6 @@
+{
+	"address": "0x73d0d6383bd3f825f3ad9af266551fd5b50be2d0",
+	"chainId": 1,
+	"label": "Uniswap v2: Bifrost pzETH/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

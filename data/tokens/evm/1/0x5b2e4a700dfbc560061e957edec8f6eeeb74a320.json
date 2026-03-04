@@ -1,0 +1,11 @@
+{
+	"address": "0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
+	"chainId": 1,
+	"name": "Insolar",
+	"symbol": "INS",
+	"decimals": 10,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Insolar"
+	}
+}

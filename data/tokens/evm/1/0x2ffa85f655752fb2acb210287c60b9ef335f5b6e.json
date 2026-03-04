@@ -1,0 +1,11 @@
+{
+	"address": "0x2ffa85f655752fb2acb210287c60b9ef335f5b6e",
+	"chainId": 1,
+	"name": "Fulcrum WBTC iToken",
+	"symbol": "iWBTC",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Fulcrum WBTC iToken"
+	}
+}

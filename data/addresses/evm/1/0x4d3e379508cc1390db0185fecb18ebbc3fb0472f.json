@@ -1,0 +1,6 @@
+{
+	"address": "0x4d3e379508cc1390db0185fecb18ebbc3fb0472f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BURNAZUKI Pair",
+	"source": ["kleros", "2026-03-03"]
+}

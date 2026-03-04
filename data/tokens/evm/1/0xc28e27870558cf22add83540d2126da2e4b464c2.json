@@ -1,0 +1,11 @@
+{
+	"address": "0xc28e27870558cf22add83540d2126da2e4b464c2",
+	"chainId": 1,
+	"name": "Sashimi",
+	"symbol": "SASHIMI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Sashimi"
+	}
+}

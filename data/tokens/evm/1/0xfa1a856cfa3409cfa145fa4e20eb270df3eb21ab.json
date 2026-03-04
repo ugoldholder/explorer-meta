@@ -1,0 +1,11 @@
+{
+	"address": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
+	"chainId": 1,
+	"name": "IOST",
+	"symbol": "IOST",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "IOST"
+	}
+}

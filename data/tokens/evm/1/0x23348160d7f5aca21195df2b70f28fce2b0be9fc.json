@@ -1,0 +1,11 @@
+{
+	"address": "0x23348160d7f5aca21195df2b70f28fce2b0be9fc",
+	"chainId": 1,
+	"name": "Synthetic FTSE 100 Index",
+	"symbol": "sFTSE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic FTSE 100 Index"
+	}
+}

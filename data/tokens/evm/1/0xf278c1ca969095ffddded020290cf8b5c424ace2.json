@@ -1,0 +1,11 @@
+{
+	"address": "0xf278c1ca969095ffddded020290cf8b5c424ace2",
+	"chainId": 1,
+	"name": "Ruff",
+	"symbol": "RUFF",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ruff"
+	}
+}

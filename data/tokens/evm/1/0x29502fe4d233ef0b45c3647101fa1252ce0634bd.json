@@ -1,0 +1,11 @@
+{
+	"address": "0x29502fe4d233ef0b45c3647101fa1252ce0634bd",
+	"chainId": 1,
+	"name": "Froge Finance",
+	"symbol": "FROGE",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Froge Finance"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xcbd0595113c173ab7746347d0600d390a85a7eea",
+	"chainId": 1,
+	"name": "Ascend",
+	"symbol": "ACE",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ascend"
+	}
+}

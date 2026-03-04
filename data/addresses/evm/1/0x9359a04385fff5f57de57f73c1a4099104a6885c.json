@@ -1,0 +1,6 @@
+{
+	"address": "0x9359a04385fff5f57de57f73c1a4099104a6885c",
+	"chainId": 1,
+	"label": "Sushi v2: WETH/FFPL Pool",
+	"source": ["kleros", "2026-03-03"]
+}

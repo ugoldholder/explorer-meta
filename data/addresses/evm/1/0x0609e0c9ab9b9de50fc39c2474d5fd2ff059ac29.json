@@ -1,0 +1,6 @@
+{
+	"address": "0x0609e0c9ab9b9de50fc39c2474d5fd2ff059ac29",
+	"chainId": 1,
+	"label": "Uniswap v2: Romulus/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

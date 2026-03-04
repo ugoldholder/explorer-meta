@@ -1,0 +1,6 @@
+{
+	"address": "0x7026c7f60e19c9636d886fd5f760826d5c1ff0fa",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BGB Mantle Pair",
+	"source": ["kleros", "2026-03-03"]
+}

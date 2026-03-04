@@ -1,0 +1,6 @@
+{
+	"address": "0x7654ba071d27d2974a6e8f90ad914d3d560f0a12",
+	"chainId": 1,
+	"label": "Uniswap v2: kenzo/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

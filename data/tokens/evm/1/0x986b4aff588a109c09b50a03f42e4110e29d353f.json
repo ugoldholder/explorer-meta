@@ -1,0 +1,11 @@
+{
+	"address": "0x986b4aff588a109c09b50a03f42e4110e29d353f",
+	"chainId": 1,
+	"name": "Curve sETH Pool yVault",
+	"symbol": "yvCurve-sETH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Curve sETH Pool yVault"
+	}
+}

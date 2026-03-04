@@ -1,0 +1,11 @@
+{
+	"address": "0x283d480dfd6921055e9c335fc177bf8cb9c94184",
+	"chainId": 1,
+	"name": "VIX777",
+	"symbol": "VIX",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "VIX777"
+	}
+}

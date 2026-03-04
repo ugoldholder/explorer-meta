@@ -1,0 +1,11 @@
+{
+	"address": "0x0557e0d15aec0b9026dd17aa874fdf7d182a2ceb",
+	"chainId": 1,
+	"name": "CFX Quantum",
+	"symbol": "CFXQ",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CFX Quantum"
+	}
+}

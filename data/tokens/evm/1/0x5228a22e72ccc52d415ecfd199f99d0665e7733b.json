@@ -1,0 +1,11 @@
+{
+	"address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+	"chainId": 1,
+	"name": "pTokens BTC",
+	"symbol": "pBTC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "pTokens BTC"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xa9fe4601811213c340e850ea305481aff02f5b28",
+	"chainId": 1,
+	"name": "WETH yVault",
+	"symbol": "yvWETH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "WETH yVault"
+	}
+}

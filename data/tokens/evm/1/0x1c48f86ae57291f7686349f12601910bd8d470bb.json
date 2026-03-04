@@ -1,0 +1,11 @@
+{
+	"address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+	"chainId": 1,
+	"name": "USDK",
+	"symbol": "USDK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "USDK"
+	}
+}

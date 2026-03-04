@@ -1,0 +1,11 @@
+{
+	"address": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
+	"chainId": 1,
+	"name": "Spores Network",
+	"symbol": "SPO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Spores Network"
+	}
+}

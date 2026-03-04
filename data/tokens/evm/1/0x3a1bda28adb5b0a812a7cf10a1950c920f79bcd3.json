@@ -1,0 +1,11 @@
+{
+	"address": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3",
+	"chainId": 1,
+	"name": "FLIP",
+	"symbol": "FLP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "FLIP"
+	}
+}

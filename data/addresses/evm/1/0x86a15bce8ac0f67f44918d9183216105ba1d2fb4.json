@@ -1,0 +1,6 @@
+{
+	"address": "0x86a15bce8ac0f67f44918d9183216105ba1d2fb4",
+	"chainId": 1,
+	"label": "Sushi v2: USDC/EURB Pool",
+	"source": ["kleros", "2026-03-03"]
+}

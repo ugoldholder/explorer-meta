@@ -1,0 +1,6 @@
+{
+	"address": "0x36e3c1a21674ef375693ddf5a0da1ba52a8122e3",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Kintsugi Pair",
+	"source": ["kleros", "2026-03-03"]
+}

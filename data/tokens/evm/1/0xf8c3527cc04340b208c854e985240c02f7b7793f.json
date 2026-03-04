@@ -1,0 +1,17 @@
+{
+	"address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+	"chainId": 1,
+	"name": "Frontier",
+	"symbol": "FRONT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Frontier: FRONT Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://frontier.xyz/"
+		}
+	]
+}

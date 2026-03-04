@@ -1,0 +1,6 @@
+{
+	"address": "0xa74e7a2482acfe8faeafff04f3e507d948844f96",
+	"chainId": 1,
+	"label": "Uniswap v2: Prometheus/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

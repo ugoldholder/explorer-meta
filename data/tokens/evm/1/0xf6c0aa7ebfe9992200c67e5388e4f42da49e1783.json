@@ -1,0 +1,11 @@
+{
+	"address": "0xf6c0aa7ebfe9992200c67e5388e4f42da49e1783",
+	"chainId": 1,
+	"name": "Psyche",
+	"symbol": "USD1",
+	"decimals": 2,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Psyche"
+	}
+}

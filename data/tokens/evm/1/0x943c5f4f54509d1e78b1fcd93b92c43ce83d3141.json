@@ -1,0 +1,11 @@
+{
+	"address": "0x943c5f4f54509d1e78b1fcd93b92c43ce83d3141",
+	"chainId": 1,
+	"name": "Amphora Protocol",
+	"symbol": "AMPH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Amphora Protocol"
+	}
+}

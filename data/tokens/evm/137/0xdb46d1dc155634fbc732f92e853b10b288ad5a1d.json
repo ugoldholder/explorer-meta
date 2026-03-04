@@ -4,5 +4,6 @@
 	"type": "ERC721",
 	"name": "Lens Protocol Profiles",
 	"symbol": "LENS",
-	"decimals": 0
+	"decimals": 0,
+	"source": ["openscan", "2026-03-03"]
 }

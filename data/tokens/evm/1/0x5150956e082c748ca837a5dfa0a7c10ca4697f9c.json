@@ -1,0 +1,11 @@
+{
+	"address": "0x5150956e082c748ca837a5dfa0a7c10ca4697f9c",
+	"chainId": 1,
+	"name": "Zeedex",
+	"symbol": "ZDEX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Zeedex"
+	}
+}

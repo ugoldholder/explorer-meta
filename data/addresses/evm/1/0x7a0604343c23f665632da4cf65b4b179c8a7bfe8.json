@@ -1,0 +1,6 @@
+{
+	"address": "0x7a0604343c23f665632da4cf65b4b179c8a7bfe8",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Bio Protocol LeverFi Pair",
+	"source": ["kleros", "2026-03-03"]
+}

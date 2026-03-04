@@ -1,0 +1,17 @@
+{
+	"address": "0x72e36d22717e7bd70ac1a148f578b78e05dace73",
+	"chainId": 1,
+	"name": "Nakamigo",
+	"symbol": "MEEGSTR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Nakamigo"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.nftstrategy.fun/strategies/0x72e36d22717e7bd70ac1a148f578b78e05dace73"
+		}
+	]
+}

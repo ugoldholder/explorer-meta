@@ -1,0 +1,6 @@
+{
+	"address": "0x555c57b4fecb303b5dfc3c46cd32db31d7e64348",
+	"chainId": 1,
+	"label": "Uniswap v2: Ringo/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

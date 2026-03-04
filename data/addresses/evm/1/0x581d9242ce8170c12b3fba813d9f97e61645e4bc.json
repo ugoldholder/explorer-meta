@@ -1,0 +1,6 @@
+{
+	"address": "0x581d9242ce8170c12b3fba813d9f97e61645e4bc",
+	"chainId": 1,
+	"label": "Uniswap v2: DeathClock/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

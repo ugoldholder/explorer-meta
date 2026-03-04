@@ -1,0 +1,6 @@
+{
+	"address": "0x96a21fafd82d3b463e0db563b9442dbdddf106b4",
+	"chainId": 1,
+	"label": "Uniswap v2: PWC Stable Coin/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

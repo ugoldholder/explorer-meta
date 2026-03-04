@@ -1,0 +1,6 @@
+{
+	"address": "0x158d748cda08010078904bf949199d1f7fe37677",
+	"chainId": 1,
+	"label": "Uniswap v2: TRISIG/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

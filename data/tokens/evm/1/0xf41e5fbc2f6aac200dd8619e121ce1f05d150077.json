@@ -1,0 +1,17 @@
+{
+	"address": "0xf41e5fbc2f6aac200dd8619e121ce1f05d150077",
+	"chainId": 1,
+	"name": "CRYCASH",
+	"symbol": "CRC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "CryCash: CRC Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://crycash.io/"
+		}
+	]
+}

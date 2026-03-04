@@ -1,0 +1,11 @@
+{
+	"address": "0xed40834a13129509a89be39a9be9c0e96a0ddd71",
+	"chainId": 1,
+	"name": "Warp Finance",
+	"symbol": "WARP",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Warp Finance"
+	}
+}

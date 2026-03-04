@@ -5,5 +5,6 @@
 	"name": "Onchain Gaias",
 	"symbol": "EARLY",
 	"decimals": 0,
-	"totalSupply": 5556
+	"totalSupply": 5556,
+	"source": ["openscan", "2026-03-03"]
 }

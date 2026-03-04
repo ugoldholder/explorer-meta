@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Fetch.ai",
 	"symbol": "FET",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Fetch.ai: FET Token V2"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://fetch.ai/"
+		}
+	]
 }

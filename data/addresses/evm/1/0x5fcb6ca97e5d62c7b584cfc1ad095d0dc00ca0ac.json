@@ -1,0 +1,6 @@
+{
+	"address": "0x5fcb6ca97e5d62c7b584cfc1ad095d0dc00ca0ac",
+	"chainId": 1,
+	"label": "Uniswap v2: Injeetable/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

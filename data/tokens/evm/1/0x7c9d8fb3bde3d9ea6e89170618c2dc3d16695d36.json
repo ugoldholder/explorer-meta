@@ -1,0 +1,11 @@
+{
+	"address": "0x7c9d8fb3bde3d9ea6e89170618c2dc3d16695d36",
+	"chainId": 1,
+	"name": "WhiteRockCasino",
+	"symbol": "WRC",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "WhiteRockCasino"
+	}
+}

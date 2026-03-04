@@ -1,0 +1,11 @@
+{
+	"address": "0x6fdb90535c09b82825e38d41edf5e66211d4b442",
+	"chainId": 1,
+	"name": "Yield Magnet",
+	"symbol": "MAGNET",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Yield Magnet"
+	}
+}

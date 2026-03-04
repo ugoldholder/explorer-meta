@@ -1,0 +1,17 @@
+{
+	"address": "0x92b7c1c801ca615aa845238d5fe4e50712358fa7",
+	"chainId": 1,
+	"name": "Pridexa",
+	"symbol": "PRDX",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Pridexa"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://pridexa.com/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x7a8ee3887fe3707f7cbedf778538457a5ada3640",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/BLUEFROG Pair",
+	"source": ["kleros", "2026-03-03"]
+}

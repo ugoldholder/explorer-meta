@@ -1,0 +1,17 @@
+{
+	"address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+	"chainId": 1,
+	"name": "Liquity",
+	"symbol": "LQTY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Liquity: LQTY Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.liquity.org/"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xcb98f42221b2c251a4e74a1609722ee09f0cc08e",
+	"chainId": 1,
+	"name": "Synthetic Inverse Dash",
+	"symbol": "iDASH",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Inverse Dash"
+	}
+}

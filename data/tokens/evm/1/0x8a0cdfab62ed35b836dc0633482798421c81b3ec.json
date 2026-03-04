@@ -1,0 +1,11 @@
+{
+	"address": "0x8a0cdfab62ed35b836dc0633482798421c81b3ec",
+	"chainId": 1,
+	"name": "Spherium",
+	"symbol": "SPHRI",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Spherium"
+	}
+}

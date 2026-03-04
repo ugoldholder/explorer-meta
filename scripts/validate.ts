@@ -582,9 +582,10 @@ if (fs.existsSync(eventsDir)) {
 					} else {
 						// Additional validation: check topic0 hash format
 						const additionalErrors: string[] = [];
-						for (const topic0 of Object.keys(content)) {
-							if (!/^0x[a-f0-9]{64}$/.test(topic0)) {
-								additionalErrors.push(`Invalid topic0 hash format: ${topic0}`);
+						for (const key of Object.keys(content)) {
+							if (key === "source") continue;
+							if (!/^0x[a-f0-9]{64}$/.test(key)) {
+								additionalErrors.push(`Invalid topic0 hash format: ${key}`);
 							}
 						}
 

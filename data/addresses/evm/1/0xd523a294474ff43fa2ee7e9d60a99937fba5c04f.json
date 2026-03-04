@@ -1,0 +1,6 @@
+{
+	"address": "0xd523a294474ff43fa2ee7e9d60a99937fba5c04f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/StealthToken Pair",
+	"source": ["kleros", "2026-03-03"]
+}

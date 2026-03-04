@@ -1,0 +1,6 @@
+{
+	"address": "0x86e06e485809bd49306fc570bd85a178f178fb99",
+	"chainId": 1,
+	"label": "Uniswap v2: AntiTwoZero/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

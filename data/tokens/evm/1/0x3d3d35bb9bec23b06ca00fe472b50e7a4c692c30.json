@@ -1,0 +1,11 @@
+{
+	"address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+	"chainId": 1,
+	"name": "Vidya",
+	"symbol": "VIDYA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Vidya"
+	}
+}

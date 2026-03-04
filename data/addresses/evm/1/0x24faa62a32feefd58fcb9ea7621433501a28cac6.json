@@ -1,0 +1,6 @@
+{
+	"address": "0x24faa62a32feefd58fcb9ea7621433501a28cac6",
+	"chainId": 1,
+	"label": "Uniswap v2: Clippy/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

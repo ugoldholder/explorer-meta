@@ -1,0 +1,6 @@
+{
+	"address": "0x5dd230f81bd77cc1134a6994e35fe0b48be115c5",
+	"chainId": 1,
+	"label": "Uniswap v2: DDOS/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

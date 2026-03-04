@@ -1,0 +1,11 @@
+{
+	"address": "0x8a8079c7149b8a1611e5c5d978dca3be16545f83",
+	"chainId": 1,
+	"name": "Synthetic Inverse Cardano",
+	"symbol": "iADA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Synthetic Inverse Cardano"
+	}
+}

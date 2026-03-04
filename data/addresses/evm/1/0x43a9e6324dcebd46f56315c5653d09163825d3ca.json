@@ -1,0 +1,6 @@
+{
+	"address": "0x43a9e6324dcebd46f56315c5653d09163825d3ca",
+	"chainId": 1,
+	"label": "PancakeSwap v3: ARMCP/WETH Pool",
+	"source": ["kleros", "2026-03-03"]
+}

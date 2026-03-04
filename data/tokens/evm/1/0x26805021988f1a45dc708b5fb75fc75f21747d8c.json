@@ -1,0 +1,11 @@
+{
+	"address": "0x26805021988f1a45dc708b5fb75fc75f21747d8c",
+	"chainId": 1,
+	"name": "xGamma",
+	"symbol": "xGAMMA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "xGamma"
+	}
+}

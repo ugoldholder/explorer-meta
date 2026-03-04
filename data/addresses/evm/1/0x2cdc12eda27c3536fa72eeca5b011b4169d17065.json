@@ -1,0 +1,6 @@
+{
+	"address": "0x2cdc12eda27c3536fa72eeca5b011b4169d17065",
+	"chainId": 1,
+	"label": "Uniswap v2: LVMH/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

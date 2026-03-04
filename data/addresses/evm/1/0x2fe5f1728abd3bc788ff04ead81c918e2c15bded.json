@@ -1,0 +1,6 @@
+{
+	"address": "0x2fe5f1728abd3bc788ff04ead81c918e2c15bded",
+	"chainId": 1,
+	"label": "Uniswap v2: RFLINK/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

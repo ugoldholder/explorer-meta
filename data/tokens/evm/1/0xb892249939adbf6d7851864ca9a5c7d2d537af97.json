@@ -1,0 +1,11 @@
+{
+	"address": "0xb892249939adbf6d7851864ca9a5c7d2d537af97",
+	"chainId": 1,
+	"name": "Gambler Shiba",
+	"symbol": "GSHIBA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Gambler Shiba"
+	}
+}

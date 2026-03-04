@@ -1,0 +1,11 @@
+{
+	"address": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+	"chainId": 1,
+	"name": "LATOKEN",
+	"symbol": "LA",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "LATOKEN"
+	}
+}

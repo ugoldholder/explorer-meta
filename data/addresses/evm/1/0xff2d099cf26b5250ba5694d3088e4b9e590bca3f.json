@@ -1,0 +1,6 @@
+{
+	"address": "0xff2d099cf26b5250ba5694d3088e4b9e590bca3f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Groundhog Pair",
+	"source": ["kleros", "2026-03-03"]
+}

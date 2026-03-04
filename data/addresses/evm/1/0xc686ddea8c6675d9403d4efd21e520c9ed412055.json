@@ -1,0 +1,6 @@
+{
+	"address": "0xc686ddea8c6675d9403d4efd21e520c9ed412055",
+	"chainId": 1,
+	"label": "Uniswap v2: Rule of 72/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

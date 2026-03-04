@@ -1,0 +1,17 @@
+{
+	"address": "0x17837004ea685690b32dbead02a274ec4333a26a",
+	"chainId": 1,
+	"name": "Bear Inu",
+	"symbol": "BEAR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Bear Inu"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://bearinu.org/"
+		}
+	]
+}

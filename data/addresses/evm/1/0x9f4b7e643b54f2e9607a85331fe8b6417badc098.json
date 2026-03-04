@@ -1,0 +1,6 @@
+{
+	"address": "0x9f4b7e643b54f2e9607a85331fe8b6417badc098",
+	"chainId": 1,
+	"label": "Uniswap v2: Кот-смурфетта/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0xfeac9b5593ccbfc8d848f88e97b0f3ee10c8cf0f",
+	"chainId": 1,
+	"label": "Uniswap v2: USDC/MORPHO Pair",
+	"source": ["kleros", "2026-03-03"]
+}

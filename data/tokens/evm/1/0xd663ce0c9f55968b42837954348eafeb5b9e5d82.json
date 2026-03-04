@@ -1,0 +1,17 @@
+{
+	"address": "0xd663ce0c9f55968b42837954348eafeb5b9e5d82",
+	"chainId": 1,
+	"name": "Pepe by Jason Furie",
+	"symbol": "PEPE",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Pepe by Jason Furie"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://pepebyjasonfurie.vip/"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+	"chainId": 1,
+	"name": "HarryPotterObamaSonic10Inu",
+	"symbol": "BITCOIN",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "HarryPotterObamaSonic10Inu: BITCOIN Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://hpos10i.com/"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x89310a3bf76e1c3c60628fb406ff8dd711f8b1ce",
+	"chainId": 1,
+	"label": "Uniswap v2: SNORT/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

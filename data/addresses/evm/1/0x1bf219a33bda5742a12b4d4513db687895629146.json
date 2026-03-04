@@ -1,0 +1,6 @@
+{
+	"address": "0x1bf219a33bda5742a12b4d4513db687895629146",
+	"chainId": 1,
+	"label": "Enzyme: bridge low risk test Vault",
+	"source": ["kleros", "2026-03-03"]
+}

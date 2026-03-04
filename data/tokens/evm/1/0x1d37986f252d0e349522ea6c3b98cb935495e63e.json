@@ -1,0 +1,11 @@
+{
+	"address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e",
+	"chainId": 1,
+	"name": "ChartEx",
+	"symbol": "CHART",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "ChartEx"
+	}
+}

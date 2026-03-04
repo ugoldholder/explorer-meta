@@ -1,0 +1,17 @@
+{
+	"address": "0xb0ac2b5a73da0e67a8e5489ba922b3f8d582e058",
+	"chainId": 1,
+	"name": "Shiro Neko",
+	"symbol": "SHIRO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "SHIRO: Shiro Neko"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://www.shironeko.gg/"
+		}
+	]
+}

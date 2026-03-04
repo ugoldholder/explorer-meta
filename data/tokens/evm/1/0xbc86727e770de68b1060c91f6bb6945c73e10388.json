@@ -1,0 +1,11 @@
+{
+	"address": "0xbc86727e770de68b1060c91f6bb6945c73e10388",
+	"chainId": 1,
+	"name": "Ink Protocol",
+	"symbol": "XNK",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Ink Protocol"
+	}
+}

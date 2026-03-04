@@ -1,0 +1,6 @@
+{
+	"address": "0xc27ce44fb230277c7773082b8b6425dc30e0c18f",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/Frappucino Pair",
+	"source": ["kleros", "2026-03-03"]
+}

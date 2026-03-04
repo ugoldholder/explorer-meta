@@ -1,0 +1,11 @@
+{
+	"address": "0xc50ef449171a51fbeafd7c562b064b6471c36caa",
+	"chainId": 1,
+	"name": "Zombie Inu",
+	"symbol": "ZINU",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Zombie Inu"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5",
+	"chainId": 1,
+	"name": "renFIL",
+	"symbol": "renFIL",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "renFIL"
+	}
+}

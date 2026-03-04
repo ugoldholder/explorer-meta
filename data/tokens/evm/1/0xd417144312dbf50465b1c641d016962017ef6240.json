@@ -1,0 +1,11 @@
+{
+	"address": "0xd417144312dbf50465b1c641d016962017ef6240",
+	"chainId": 1,
+	"name": "Covalent",
+	"symbol": "CQT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Covalent"
+	}
+}

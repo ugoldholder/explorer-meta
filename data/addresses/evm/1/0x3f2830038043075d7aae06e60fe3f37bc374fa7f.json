@@ -1,0 +1,6 @@
+{
+	"address": "0x3f2830038043075d7aae06e60fe3f37bc374fa7f",
+	"chainId": 1,
+	"label": "Uniswap v2: Pathless/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

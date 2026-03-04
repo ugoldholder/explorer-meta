@@ -1,0 +1,6 @@
+{
+	"address": "0x88ebf55b8acc5e2af7c6d16d25942ed416a45f08",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TATEX Pair",
+	"source": ["kleros", "2026-03-03"]
+}

@@ -1,0 +1,17 @@
+{
+	"address": "0x6cacdb97e3fc8136805a9e7c342d866ab77d0957",
+	"chainId": 1,
+	"name": "Swapr",
+	"symbol": "SWPR",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Swapr: SWPR Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://swapr.eth.limo/"
+		}
+	]
+}

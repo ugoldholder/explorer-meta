@@ -1,0 +1,11 @@
+{
+	"address": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+	"chainId": 1,
+	"name": "Non-Fungible Yearn",
+	"symbol": "NFY",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Non-Fungible Yearn"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"address": "0x45bc128e7d299d5bb5b0b25c3576b8bb2018bfd5",
+	"chainId": 1,
+	"label": "Uniswap v2: DAI/SOV Pair",
+	"source": ["kleros", "2026-03-03"]
+}

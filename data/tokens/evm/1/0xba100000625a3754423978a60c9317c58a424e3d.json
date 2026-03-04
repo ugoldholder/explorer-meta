@@ -3,5 +3,15 @@
 	"chainId": 1,
 	"name": "Balancer",
 	"symbol": "BAL",
-	"decimals": 18
+	"decimals": 18,
+	"source": ["openscan", "2026-03-03"],
+	"project": {
+		"name": "Balancer: BAL Token"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://balancer.fi/"
+		}
+	]
 }

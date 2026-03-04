@@ -1,0 +1,6 @@
+{
+	"address": "0x6e8f048fb38f61666d99be5c7fa13a12d38688ca",
+	"chainId": 1,
+	"label": "Uniswap v2: Blackhole/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

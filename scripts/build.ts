@@ -112,6 +112,7 @@ function buildAddresses(): number {
 				address: string;
 				label: string;
 				supporter?: string;
+				source?: [string, string];
 			}[] = [];
 
 			for (const addressFile of addressFiles) {
@@ -131,6 +132,7 @@ function buildAddresses(): number {
 						address: (addr.address as string).toLowerCase(),
 						label: addr.label as string,
 						...(addr.supporter && { supporter: addr.supporter as string }),
+						...(addr.source && { source: addr.source as [string, string] }),
 					});
 				} catch (e) {
 					console.warn(`Warning: Failed to parse ${srcPath}: ${e}`);
@@ -209,7 +211,9 @@ function buildEvents(): number {
 				// Count events
 				try {
 					const events = JSON.parse(fs.readFileSync(srcPath, "utf-8"));
-					const count = Object.keys(events).length;
+					const count = Object.keys(events).filter(
+						(k) => k !== "source",
+					).length;
 					if (eventFile.name === "common.json") {
 						commonCount = count;
 					} else {
@@ -269,6 +273,7 @@ function buildTokens(): number {
 				symbol: string;
 				decimals: number;
 				type?: string;
+				source?: [string, string];
 			}[] = [];
 
 			for (const tokenFile of tokenFiles) {
@@ -289,6 +294,7 @@ function buildTokens(): number {
 						symbol: token.symbol as string,
 						decimals: token.decimals as number,
 						...(token.type && { type: token.type as string }),
+						...(token.source && { source: token.source as [string, string] }),
 					});
 				} catch (e) {
 					console.warn(`Warning: Failed to parse ${srcPath}: ${e}`);

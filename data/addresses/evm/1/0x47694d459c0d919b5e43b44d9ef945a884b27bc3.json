@@ -1,0 +1,6 @@
+{
+	"address": "0x47694d459c0d919b5e43b44d9ef945a884b27bc3",
+	"chainId": 1,
+	"label": "Uniswap v2: DiamondFactory/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

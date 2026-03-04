@@ -1,0 +1,6 @@
+{
+	"address": "0x07e03efa0539dcede0a97f391207b0aae9475c4a",
+	"chainId": 1,
+	"label": "Uniswap v2: Ripple USD Pegged WRLUSD1/WETH Pair",
+	"source": ["kleros", "2026-03-03"]
+}

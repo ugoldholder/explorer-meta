@@ -1,0 +1,11 @@
+{
+	"address": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037",
+	"chainId": 1,
+	"name": "Sentinel",
+	"symbol": "SENT",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Sentinel"
+	}
+}

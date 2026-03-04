@@ -1,0 +1,11 @@
+{
+	"address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+	"chainId": 1,
+	"name": "XSGD",
+	"symbol": "XSGD",
+	"decimals": 6,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "XSGD"
+	}
+}

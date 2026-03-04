@@ -1,0 +1,6 @@
+{
+	"address": "0x10bddbbb9df4258f03a19b07d6c57ab52c43c2c6",
+	"chainId": 1,
+	"label": "Uniswap v2: WETH/TokyoDoge Pair",
+	"source": ["kleros", "2026-03-03"]
+}

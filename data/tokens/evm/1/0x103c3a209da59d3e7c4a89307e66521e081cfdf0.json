@@ -1,0 +1,11 @@
+{
+	"address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+	"chainId": 1,
+	"name": "Genesis Vision",
+	"symbol": "GVT",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Genesis Vision"
+	}
+}

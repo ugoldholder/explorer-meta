@@ -1,0 +1,17 @@
+{
+	"address": "0xe7dee4823ee18f1347f1cf7997f70b94efde2e1f",
+	"chainId": 1,
+	"name": "FORM",
+	"symbol": "FORM",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "FORM"
+	},
+	"links": [
+		{
+			"name": "Website",
+			"url": "https://form.network/token"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"address": "0x8003c49f6ebacddc493ea47cab45e892d1b638a1",
+	"chainId": 1,
+	"name": "AmpleGold",
+	"symbol": "AMPLG",
+	"decimals": 9,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "AmpleGold"
+	}
+}

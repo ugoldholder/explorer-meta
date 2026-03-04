@@ -1,0 +1,11 @@
+{
+	"address": "0x2c540c3c7be7af98278dc6963e092cd450009d1f",
+	"chainId": 1,
+	"name": "Sparko",
+	"symbol": "SPARKO",
+	"decimals": 18,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Sparko"
+	}
+}

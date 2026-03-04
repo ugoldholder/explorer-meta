@@ -1,0 +1,11 @@
+{
+	"address": "0xbee9cf658702527b0acb2719c1faa29edc006a92",
+	"chainId": 1,
+	"name": "Strike ETH",
+	"symbol": "sETH",
+	"decimals": 8,
+	"source": ["kleros", "2026-03-03"],
+	"project": {
+		"name": "Strike ETH"
+	}
+}

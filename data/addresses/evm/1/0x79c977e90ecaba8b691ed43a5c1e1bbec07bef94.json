@@ -1,0 +1,6 @@
+{
+	"address": "0x79c977e90ecaba8b691ed43a5c1e1bbec07bef94",
+	"chainId": 1,
+	"label": "PancakeSwap v3: USDC/USDT Pool",
+	"source": ["kleros", "2026-03-03"]
+}
