@@ -1,0 +1,36 @@
+{
+  "address": "0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664",
+  "chainId": 1,
+  "name": "UGOLD Token",
+  "symbol": "UGOLD",
+  "decimals": 18,
+  "subscription": {
+    "tier": 3,
+    "expiresAt": "2099-12-31"
+  },
+  "verified": true,
+  "logo": "assets/tokens/1/0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664.svg",
+  "profile": "profiles/tokens/1/0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664.md",
+  "project": {
+    "name": "UGOLD",
+    "description": "UGOLD ecosystem token"
+  },
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://ugold.cc",
+      "description": "UGOLD official website"
+    },
+    {
+      "name": "Wallet",
+      "url": "https://ugold.cc/wallet",
+      "description": "UGOLD Wallet"
+    },
+    {
+      "name": "Explorer",
+      "url": "https://explorer.ugold.cc/#/1/address/0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664",
+      "description": "UGOLDscan token page"
+    }
+  ],
+  "tags": ["ugold", "erc20"]
+}

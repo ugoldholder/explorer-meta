@@ -1,0 +1,34 @@
+{
+  "id": "ugoldscan",
+  "name": "UGOLDscan",
+  "type": "infrastructure",
+  "description": "UGOLD blockchain explorer and metadata platform",
+  "subscription": {
+    "tier": 3,
+    "expiresAt": "2099-12-31"
+  },
+  "logo": "assets/organizations/ugold-inc-icon.svg",
+  "profile": "profiles/organizations/ugoldscan.md",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://ugold.cc",
+      "description": "UGOLD official website"
+    },
+    {
+      "name": "Explorer",
+      "url": "https://explorer.ugold.cc",
+      "description": "UGOLDscan explorer"
+    },
+    {
+      "name": "Wallet",
+      "url": "https://ugold.cc/wallet",
+      "description": "UGOLD Wallet"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/ugoldcc",
+      "description": "UGOLD social"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ugoldscan",
+  "name": "UGOLDscan",
+  "type": "dapp",
+  "description": "UGOLD multi-chain blockchain explorer",
+  "subscription": {
+    "tier": 3,
+    "expiresAt": "2099-12-31"
+  },
+  "verified": true,
+  "logo": "assets/apps/ugold-inc-icon.svg",
+  "profile": "profiles/apps/ugoldscan.md",
+  "networks": [1, 10, 56, 137, 8453, 42161, 11155111, 31337],
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://explorer.ugold.cc",
+      "description": "UGOLDscan explorer"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/ugoldholder/reth-proxmox-stack",
+      "description": "Infrastructure repository"
+    },
+    {
+      "name": "Wallet",
+      "url": "https://ugold.cc/wallet",
+      "description": "UGOLD Wallet"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/ugoldcc",
+      "description": "UGOLD social"
+    }
+  ],
+  "tags": ["explorer", "ugold", "infrastructure", "open-source"]
+}
